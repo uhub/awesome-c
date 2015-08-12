@@ -1,6 +1,6 @@
 #awesome-c
 
-A curated list of awesome Go frameworks, libraries and software.
+A curated list of awesome c frameworks, libraries and software.
 
 * [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 * [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
