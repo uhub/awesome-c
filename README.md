@@ -671,7 +671,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [traviscross/mtr](https://github.com/traviscross/mtr) - Official repository for mtr, a network diagnostic tool
 * [mreiferson/php-wkhtmltox](https://github.com/mreiferson/php-wkhtmltox) - PHP bindings for libwkhtmltox
 * [facebook/liblogfaf](https://github.com/facebook/liblogfaf) - A library that logs messages using non-blocking UDP datagrams.
-* [facebook/liblogfaf](https://github.com/facebook/liblogfaf) - A library that logs messages using non-blocking UDP datagrams.
 * [obdev/v-usb](https://github.com/obdev/v-usb) - A Firmware-Only USB implementation for Atmel's AVR Microcontrollers
 * [rsms/sol](https://github.com/rsms/sol) - A sunny little virtual machine
 * [Kazade/kazmath](https://github.com/Kazade/kazmath) - A C math library targeted at games
@@ -699,7 +698,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [fnordware/AdobeWebM](https://github.com/fnordware/AdobeWebM) - WebM plug-ins for Adobe programs
 * [citusdata/postgres_vectorization_test](https://github.com/citusdata/postgres_vectorization_test) - Vectorized executor to speed up PostgreSQL
 * [unbit/spockfs](https://github.com/unbit/spockfs) - SpockFS is an HTTP based network filesystem
-* [angband/angband](https://github.com/angband/angband) - Official Git repository for Angband
 * [angband/angband](https://github.com/angband/angband) - Official Git repository for Angband
 * [Laurelai/decompile-dump](https://github.com/Laurelai/decompile-dump) - Partial stuxnet source decompiled with hexrays, if anyone has better decompile tools feel free to contribute better versions.
 * [stevedekorte/vertexdb](https://github.com/stevedekorte/vertexdb) - C graph db server using tokyocabinet & libevent
