@@ -2,8 +2,883 @@
 
 A curated list of awesome C frameworks, libraries and software.
 
-* [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 * [antirez/redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+* [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
+* [bagder/curl](https://github.com/bagder/curl) - Curl is a tool and libcurl is a library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+* [offensive-security/exploit-database](https://github.com/offensive-security/exploit-database) - The official Exploit Database repository
+* [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data
+* [tj/histo](https://github.com/tj/histo) - beautiful charts in the terminal for static or streaming data
+* [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
+* [sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit) - The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence.
+* [libpd/libpd](https://github.com/libpd/libpd) - Pure Data embeddable audio synthesis library
+* [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like sed, awk, cut, join, and sort for name-indexed data such as CSV
+* [Rdatatable/data.table](https://github.com/Rdatatable/data.table) - R's data.table package extends data.frame. More info:
+* [concurrencykit/ck](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems.
+* [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka
+* [vkholodkov/nginx-upload-module](https://github.com/vkholodkov/nginx-upload-module) - A module for nginx web server for handling file uploads using multipart/form-data encoding (RFC 1867).
+* [laruence/yac](https://github.com/laruence/yac) - A fast shared memory user data cache for PHP
+* [aggregateknowledge/postgresql-hll](https://github.com/aggregateknowledge/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type
+* [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms) - A library of common data structures and algorithms written in C.
+* [openlink/virtuoso-opensource](https://github.com/openlink/virtuoso-opensource) - Virtuoso is a scalable cross-platform server that combines Relational, Graph, and Document Data Management with Web Application Server and Web Services Platform functionality.
+* [samtools/samtools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data
+* [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
+* [atomicobject/heatshrink](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems
+* [xxorde/librekinect](https://github.com/xxorde/librekinect) - Depth data from a kinect sensor! Small and fast kernel driver. Also for embedded devices like the raspberry pi!
+* [Blosc/bcolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.
+* [openresty/sregex](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine matching on large data streams
+* [pgbovine/CDE](https://github.com/pgbovine/CDE) - CDE: Code, Data, and Environment packaging for Linux
+* [carljv/Will_it_Python](https://github.com/carljv/Will_it_Python) - Translating R Data Analyses to Python
+* [JakSprats/Alchemy-Database](https://github.com/JakSprats/Alchemy-Database) - Hybrid Relational-Database/NOSQL-Datastore
+* [parallella/pal](https://github.com/parallella/pal) - An optimized C library for math, parallel processing and data movement
+* [ericfischer/datamaps](https://github.com/ericfischer/datamaps) - Indexes points and lines and generates map tiles to display them
+* [erikd/libsndfile](https://github.com/erikd/libsndfile) - A C library for reading and writing sound files containing sampled audio data..
+* [jedisct1/Pincaster](https://github.com/jedisct1/Pincaster) - A fast persistent nosql database with a HTTP/JSON interface, not only for geographical data.
+* [samtools/htslib](https://github.com/samtools/htslib) - C library for high-throughput sequencing data formats
+* [acmeism/RosettaCodeData](https://github.com/acmeism/RosettaCodeData) - RosettaCode Data Project
+* [moinakg/pcompress](https://github.com/moinakg/pcompress) - A Parallelized Data Deduplication and Compression utility
+* [x86-64/frozen](https://github.com/x86-64/frozen) - Data management and processing library
+* [citusdata/mongo_fdw](https://github.com/citusdata/mongo_fdw) - PostgreSQL foreign data wrapper for MongoDB
+* [stevedekorte/basekit](https://github.com/stevedekorte/basekit) - C based OO portable data structure library
+* [danomatika/ofxPd](https://github.com/danomatika/ofxPd) - (maintained) a Pure Data addon for OpenFrameworks using libpd
+* [franckverrot/holycorn](https://github.com/franckverrot/holycorn) - PostgreSQL multi-purpose Ruby data wrapper
+* [zhemao/libds](https://github.com/zhemao/libds) - Simple, memory-safe data-structures in C.
+* [clarkgrubb/data-tools](https://github.com/clarkgrubb/data-tools) - File format conversion tools
+* [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
+* [bananita/MBFaker](https://github.com/bananita/MBFaker) - Objective-C fake data generator
+* [naftaliharris/lazysort](https://github.com/naftaliharris/lazysort) - A partially and lazily sorted list data structure for Python
+* [johnj/llds](https://github.com/johnj/llds) - Low-Level Data Structure - efficient data structures, and fast data access in the 2.6/3.0 kernel
+* [lh3/bioawk](https://github.com/lh3/bioawk) - BWK awk modified for biological data
+* [Cr4sh/WindowsRegistryRootkit](https://github.com/Cr4sh/WindowsRegistryRootkit) - Kernel rootkit, that lives inside the Windows registry values data
+* [EnterpriseDB/mysql_fdw](https://github.com/EnterpriseDB/mysql_fdw) - PostgreSQL foreign data wrapper for MySQL
+* [rampantpixels/foundation_lib](https://github.com/rampantpixels/foundation_lib) - Cross-platform public domain foundation library in C providing basic support data types and functions to write applications and games in a platform-independent fashion.
+* [dbro/csvquote](https://github.com/dbro/csvquote) - Enables common unix utlities like cut, head, tail to work correctly with csv data containing delimiters and newlines
+* [theck01/offbrand_lib](https://github.com/theck01/offbrand_lib) - A collecton of generic reference counted data structures, tools to create compatible C style classes, and demo applications
+* [reverbrain/eblob](https://github.com/reverbrain/eblob) - Eblob is an append-only low-level IO library, which saves data in blob files. Created as low-level backend for elliptics
+* [mjording/ttyrec](https://github.com/mjording/ttyrec) - ttyrec is a tty recorder. Recorded data can be played back with the included ttyplay command. ttyrec is just a derivative of script command for recording timing information with microsecond accuracy as well. It can record emacs -nw, vi, lynx, or any programs running on tty.
+* [siganakis/tny](https://github.com/siganakis/tny) - Tiny data structures that pack a punch!
+* [xjdrew/lua-zset](https://github.com/xjdrew/lua-zset) - lua data structure same as redis sorted set
+* [searchdaimon/enterprise-search](https://github.com/searchdaimon/enterprise-search) - An open source search engine for corporate data and websites.
+* [citusdata/json_fdw](https://github.com/citusdata/json_fdw) - PostgreSQL extension which implements a Foreign Data Wrapper (FDW) for JSON files.
+* [opendp/dpdk-odp](https://github.com/opendp/dpdk-odp) - Open data plane on dpdk, TCP/IP stack for dpdk.
+* [ebassi/graphene](https://github.com/ebassi/graphene) - A thin layer of graphic data types
+* [dpage/redis_fdw](https://github.com/dpage/redis_fdw) - A PostgreSQL foreign data wrapper for Redis
+* [danomatika/PdParty](https://github.com/danomatika/PdParty) - (work-in-progress) Run your Pure Data patches on iOS with native GUIs emulated
+* [fluent/nginx-fluentd-module](https://github.com/fluent/nginx-fluentd-module) - Nginx module for Fluentd data collector
+* [cudpp/cudpp](https://github.com/cudpp/cudpp) - CUDA Data Parallel Primitives Library
+* [ericfischer/geotools](https://github.com/ericfischer/geotools) - Tools for working with geographic data
+* [preshing/CompareIntegerMaps](https://github.com/preshing/CompareIntegerMaps) - Generates benchmark data for two different data structures, then renders some graphs.
+* [drotiro/postpic](https://github.com/drotiro/postpic) - PostPic is an extension for the open source dbms PostgreSQL that enables image processing inside the database, like PostGIS does for spatial data. It adds the new 'image' type to the SQL, and several functions to process images and to extract their attributes.
+* [rfk/tnetstring](https://github.com/rfk/tnetstring) - data serialization using typed netstrings
+* [mysqludf/lib_mysqludf_json](https://github.com/mysqludf/lib_mysqludf_json) - A UDF library of functions to map relational data to the JSON format.
+* [cloudwu/lua-db](https://github.com/cloudwu/lua-db) - A database shared data among multi-states .
+* [pod2g/sendrawpdu](https://github.com/pod2g/sendrawpdu) - CLI tool to send raw SMS PDU data to the iPhone 4 baseband
+* [ginsweater/gif-h](https://github.com/ginsweater/gif-h) - Simple C++ one-header library for the creation of animated GIFs from image data.
+* [dawnbreaks/mysql2redis](https://github.com/dawnbreaks/mysql2redis) -    A high performance mysql udf  to sync the newly modified/inserted data from mysql to redis cache.
+* [applidium/ADZipURLProtocol](https://github.com/applidium/ADZipURLProtocol) - Open static website or access data from a zip archive
+* [IlyaGrebnov/libbsc](https://github.com/IlyaGrebnov/libbsc) - High performance block-sorting data compression library
+* [rentzsch/stressdrive](https://github.com/rentzsch/stressdrive) - tool to completely fill a drive with random data and ensure it can be entirely correctly read back
+* [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Data Collector for IoT & Embedded Linux
+* [ComputerNerd/ov7670-no-ram-arduino-uno](https://github.com/ComputerNerd/ov7670-no-ram-arduino-uno) - Allows you to use a non fifo ov7670 on the arudino uno without external spi ram like other examples. Sends the data to UART.
+* [openyou/libomron](https://github.com/openyou/libomron) - Libraries for accessing data from Omron medical devices
+* [Broadcom-Switch/of-dpa](https://github.com/Broadcom-Switch/of-dpa) - OpenFlow Data Plane Abstraction
+* [pramsey/pgsql-ogr-fdw](https://github.com/pramsey/pgsql-ogr-fdw) - PostgreSQL foreign data wrapper for OGR
+* [krieger-od/whdd](https://github.com/krieger-od/whdd) - HDD diagnostic and data recovery tool for Linux
+* [cloudflare/lua-upstream-cache-nginx-module](https://github.com/cloudflare/lua-upstream-cache-nginx-module) - Nginx module for ngx_lua to provide Lua API to inspect upstream http cache meta-data
+* [v3l0c1r4pt0r/delz](https://github.com/v3l0c1r4pt0r/delz) - Polish vehicle registration certificate data decompression tool
+* [rofl0r/libulz](https://github.com/rofl0r/libulz) - a collection of useful functions and data structures to create C apps faster. focus on simplicity, ability to statically link and minimal binary size.
+* [cmatsuoka/libxmp](https://github.com/cmatsuoka/libxmp) - Libxmp is a library that renders module files to PCM data.
+* [mozilla-services/lua_sandbox](https://github.com/mozilla-services/lua_sandbox) - Generic Lua sandbox for dynamic data analysis
+* [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL extension that provides a Foreign Data Wrapper for easy and efficient access to Oracle databases, including pushdown of WHERE conditions as well as comprehensive EXPLAIN and ANALYZE support.
+* [bahbka/pebble-my-data](https://github.com/bahbka/pebble-my-data) - Pebble watches application to show only your own data, prepared on your own server.
+* [JuliaLang/utf8proc](https://github.com/JuliaLang/utf8proc) - a clean C library for processing UTF-8 Unicode data
+* [wangkuiwu/datastructs_and_algorithm](https://github.com/wangkuiwu/datastructs_and_algorithm) - Data struct and algorithm introduction and implementation in C/C++/Java.
+* [snaga/xlogdump](https://github.com/snaga/xlogdump) - A tool for extracting data from the PostgreSQL's write ahead logs.
+* [orangeduck/json2c](https://github.com/orangeduck/json2c) - Convert JSON to C data literals
+* [MeetMe/dump_fdw](https://github.com/MeetMe/dump_fdw) - Foreign Data Wrapper for Postgres Dump Files
+* [pd-l2ork/pd](https://github.com/pd-l2ork/pd) - L2Ork version of Pure-Data real-time digital signal processing language developed and maintained at DISIS, Virginia Tech
+* [nec-postgres/tdeforpg](https://github.com/nec-postgres/tdeforpg) - PostgreSQL Transparent Data Encryption tool development
+* [fmela/libdict](https://github.com/fmela/libdict) - C library of key-value data structures with an object-oriented interface.
+* [cloudwu/atomdict](https://github.com/cloudwu/atomdict) - A data structure for data exchange between multi lua states.
+* [davidreynolds/algorithms](https://github.com/davidreynolds/algorithms) - A repository of assorted algorithms and data structures.
+* [atks/vt](https://github.com/atks/vt) - A tool set for short variant discovery in genetic sequence data.
+* [shadeslayer/libnice](https://github.com/shadeslayer/libnice) - Libnice is an implementation of the IETF's Interactive Connectivity Establishment (ICE) standard (RFC 5245) and the Session Traversal Utilities for NAT (STUN) standard (RFC 5389).  It provides a GLib-based library, libnice and a Glib-free library, libstun as well as GStreamer elements.  ICE is useful for applications that want to establish peer-to-peer UDP data streams. It automates the process of traversing NATs and provides security against some attacks. It also allows applications to create reliable streams using a TCP over UDP layer.  Existing standards that use ICE include Session Initiation Protocol (SIP) and XMPP Jingle.
+* [urcu/userspace-rcu](https://github.com/urcu/userspace-rcu) - This repo is a mirror of the official lttng-tools git found at git://git.lttng.org/userspace-rcu.git. liburcu is a LGPLv2.1 userspace RCU (read-copy-update) library. This data synchronization library provides read-side access which scales linearly with the number of cores.
+* [ggasoftware/indigo](https://github.com/ggasoftware/indigo) - Indigo: a cheminformatics toolkit. Bingo: RDBMS data cartridge for Oracle, MS SQL Server, and PostgreSQL
+* [pure-data/pure-data](https://github.com/pure-data/pure-data) - Pure Data - tracking Miller's SourceForge git repository (also used by libpd)
+* [levle/rdesktop-fuzzer](https://github.com/levle/rdesktop-fuzzer) - Modified rdesktop for mitm udp proxy fuzzer of pre-crypto data
+* [dcjones/quip](https://github.com/dcjones/quip) - Compressing next-generation sequencing data with extreme prejudice.
+* [Parsely/python-pds](https://github.com/Parsely/python-pds) - Toy Implementation of Probabilistic Data Structures in Python (PyData 2013)
+* [BurntSushi/clibs](https://github.com/BurntSushi/clibs) - A smattering of miscellaneous C libraries. Includes sane argument parsing, a thread-safe multi-producer/multi-consumer queue, and implementation of common data structures (hashmaps, vectors and linked lists).
+* [ricardo-rendoncepeda/mtl2opengl](https://github.com/ricardo-rendoncepeda/mtl2opengl) - A perl script for converting .obj and .mtl data files into arrays compatible with OpenGL ES on iOS devices
+* [google/ktsan](https://github.com/google/ktsan) - ThreadSanitizer for Linux kernel, a fast data race detector
+* [gdbinit/ExtractMachO](https://github.com/gdbinit/ExtractMachO) - IDA plugin to extract Mach-O binaries located in the disassembly or data
+* [alibaba/tsar2db](https://github.com/alibaba/tsar2db) - used to store tsar data to mysql
+* [raspofabs/dodsrc](https://github.com/raspofabs/dodsrc) - Source for the Data-Oriented Design book
+* [pikelang/Pike](https://github.com/pikelang/Pike) - Pike is a dynamic programming language with a syntax similar to Java and C. It is simple to learn, does not require long compilation passes and has powerful built-in data types allowing simple and really fast data manipulation.
+* [jackeylu/mysql2redis](https://github.com/jackeylu/mysql2redis) - A UDF(user defined functions) plugin for MySQL, which can be used for pushing data to Redis
+* [davidcranor/Thinner-Client](https://github.com/davidcranor/Thinner-Client) - This project implements an STM32F based thin client which can send and receive data over serial, read a PS/2 keyboard, and display the contents of a 480x240 framebuffer on an NTSC television.
+* [richarddurbin/pbwt](https://github.com/richarddurbin/pbwt) - Implementation of Positional Burrows-Wheeler Transform for genetic data
+* [bryansum/pdlib](https://github.com/bryansum/pdlib) - An open source port of Pure Data to the iPhone
+* [stephenrkell/liballocs](https://github.com/stephenrkell/liballocs) - Runtime and toolchain for whole-program monitoring of allocations and their data types
+* [residuum/PuRestJson](https://github.com/residuum/PuRestJson) - PuREST JSON is a library for connecting Puredata (Pd) to HTTP services  and encoding and decoding JSON data.
+* [GeoffMontee/tds_fdw](https://github.com/GeoffMontee/tds_fdw) - A PostgreSQL foreign data wrapper to connect to TDS databases (Sybase and Microsoft SQL Server)
+* [xstevens/decoderbufs](https://github.com/xstevens/decoderbufs) - A PostgreSQL logical decoder output plugin to deliver data as Protocol Buffers
+* [xcir/libvmod-parsereq](https://github.com/xcir/libvmod-parsereq) - parsing post,get,cookie data
+* [reverbrain/smack](https://github.com/reverbrain/smack) - Low-level IO storage which packs data into sorted (zlib/bzip2/snappy compressed) blobs
+* [paulasmuth/fyrehose](https://github.com/paulasmuth/fyrehose) - message broker for JSON data streams
+* [nuko-yokohama/neo4j_fdw](https://github.com/nuko-yokohama/neo4j_fdw) - Graph Database Foreign Data Wrapper for PostgreSQL
+* [steven-schronk/C-Data-Structures](https://github.com/steven-schronk/C-Data-Structures) - Collection of basic data structures in C.
+* [snaga/monetdb_fdw](https://github.com/snaga/monetdb_fdw) - monetdb_fdw - PostgreSQL Foreign Data Wrapper for MonetDB
+* [scrapinghub/mdr](https://github.com/scrapinghub/mdr) - A python library detect and extract listing data from HTML page.
+* [libical/libical](https://github.com/libical/libical) - Libical is an Open Source implementation of the iCalendar protocols and protocol data units.
+* [jstjohn/SimSeq](https://github.com/jstjohn/SimSeq) - An illumina paired-end and mate-pair short read simulator. This project attempts to model as many of the quirks that exist in Illumina data as possible. Some of these quirks include the potential for chimeric reads, and non-biotinylated fragment pull down in mate-pair libraries . Additionally the program provides the ability to model both site and base specific error, and scripts are provided to train this error model on real datasets. My hope in creating this program is to generate as realistic data as possible to assist in assessing the accuracy of genome assembly tools.
+* [jimstudt/ook-decoder](https://github.com/jimstudt/ook-decoder) - Ook-decoder reads On-Off Keying radio data commonly used in the 433MHz ISM bands using a software defined radio (SDR).
+* [jamplus/jamplus](https://github.com/jamplus/jamplus) - Jamplus is a generic code and data build system derived from the original Perforce version of Jam
+* [Maxime2/dataparksearch](https://github.com/Maxime2/dataparksearch) - An open source, feature rich search engine.
+* [trink/hindsight](https://github.com/trink/hindsight) - Hindsight - light weight data processing skeleton
+* [tarequeh/DES](https://github.com/tarequeh/DES) - Implementation of Data Encryption Standard (DES) in C
+* [stuffmatic/kowalski](https://github.com/stuffmatic/kowalski) - A data driven, portable, high level audio API for games and other interactive applications (currently being refactored, not quite useable yet).
+* [pn2200/g3data](https://github.com/pn2200/g3data) - Grab graph data, a program for extracting data from graphs
+* [jpr5/ngrep](https://github.com/jpr5/ngrep) - ngrep strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular expressions to match against data payloads of packets.
+* [fomy/destor](https://github.com/fomy/destor) - An experimental platform for chunk-level data deduplication. Key words: DDFS, Sparse Index, Extreme Binning, SiLo, Sample Index, BLC; CBR, CFL, CAP, HAR; ASM, OPT; GC, Cumulus
+* [danghvu/mod_dumpost](https://github.com/danghvu/mod_dumpost) - Small and lightweight Apache module to log POST data of a HTTP request
+* [res0nat0r/tsunami-udp](https://github.com/res0nat0r/tsunami-udp) -  A fast user-space file transfer protocol that uses TCP control and UDP data for transfer over very high speed long distance networks (≥ 1 Gbps and even 10 GE), designed to provide more throughput than possible with TCP over the same networks.
+* [LPD-EPFL/ASCYLIB](https://github.com/LPD-EPFL/ASCYLIB) - ASCYLIB is a concurrent-search data-structure library with over 30 implementantions of linked lists, hash tables, skip lists, and binary search trees.
+* [tvondra/pg_check](https://github.com/tvondra/pg_check) - a tool to verify integrity of PostgreSQL data files
+* [larsbrinkhoff/httptunnel](https://github.com/larsbrinkhoff/httptunnel) - Creates a bidirectional virtual data path tunnelled in HTTP requests.
+* [falconindy/expac](https://github.com/falconindy/expac) - alpm data extraction utility
+* [CICM/CicmWrapper](https://github.com/CICM/CicmWrapper) - A C/TK library that aims to facilitate the creation of objects for Pure Data
+* [umitanuki/s3_fdw](https://github.com/umitanuki/s3_fdw) - foreign-data wrapper for Amazon S3
+* [suhetao/stm32f4_mpu9250](https://github.com/suhetao/stm32f4_mpu9250) - Access the data of 3-axis magnetometer and DMP from MPU9250 with SPI interface, All data fusion via EKF/UKF/CKF/SRCKF algorithm
+* [nicolasff/river](https://github.com/nicolasff/river) - A simple “comet” server in C, streaming data to web clients
+* [bovine/datapipe](https://github.com/bovine/datapipe) - Network TCP port forwarding
+* [atris/JDBC_FDW](https://github.com/atris/JDBC_FDW) - FDW that wraps JDBC for PostgreSQL.It can be used to connect and fetch data from any data source that supports JDBC
+* [korczis/foremost](https://github.com/korczis/foremost) - Foremost is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers can be specified by a configuration file or you can use command line switches to specify built-in file types. These built-in types look at the data structures of a given file format allowing for a more reliable and faster recovery.  Originally developed by the United States Air Force Office of Special Investigations and The Center for Information Systems Security Studies and Research , foremost has been opened to the general public. We welcome any comments, suggestions, patches, or feedback you have on this program. Please direct all correspondence to namikus@users.sf.net.
+* [kev009/Concurrency-Kit](https://github.com/kev009/Concurrency-Kit) - Concurrency primitives and lock-less data structures
+* [ge-ne/bibtool](https://github.com/ge-ne/bibtool) - BibTool is a tool for manipulating BibTeX data bases. BibTeX provides a mean to integrate citations into LaTeX documents. BibTool allows the manipulation of BibTeX files which goes beyond the possibilities -- and intentions -- of BibTeX.
+* [fuzxxl/memf](https://github.com/fuzxxl/memf) - Portable scanf/printf-like functions to marshal binary data
+* [ethz-asl/asctec_mav_framework](https://github.com/ethz-asl/asctec_mav_framework) - Framework for data aquisition and position control to be used with the highlevel processor of Ascending Technologies helicopters
+* [dminor/skip-quadtree](https://github.com/dminor/skip-quadtree) - Implementation of the skip quadtree and compressed quadtree data structures.
+* [cornetp/eagle-owl](https://github.com/cornetp/eagle-owl) - Data acquisition from an OWL CM160 +USB device on linux platforms
+* [comex/data](https://github.com/comex/data) - the green eyed monster
+* [chadwickbureau/chadwick](https://github.com/chadwickbureau/chadwick) - Chadwick tools for manipulating baseball data
+* [agordon/datamash](https://github.com/agordon/datamash) - mirror of GNU Datamash
+* [Frans-Willem/LEDMatrixHUB75](https://github.com/Frans-Willem/LEDMatrixHUB75) - Driver for a LED Matrix of 9 32x16 RGB HUB75 panels, using an STM32F4 Discovery board as low-level driver, and an Atheros AR9331 based WiFi router running OpenWRT as Art-Net data receiver.
+* [torbensko/Kinect-to-Maya-motion-capture](https://github.com/torbensko/Kinect-to-Maya-motion-capture) - A set of scripts to help you capture the Kinect's motion capture data in Maya
+* [paulasmuth/libsmatrix](https://github.com/paulasmuth/libsmatrix) - thread-safe sparse matrix data structure
+* [jourlin/WebCrawler](https://github.com/jourlin/WebCrawler) - An academic open source and open data web crawler
+* [fileability/self-ml](https://github.com/fileability/self-ml) - A human data language
+* [bcopeland/em_misc](https://github.com/bcopeland/em_misc) - external memory data structure playground
+* [pflarr/dns_parse](https://github.com/pflarr/dns_parse) - A fast parser for DNS pcap data.
+* [ntamas/plfit](https://github.com/ntamas/plfit) - Fitting power-law distributions to empirical data, according to the method of Clauset, Shalizi and Newman
+* [luarpro/BitmapDataQRCodeScanner](https://github.com/luarpro/BitmapDataQRCodeScanner) - Flash AIR Native Extension:  QRCode reader/decoder which accept BitmapData, therefore you can design your own scanner UI, adding overlay image, without launch  fullscreen native Camera UI
+* [jllodra/ncdump-json](https://github.com/jllodra/ncdump-json) - Modified ncdump to output data in json format
+* [cnicholson/reversing-bits-test-framework](https://github.com/cnicholson/reversing-bits-test-framework) - Framework for gathering data for the "Reversing Bits on ARM" Corner blog post
+* [bodgit/graphite-amqp-tools](https://github.com/bodgit/graphite-amqp-tools) - A set of tools for getting Graphite data in and out of AMQP message brokers
+* [matteobertozzi/carthage](https://github.com/matteobertozzi/carthage) - Pure C Data Structure and Utils
+* [guedes/ldap_fdw](https://github.com/guedes/ldap_fdw) - A LDAP Foreign Data Wrapper for PostgreSQL
+* [dbohdan/s2png](https://github.com/dbohdan/s2png) - Store data of any kind inside PNG images.
+* [LuaDist/lpack](https://github.com/LuaDist/lpack) - A library for packing and unpacking binary data. The library adds two functions to the string library: pack and unpack.
+* [wertarbyte/tiny-gps](https://github.com/wertarbyte/tiny-gps) - read NMEA data from serial GPS receiver (and sonar and optical sensor)  and offer it as I2C slave using ATTiny
+* [uci-cbcl/EXTREME](https://github.com/uci-cbcl/EXTREME) - An online EM implementation of the MEME model for fast motif discovery in large ChIP-Seq and DNase-Seq Footprinting data
+* [tnm/vulcan](https://github.com/tnm/vulcan) - Generate test data for Redis
+* [theunamedguy/market-sim](https://github.com/theunamedguy/market-sim) - A retro stock-trading game utilizing live market data
+* [rnorris/viking](https://github.com/rnorris/viking) - Viking is a free/open source program to manage GPS data (including GPX and KML files). You can import and plot tracks, routes and waypoints, show OpenStreetMaps (OSM), Bing Aerial and other maps, generate Mapnik maps, geotag images, make new tracks, routes and waypoints, see real-time GPS position, etc.  It is written mostly in C with the GTK+ 2 toolkit and some C++.
+* [qianshanhai/fastwiki](https://github.com/qianshanhai/fastwiki) - Fast offline data reader
+* [linkedin/datacl](https://github.com/linkedin/datacl) - A collection of efficient utilities for a data scientist.
+* [jberthold/packman](https://github.com/jberthold/packman) - Evaluation-orthogonal serialisation of Haskell data, as a library
+* [davidar/c-hashtable](https://github.com/davidar/c-hashtable) - Git mirror of the hash table data structure in C by Christopher Clark
+* [NordicSemiconductor/nrf51-ble-app-temp](https://github.com/NordicSemiconductor/nrf51-ble-app-temp) - Project for the nRF51822 that can send data to the nRF Temp smartphone apps.
+* [MinnPost/minnpost-nice-ride](https://github.com/MinnPost/minnpost-nice-ride) - Nice Ride data analysis
+* [CSB5/lofreq](https://github.com/CSB5/lofreq) - LoFreq Star: Sensitive variant calling from sequencing data
+* [BlockoS/arduino-dataflash](https://github.com/BlockoS/arduino-dataflash) - Support for Atmel Dataflash for the Arduino
+* [smira/memcached_functions_mysql](https://github.com/smira/memcached_functions_mysql) - Memcached functions for MySQL as UDF, tailored for usage in replication and pushing data to MemcacheQ
+* [s-u/iotools](https://github.com/s-u/iotools) - High-performance I/O tools to run distributed R jobs seamlessly on Hadoop and handle chunk-wise data processing
+* [petropavel13/pg_rrule](https://github.com/petropavel13/pg_rrule) - RRULE data type for PostgreSQL
+* [kafka399/TwsMongo](https://github.com/kafka399/TwsMongo) - TwsMongo is an example of integration between Mongodb and InteractiveBrokers.com API v.9.66 written in C++. The goal of this application to save high frequency data in Mongodb database.
+* [ircmaxell/php-ndata](https://github.com/ircmaxell/php-ndata) - NData PECL extension for dealing with native data types
+* [edoko/AIR-Kernel_ICS](https://github.com/edoko/AIR-Kernel_ICS) - AIR Kernel for ICS (r_data / edoko)
+* [debrouxl/tilp](https://github.com/debrouxl/tilp) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments scientific calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it supports the TI-Z80 series (73..86), the TI-68k series (89, 92+, V200, 89T) and the Nspire series (Nspire Clickpad / Touchpad / CX, both CAS and non-CAS)
+* [codeman38/zvbi2raw](https://github.com/codeman38/zvbi2raw) - A quick-and-dirty tool for capturing vertical blanking interval data using libzvbi
+* [brendangregg/Dump2PNG](https://github.com/brendangregg/Dump2PNG) - Visualize file data as a PNG
+* [aidenbell/getdents](https://github.com/aidenbell/getdents) - Simple tool for listing large (millions) numbers of files on Linux systems without causing memory issues. Useful for shell scripting large data stores.
+* [GNOME/tracker](https://github.com/GNOME/tracker) - Tracker is a semantic data storage for desktop and mobile devices.
+* [thomasbhatia/nwEPC---EPC-SAE-Gateway](https://github.com/thomasbhatia/nwEPC---EPC-SAE-Gateway) - nwEPC is a free and open source framework software implementation of SAE/EPC Serving Gateway or SGW and Packet Data Network Gateway or PGW, which is sometimes referred as SAE-Gateway as well.
+* [kineme/KinectTools](https://github.com/kineme/KinectTools) - Quartz Composer plugin that retrieves color and depth image data from the Xbox Kinect.
+* [karrenberg/wfvopencl](https://github.com/karrenberg/wfvopencl) - IMPORTANT NOTICE: This implementation is long outdated. The latest wfvopencl will be made publicly available with the new libwfv implementation. WFVOpenCL is an OpenCL driver for CPUs on the basis of LLVM. This driver employs Whole-Function Vectorization (WFV) in addition to multi-threading to fully exploit the available data-parallelism by executing as many kernel instances in parallel as possible.
+* [erimatnor/libckit](https://github.com/erimatnor/libckit) - A kit of C-based utilities and data structures.
+* [dutc/generators](https://github.com/dutc/generators) - Generators for Stream Data Processing, or Generator Showcase Showdown
+* [damiannz/ofxPd_damians](https://github.com/damiannz/ofxPd_damians) - Pure Data addon for openFrameworks
+* [breckinloggins/libuseful](https://github.com/breckinloggins/libuseful) - A collection of useful data structures, algorithms, and utilities for C programming
+* [arjun024/hide-data-in-ptr](https://github.com/arjun024/hide-data-in-ptr) - how to hide data inside pointers
+* [ZhengYang/odbc_fdw](https://github.com/ZhengYang/odbc_fdw) - PostgreSQL Foreign-data Wrapper for ODBC
+* [Unidata/gempak](https://github.com/Unidata/gempak) - Analysis, display, and product generation package for meteorological data.
+* [DanielWaterworth/Butterfly](https://github.com/DanielWaterworth/Butterfly) - [DEPRECATED] Butterfly is a C library that implements a very simple 'dynamic' data-type. It could be used, for example, to manipulate JSON data from C. It is distributed under LGPL.
+* [Blei-Lab/lda-c](https://github.com/Blei-Lab/lda-c) - This is a C implementation of variational EM for latent Dirichlet allocation (LDA), a topic model for text or other discrete data.
+* [toddtreece/lib_mysqludf_mongodb](https://github.com/toddtreece/lib_mysqludf_mongodb) - MySQL UDF for inserting data into MongoDB
+* [thegenemyers/DEXTRACTOR](https://github.com/thegenemyers/DEXTRACTOR) - Bax File Decoder and Data Compressor
+* [thegenemyers/DAZZ_DB](https://github.com/thegenemyers/DAZZ_DB) - The Dazzler Data Base
+* [npmccallum/deo](https://github.com/npmccallum/deo) - A service for binding data to networks
+* [marekweb/datastructs-c](https://github.com/marekweb/datastructs-c) - Arraylist and Hashtable implementation in C
+* [magnuskarlsson/SDLogger](https://github.com/magnuskarlsson/SDLogger) - Open Hardware Data Logger
+* [magellannh/rtl-wx](https://github.com/magellannh/rtl-wx) - RTL-Wx logs data from 433Mhz wireless sensors using an RTL-SDR dongle.  The Wiki has some screenshots of the results
+* [kevsmith/erlz](https://github.com/kevsmith/erlz) - Erlang wrapper for the fastlz (LZO-like) data compression library
+* [emrainey/OpenCL-Environment](https://github.com/emrainey/OpenCL-Environment) - A series of utilities aimed at making OpenCL easier to use. Includes clCompiler which generates both binary outputs and precompiled headers which can be used in conjunction with clEnvironment. clQuery allows you to print all known information about a OpenCL data type. clPid, clYUV clImgFilter are all examples of how to use the utilities to create a compile time kernel make it a dependency in you makefiles and then use the clEnvironment to call your kernel.
+* [dfm/acor](https://github.com/dfm/acor) - Estimate the autocorrelation time of time-series data very quickly
+* [colindean/optar](https://github.com/colindean/optar) - OPTical ARchiver - highly compressed 2D barcode for paper or film archiving of digital data
+* [biomood/LuaSerial](https://github.com/biomood/LuaSerial) - A Lua library in C for sending/receving data from Arduino
+* [bianster/mysqlfs](https://github.com/bianster/mysqlfs) - MySQLfs is Linux userspace filesystem which stores data in a MySQL database. It uses FUSE to interface with the kernel.
+* [armbrustlab/SEAStAR](https://github.com/armbrustlab/SEAStAR) - SEAStAR is a package of tools supporting the construction of complete analysis pipelines for next-generation (Illumina®, SOLiD™) sequencing data generated from environmental samples.
+* [RoXXoR/ws2812](https://github.com/RoXXoR/ws2812) - ws2812/ws2811 led driver library for msp430, uses SPI and unique transport data encoding
+* [vmayoral/bb_mpu9150](https://github.com/vmayoral/bb_mpu9150) - BeagleBone ROS package that publishes the Invensense MPU-9150 data into a Topic.
+* [troydhanson/kvspool](https://github.com/troydhanson/kvspool) - A library to support streaming data applications
+* [smithlabcode/methpipe](https://github.com/smithlabcode/methpipe) - A pipeline for analyzing DNA methylation data from bisulfite sequencing.
+* [robmccoll/graphdb-testing](https://github.com/robmccoll/graphdb-testing) - Benchmarking various graph databases, engines, datastructures, and data stores.
+* [raghavan291/Lazy-Deduplication](https://github.com/raghavan291/Lazy-Deduplication) - Data deduplication, data reduction, capacity optimized storage - is a specialized data compression technique for eliminating redundant data in the storage file system. It is often designed to make network backups to disk faster and more economical. It removes redundant data segments to compress data into a highly compact form and makes it economical to store backups on disk drive instead of tape drive. The technique identifies unique chunks of data, or byte patterns and stores them during the time of analysis. The chunks of new data are hashed and compared with the existing hashes of the other chunks to determine if there is a match. This project is aimed at creating a data deduplication file system which performs post-processing (lazy) analysis on the data stored into the file system
+* [qayshp/TestDisk](https://github.com/qayshp/TestDisk) - TestDisk is powerful free data recovery software!
+* [innoying/iOS-DataProtection](https://github.com/innoying/iOS-DataProtection) - Tools to manipulate and use iOS data protection features.
+* [greghaynes/Afproto](https://github.com/greghaynes/Afproto) - Serial data framing protocol
+* [gleu/sqlite_fdw](https://github.com/gleu/sqlite_fdw) - Foreign Data Wrapper for sqlite
+* [fontforge/libuninameslist](https://github.com/fontforge/libuninameslist) - A library with a large (sparse) array mapping each unicode code point to the annotation data for it provided in http://www.unicode.org/Public/UNIDATA/NamesList.txt
+* [caisonglu/cachemaster](https://github.com/caisonglu/cachemaster) - Cachemaster is similar to VMTOUCH, but with more functions. Such as kick page cache, warmup/readahead data, lock data in mem, stat page cache, stat page cache in realtime mode, by file or directory~ Personally, I think the most usefule function is real-time-statistic of page cache. You can see the page cache thrashing when kernel do page reclaiming.
+* [brg-liuwei/ngx_kafka_module](https://github.com/brg-liuwei/ngx_kafka_module) - nginx kafka module, send post log data to kafka cluster
+* [IreneKnapp/modern-data](https://github.com/IreneKnapp/modern-data) - A self-describing binary data format for dependently-typed object graphs.
+* [wouterverweirder/AIR-Sudden-Motion-Sensor-Extension](https://github.com/wouterverweirder/AIR-Sudden-Motion-Sensor-Extension) - Native Extension for Adobe AIR, exposing the sudden motion sensor data of mac portables in your AIR application
+* [winnukem/racehound](https://github.com/winnukem/racehound) - Data race detector for Linux kernel modules
+* [teletautala/fullypwnd](https://github.com/teletautala/fullypwnd) - This program is designed to identify operating system and running services and find exploits for those services and attempt to connect.  I wanted that when the program finishes it's scan there was a way to report, annotate and clarify data.
+* [samop/Polar-Flowlink-linux](https://github.com/samop/Polar-Flowlink-linux) - Development of interface for Polar FT60 HRM for Linux. It was tested with FT80 and it didn't work, due to different command set. I will need physical access to the watch to be able to devise a solution for other HRMs. Simple one page web interface that can be run on local machine and mimics polarpersonaltrainer is also included (see screenshot) but needs lots of polishing. Please note it is a work in progress. This early version pulls down all data except for weekly training program.
+* [rfjakob/cshatag](https://github.com/rfjakob/cshatag) - Detect silent data corruption under Linux using checksums in extended attributes
+* [kiyo-masui/bitshuffle](https://github.com/kiyo-masui/bitshuffle) - Filter for improving compression of typed binary data.
+* [jamezilla/ats](https://github.com/jamezilla/ats) - ATS is a spectral modeling system based on a sinusoidal plus critical-band noise decomposition. Psychoacoustic processing informs the system's sinusoidal tracking and noise modeling algorithms. Perceptual Audio Coding (PAC) techniques such as Signal-to-Mask Ratio (SMR) evaluation are used to achieve perceptually accurate sinusoidal tracking. SMR values are also used as a psychoacoustic metric to determine the perceptual relevance of partials during analysis data postprocessing. The system's noise component is modeled using Bark-scale frequency warping and sub-band noise energy evaluation. Noise energy at the sub-bands is then distributed on a frame-by-frame basis among the partials resulting in a compact hybrid representation based on noise modulated sinusoidal trajectories.
+* [cnlohr/wificompositer](https://github.com/cnlohr/wificompositer) - Various tools I used to collect and composite data from a wifi device into an image.
+* [caisah/Sedgewick-algorithms-in-c-exercises-and-examples](https://github.com/caisah/Sedgewick-algorithms-in-c-exercises-and-examples) - Examples and exercises from Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching by Robert Sedgewick book
+* [CVLearner/Mixture-of-Gaussians](https://github.com/CVLearner/Mixture-of-Gaussians) - Fit a Gaussian mixture model given a set of data
+* [xaberus/nih](https://github.com/xaberus/nih) - libnih, the library interactive data dumper will be based upon
+* [woodrow/cidr-report_analysis](https://github.com/woodrow/cidr-report_analysis) - Data processing & analysis tools to replicate the CIDR Report and study Internet route aggregation.
+* [vsbuffalo/seqqs](https://github.com/vsbuffalo/seqqs) - seqqs is a C program/library for gathering quality statistics from sequencing data
+* [vijay03/optfs](https://github.com/vijay03/optfs) - The Optimistic File System (OptFS) is a Linux ext4 variant that implements Optimistic Crash Consistency, a new approach to crash consistency in journaling file systems. OptFS improves performance for many workloads, sometimes by an order of magnitude. OptFS provides strong consistency, equivalent to data journaling mode of ext4.
+* [tfoldi/fuse-tableaufs](https://github.com/tfoldi/fuse-tableaufs) - User-space filesystem for Tableau Server for accessing workbooks and data sources as files.
+* [stripydog/kplex](https://github.com/stripydog/kplex) - kplex marine data multiplexer
+* [sptim/mp3hash](https://github.com/sptim/mp3hash) - Command line tool to calculate the hash of the music data in mp3 files (without id3v1 & id3v2 metadata). Useful to find dupes with e.g. different genre names.
+* [philwieland/openrail](https://github.com/philwieland/openrail) - Open Rail Data Processing
+* [mit-carbon/Flat-Combining](https://github.com/mit-carbon/Flat-Combining) - Traditional data-structure designs, whether lock-based or lock-free, provide parallelism via fine grained synchronization among threads. Flat Combining is a new, efficient synchronization paradigm based on coarse locking.
+* [mil/foo-wm](https://github.com/mil/foo-wm) - A minimal window manager that organizes windows in a tree data structure, provides a socket to send commands to, and nothing more.
+* [lneto/luadata](https://github.com/lneto/luadata) - Lua data library
+* [kozyraki/phoenix](https://github.com/kozyraki/phoenix) - an API and runtime environment for data processing with MapReduce for shared-memory multi-core & multiprocessor systems.
+* [knossos-project/knossos](https://github.com/knossos-project/knossos) - KNOSSOS is a software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity.
+* [kehribar/xmega_ov7670](https://github.com/kehribar/xmega_ov7670) - OV7670 image sensor data capture with Atxmega32E5 without using external FIFO
+* [jpiper/pyDNase](https://github.com/jpiper/pyDNase) - Python module for the easy handling and analysis of DNase-seq data
+* [jknotzke/GoldenEmbed](https://github.com/jknotzke/GoldenEmbed) - Embedded Firmware for the Sparkfun Logomatic V2 which will log ANT+ data
+* [happyfish100/fastdht](https://github.com/happyfish100/fastdht) - FastDHT is a high performance distributed hash table (DHT) which based key value pairs. It can store mass key value pairs such as filename mapping, session data and user related data.
+* [graphitemaster/libintrusive](https://github.com/graphitemaster/libintrusive) - Intrusive data structures for C
+* [emacsattic/doxymacs](https://github.com/emacsattic/doxymacs) - Code to efficiently read/write XML data with Elisp --- IN ATTIC BECAUSE: import problems
+* [davidh-ssec/polar2grid](https://github.com/davidh-ssec/polar2grid) - Tools for reading, remapping, and writing satellite instrument data.
+* [darthstroyer/005tools](https://github.com/darthstroyer/005tools) - Open-source software for extracting save data from Nintendo DS, DSi and 3DS game cards
+* [credativ/informix_fdw](https://github.com/credativ/informix_fdw) - Foreign Data Wrapper for Informix Databases
+* [chriso/bitset](https://github.com/chriso/bitset) - A compressed bitset with supporting data structures and algorithms
+* [chrisforbes/libaof](https://github.com/chrisforbes/libaof) - Age Of Empires Data Format Parsers
+* [astro/collectd](https://github.com/astro/collectd) - Some personal modifications to collectd, the kick-ass data collector
+* [alexanderchuranov/Metaresc](https://github.com/alexanderchuranov/Metaresc) - META data and RESource library for  C language
+* [XVilka/cparse](https://github.com/XVilka/cparse) - Parser of C-syntax data definitions, C-syntax function definitions
+* [MartinMittring/dcraw_exif](https://github.com/MartinMittring/dcraw_exif) - dcraw (Camera RAW format processor) from Dave Coffin with updates, additionally maintain exif data for using it with Agisoft PhotoScan
+* [LongSoft/FD44Copier](https://github.com/LongSoft/FD44Copier) - Utility to copy BIOS data from one ASUS BIOS image file to another
+* [JeffreyRacine/R-Package-np](https://github.com/JeffreyRacine/R-Package-np) - R package np (Nonparametric Kernel Smoothing Methods for Mixed Data Types)
+* [BungeeProject/bungee](https://github.com/BungeeProject/bungee) - Big Unstructured Data Analytics
+* [xerpi/libsicksaxis](https://github.com/xerpi/libsicksaxis) - SickSaxis is a C library that lets you connect a Sixaxis or a DualShock3 to the Wii and read its data. It also lets you turn on and off the controller LEDs, enable or disable the rumble and get and set the controllers' bluetooth MAC address.
+* [vi/fdlinecombine](https://github.com/vi/fdlinecombine) - Read multiple fds and print data to stdout linewise.
+* [valotrading/tick](https://github.com/valotrading/tick) - Tick, a market data tool.
+* [sciguy14/MSP430-Wireless-Weather-Station](https://github.com/sciguy14/MSP430-Wireless-Weather-Station) - A Remote MSP430 monitors temperature, light, and humidity and sends the data to a local UART-USB MSP430.  A processing script graphs the data in real time on a computer.
+* [pseudomuto/c-data-structures](https://github.com/pseudomuto/c-data-structures) - A simple library of data structures for C
+* [peterburk/stackoverflowlocal](https://github.com/peterburk/stackoverflowlocal) - Scripts for locally hosting and searching a compressed StackOverflow data dump
+* [lioncash/ExtractData](https://github.com/lioncash/ExtractData) - An extraction tool for visual novels. Originally developed by Yuu.
+* [kfish/libfishsound](https://github.com/kfish/libfishsound) - A simple programming interface for decoding and encoding audio data using Xiph.org codecs (FLAC, Speex and Vorbis)
+* [infofarmer/hashtypes](https://github.com/infofarmer/hashtypes) - sha1, md5 and other data types for PostgreSQL
+* [hyPiRion/roulette-tree](https://github.com/hyPiRion/roulette-tree) - Data structure for efficient fitness-proportionate selection.
+* [hroptatyr/uterus](https://github.com/hroptatyr/uterus) - universal tick encoder library to efficiently transport huge amounts of tick data
+* [hpc/scr](https://github.com/hpc/scr) - SCR caches checkpoint data in storage on the compute nodes of a Linux cluster to provide a fast, scalable checkpoint / restart capability for MPI codes.
+* [freshcode/MFMathLib](https://github.com/freshcode/MFMathLib) - A mathematical library providing basic math operations on data types from 8-bits to 1024-bits with overflow/underflow tracking.
+* [freefoote/gpscorrelate](https://github.com/freefoote/gpscorrelate) - Abandoned C program to match GPS tracks to photographs, and store the matches in the EXIF data in the photographs.
+* [dipman/oshdlc](https://github.com/dipman/oshdlc) - OSHDLC is the software implementation of High Level Data Link Control (HDLC) standard.  It is a fully optimized C-code and It utilizes a state table based, efficient algorithm.  This code may be used on lots of platforms easily as desired.
+* [coolwanglu/quantile-alg](https://github.com/coolwanglu/quantile-alg) - Algorithms for finding quantiles of a data stream
+* [bjoernknafla/peak](https://github.com/bjoernknafla/peak) - Parallelism exploration assembly kit. C toolkit to experiment with task- and data-parallelism.
+* [DanAnkers/garmin-ant-downloader](https://github.com/DanAnkers/garmin-ant-downloader) - Clone of and updates to "gant", a tool for downloading data off certain Garmin Edge and Forerunner devices.  "garmin-ant-downloader" is the name given to this project by Debian and Ubuntu
+* [51Degrees/Device-Detection](https://github.com/51Degrees/Device-Detection) - THE Fastest and most Accurate device detection for C / PHP / Perl / Python and Node.js - professionally maintained device data
+* [umitanuki/tinyint-postgresql](https://github.com/umitanuki/tinyint-postgresql) - A tiny int implementation as a data type of PostgreSQL
+* [ufo-kit/ufo-core](https://github.com/ufo-kit/ufo-core) - GLib-based framework for GPU-based data processing
+* [sdiehl/pycraig](https://github.com/sdiehl/pycraig) - Python library for scraping data from Craigslist
+* [rustyrussell/bitcoin-iterate](https://github.com/rustyrussell/bitcoin-iterate) - Simple fast iterator to extract data from bitcoind's blockchain files.
+* [ruslin/data_share](https://github.com/ruslin/data_share) - 个人一般数据、文件
+* [rpetrich/untrackerd](https://github.com/rpetrich/untrackerd) - Continuously clean up locationd's history data
+* [psobot/ipsumcrypt](https://github.com/psobot/ipsumcrypt) - A small C program to embed binary data into the whitespace between words.
+* [pkmital/StickFigureOSC](https://github.com/pkmital/StickFigureOSC) - Streams PrimeSense NITE's Skeleton Data via OSC (XCode Project)
+* [niftylight/niftyled](https://github.com/niftylight/niftyled) - library designed to provide an abstract interface for LED/lighting hardware to easily control it using pixel data.
+* [mrrrgn/tcp2d](https://github.com/mrrrgn/tcp2d) - A utility to produce data sets for machine learning and statistical analysis from tcp streams.
+* [mfragkoulis/PiCO_QL](https://github.com/mfragkoulis/PiCO_QL) - SQL query interface to C++ collections and C data structures. Also configurable as a loadable Linux kernel module and an extension to Valgrind tools.
+* [memo/ofxMSAInterpolator](https://github.com/memo/ofxMSAInterpolator) - C++ openFrameworks addon with a set of template classes for doing various types of interpolations on data with any number of dimensions. You can feed the system an arbitrary number of data, then resample at any resolution, or ask for the value at any percentage along the data. Input data can be floats (for 1D splines, Vec2f (for 2D splines), Vec3f (for 3D splines), or even matrices, or custom data types (e.g. biped pose). Demo at www.memo.tv/msainterpolator
+* [matildah/fastcat](https://github.com/matildah/fastcat) - netcat-like thing that uses the linux syscall splice(2) to avoid overhead from copying data from kernelspace/userspace
+* [marcelloceschia/chan-datacard](https://github.com/marcelloceschia/chan-datacard) - clone of https://code.google.com/p/asterisk-chan-dongle/ with asterisk 11 branch
+* [kroki/XProbes](https://github.com/kroki/XProbes) - Explicit probes (XProbes) - static user space probes with natural data access.
+* [jwise/ndfslave](https://github.com/jwise/ndfslave) - Tools to pull data off of a NAND flash chip using a Digilent Nexys-2 board.
+* [hhetter/smbtatools](https://github.com/hhetter/smbtatools) - Tools to query the SMB traffic analyzer data base
+* [heewa/pipestats](https://github.com/heewa/pipestats) - Stats about data being piped.
+* [gnemoug/data_structure](https://github.com/gnemoug/data_structure) - 关于各种数据结构和算法的一些收录
+* [ericmandel/funtools](https://github.com/ericmandel/funtools) - A "minimal buy-in" FITS library and utility package for astronomical data analysis
+* [crass/lessfs](https://github.com/crass/lessfs) - lessfs - An inline data deduplicating filesystem
+* [chucknthem/Data-structures-algorithms](https://github.com/chucknthem/Data-structures-algorithms) - Collection of Data structures, algorithms and interesting bits of code.
+* [careermonk/DataStructuresAndAlgorithmsMadeEasy](https://github.com/careermonk/DataStructuresAndAlgorithmsMadeEasy) - Data Structures And Algorithms Made Easy
+* [bwlewis/lazy.frame](https://github.com/bwlewis/lazy.frame) - Lazy person's file-backed data frame
+* [bauerca/gridfloat](https://github.com/bauerca/gridfloat) - Slice and dice USGS elevation data from the command line.
+* [autosportlabs/RaceCapture-Pro_firmware](https://github.com/autosportlabs/RaceCapture-Pro_firmware) - Firmware for RaceCapture-Pro Data Acquisition, control and Telemetry system for motorsports
+* [argv0/nbds](https://github.com/argv0/nbds) - C implementations of several scalable non-blocking data structures for x86 and x86-64.
+* [StefanKarpinski/odb](https://github.com/StefanKarpinski/odb) - ODB: On-Disk Binary Data Tool
+* [NDN-Routing/NDNLP](https://github.com/NDN-Routing/NDNLP) - Named Data Networking Link Protocol
+* [MDSplus/mdsplus](https://github.com/MDSplus/mdsplus) - The MDSplus data management system
+* [Frans-Willem/EspLightNode](https://github.com/Frans-Willem/EspLightNode) - ESP8266 firmware to receive lighting data over TPM2, Art-Net and drive a WS2801 addressable LED strip.
+* [ComputerNerd/ov7670-simple](https://github.com/ComputerNerd/ov7670-simple) - This is a simple sample code of the ov7670 on the arduino uno sends data over serial.
+* [ComputerNerd/RawCamera-data-converter](https://github.com/ComputerNerd/RawCamera-data-converter) - This program was made to convert raw data from the ov7670 to a png file. It may also work with other cameras.
+* [AC-2015-Sem2/DSA-lab](https://github.com/AC-2015-Sem2/DSA-lab) - Data Structures and Algorithms lab repository
+* [xiao70/X70FSD](https://github.com/xiao70/X70FSD) - Windows file system filter drivers(minifilter) to encrypt, compress, or otherwise modify file-based data require some of the most complex kernel software developed for Windows.
+* [sustrik/msg_control](https://github.com/sustrik/msg_control) - Helper functions for dealing with socket ancillary data
+* [sp4cerat/RLE-based-Voxel-Raycasting](https://github.com/sp4cerat/RLE-based-Voxel-Raycasting) - CUDA based Voxel Raycasting - Paper: Efficient, High-Quality, GPU-Based Visualization of Voxelized Surface Data
+* [scottransom/psrfits2psrfits](https://github.com/scottransom/psrfits2psrfits) - Convert 16-bit PSRFITS search-mode data to 4- or 8-bit PSRFITS data
+* [rxin/db-benchmarks](https://github.com/rxin/db-benchmarks) - Collection of some database benchmarks, along with tools to parallelize the data generation.
+* [phlowy/splunk-phlow](https://github.com/phlowy/splunk-phlow) - This is an application for consuming netflow v5,7,9 data using NFDUMP, iNotify, Binary-ASCII coverter, and Splunk!
+* [mogenson/USBTempLogger](https://github.com/mogenson/USBTempLogger) - A two component USB temperature data logger made from a PIC16F1455
+* [markjasonanderson/wiegand-linux](https://github.com/markjasonanderson/wiegand-linux) - Linux driver for reading wiegand data from GPIO. Tested  for ARM 9G20 (linux stamp)
+* [lp/puredis](https://github.com/lp/puredis) - Pure-Data Redis External
+* [locasto/libdisorder](https://github.com/locasto/libdisorder) - A simple C library for entropy measurement of byte streams and other data.
+* [lh3/naivepca](https://github.com/lh3/naivepca) - Naive PCA for genotype data
+* [lgfischer/dcel](https://github.com/lgfischer/dcel) - A DCEL implementation, described in details in http://leonardofischer.com/dcel-data-structure-c-plus-plus-implementation/
+* [justjkk/gtfs2pgrouting](https://github.com/justjkk/gtfs2pgrouting) - Import GTFS data into Postgresql database for use by pgrouting
+* [jonstewart/foremost](https://github.com/jonstewart/foremost) - Foremost is a console program to recover files based on their headers, footers, and internal data structures. c.f., http://foremost.sourceforge.net/
+* [jobovy/extreme-deconvolution](https://github.com/jobovy/extreme-deconvolution) - Density estimation using Gaussian mixtures in the presence of noisy, heterogeneous and incomplete data
+* [jeromekelleher/msprime](https://github.com/jeromekelleher/msprime) - A reimplementation of Hudson's classical ms simulator for modern data sets.
+* [iunderstand/SWE](https://github.com/iunderstand/SWE) - SWE Toolkit. Learning Semantic Word Embeddings based on Ordinal Knowledge Constraints. A general framework to incorporate semantic knowledge into the popular data-driven learning process of word vectors. Applications including word similarity, sentence completion, etc. ACL-2015 long paper, Beijing, China
+* [infincia/Cardrand](https://github.com/infincia/Cardrand) - This is a simple demonstration of two things, pulling random entropy out of a hardware smart card, and feeding that data into the Linux kernel pool using an ioctl call. Makes it possible for any Linux system to have a real hardware random number generator
+* [franckverrot/git_fdw](https://github.com/franckverrot/git_fdw) - PostgreSQL Git Foreign Data Wrapper
+* [derpston/linux-rpi-audi-dis](https://github.com/derpston/linux-rpi-audi-dis) - Linux kernel module for sending data to the DIS LCD in an Audi car from a Raspberry Pi.
+* [demorest/psrfits_utils](https://github.com/demorest/psrfits_utils) - Utility library for working with search- and fold-mode PSRFITS pulsar data files.
+* [demerphq/Data-Undump](https://github.com/demerphq/Data-Undump) - Perl extension for securely and quickly deserializing simple Data::Dumper dumps
+* [conghui/algorithms-in-c](https://github.com/conghui/algorithms-in-c) - Exercise of the book Algorithms In C, Part 1-4, Fundamentals, Data Strcuture, Sorting, Searching, written by  Robert Sedgewick
+* [cbgbt/DataStructures](https://github.com/cbgbt/DataStructures) - A data structures library written in C.
+* [bsmulders/CaptureTheData](https://github.com/bsmulders/CaptureTheData) - Vehicle data logging, parsing and analysis using C, PHP, JavaScript (Ext JS 4)
+* [bonemurmurer/simplebonjour](https://github.com/bonemurmurer/simplebonjour) - pure-data external providing simple bonjour service name discovery and port resolution
+* [baiwei0427/PIAS](https://github.com/baiwei0427/PIAS) - Information-Agnostic Flow Scheduling for Commodity Data Centers
+* [ajrisi/fsm](https://github.com/ajrisi/fsm) - A finite state machine engine in C - used as a parser for complex data structures
+* [RhysU/ESIO](https://github.com/RhysU/ESIO) - The ExaScale IO (ESIO) library provides simple, high throughput input and output of structured data sets using parallel HDF5. ESIO is designed to support reading and writing turbulence simulation restart files within C, C++, and modern Fortran applications.
+* [JohnWong/android-chirp](https://github.com/JohnWong/android-chirp) - Broadcast data by sound on android like Chirp
+* [GNOME/libgda](https://github.com/GNOME/libgda) - Libgda is a (relatively small) database access library:
+* [AerialX/djmax-dongletools](https://github.com/AerialX/djmax-dongletools) - DJMax Trilogy Save Data Manager
+* [wezm/open2300](https://github.com/wezm/open2300) - Open2300 is a package of software tools that reads (and writes) data from a Lacrosse WS23xx Weather Stations. This repo is an import of the official SVN repo with some additions.
+* [wdlindmeier/Interferometer-Watch](https://github.com/wdlindmeier/Interferometer-Watch) - A data visualization to observe the state of LIGO machines
+* [vdloo/Beacontalk](https://github.com/vdloo/Beacontalk) - Peer to peer chat-program that sends data over Wi-Fi without associations.
+* [sphde/sphde](https://github.com/sphde/sphde) - Shared Persistent Heap Data Environment
+* [skopjehacklab/MeteoKutija](https://github.com/skopjehacklab/MeteoKutija) - The MeteoBox (MeteoKutija) is a cheap device that collects a set of meteorological data and publishes it to a central database.
+* [sebnow/data_structures](https://github.com/sebnow/data_structures) - A collection of data structures, written in C.
+* [razpeitia/data-structures](https://github.com/razpeitia/data-structures) - Stack, Queue, Binary Tree
+* [pchote/falloutviewer](https://github.com/pchote/falloutviewer) - A tool for viewing and extracting files from Fallout 2 data archives
+* [otto-de/trackrdrd](https://github.com/otto-de/trackrdrd) - The Tracking Log Reader demon reads from the shared memory log of a running instance of Varnish, aggregates data logged in a specific format for requests and ESI subrequests, and forwards the data to a messaging system (such as ActiveMQ or Kafka).
+* [oap/ekf-angles](https://github.com/oap/ekf-angles) - Extended Kalman Filter for Accelerometer and Gyro data
+* [nitrogenlogic/kinradar](https://github.com/nitrogenlogic/kinradar) - Displays a pseudocolor ASCII-art radar-like view of Kinect depth data.
+* [mmb/vmod_dgram](https://github.com/mmb/vmod_dgram) - Varnish VMOD to send data over UDP from VCL.
+* [mlaurijsse/linux-mpu9150](https://github.com/mlaurijsse/linux-mpu9150) - 9-axis data fusion for Linux-based systems using the InvenSense MPU-9150 IMU
+* [mchirico/stock](https://github.com/mchirico/stock) - Command line stock picker (grabs data from Yahoo!)
+* [mbykov/diglossa.data](https://github.com/mbykov/diglossa.data) - texts for diglossa.org
+* [mback2k/wireshark-amf](https://github.com/mback2k/wireshark-amf) - Wireshark dissector for the Action Message Format data protocol and representation
+* [maximeh/tesla](https://github.com/maximeh/tesla) - Grab data from an OWL-CM160 and generate graph using RRD
+* [maciejczyzewski/hashbase](https://github.com/maciejczyzewski/hashbase) - A fast, efficient on-disk/in-memory database with many different kind of data structures. :floppy_disk:
+* [louiswins/RB-Tree](https://github.com/louiswins/RB-Tree) - An implementation of the Red-Black Tree data structure.
+* [laijs/userspace-rcu](https://github.com/laijs/userspace-rcu) - Laijs-maintained  Userspace-RCU tree for concurrent data struct(cds) changes
+* [kronihias/espeak](https://github.com/kronihias/espeak) - pure data external to synthesize text to an array with espeak library
+* [jwmatthys/kalman-pd](https://github.com/jwmatthys/kalman-pd) - Simple control rate Kalman filter for Pure Data
+* [jlapeyre/PDL-IO-Matlab](https://github.com/jlapeyre/PDL-IO-Matlab) - Reading and writing matlab format data files for the perl data language.
+* [hvdieren/swan](https://github.com/hvdieren/swan) - Data-flow driven work-stealing scheduler
+* [hcarty/ocaml-hdf](https://github.com/hcarty/ocaml-hdf) - Library for reading/writing HDF4 data and reading NetCDF data
+* [hackingtype1/cgm-pebble](https://github.com/hackingtype1/cgm-pebble) - pebble watch-face or app to display cgm data
+* [gibranfp/Sampled-MinHashing](https://github.com/gibranfp/Sampled-MinHashing) - MinHash-based clustering for binary and weighted dyadic data (e.g. bag of words).
+* [ghostrong/algorithm](https://github.com/ghostrong/algorithm) - Data Structure and Algorithms
+* [gamefreak/Athena](https://github.com/gamefreak/Athena) - Data editor for Xsera, Antares, and Ares
+* [fredrikbk/libpack](https://github.com/fredrikbk/libpack) - Library that packs/serializes or unpacks/deserializes user-defined data layouts. The data layouts are specified using datatypes similar to MPI Datatypes. The library compiles the datatypes into efficient vectorized pack/unpack code at commit time using an LLVM-based online compiler.
+* [foool/Z-code](https://github.com/foool/Z-code) - A family of XOR erasure codes with optimal repair bandwidth for a single data node failure
+* [etmc/lemon](https://github.com/etmc/lemon) - Lemon is an MPI parallel I/O library that is intended to allow for efficient parallel I/O of both binary and metadata on massively parallel architectures. Data is stored in the SciDAC Lattice QCD Interchange Message Encapsulation format, that allows for storing large blocks of binary data and corresponding metadata in the same file.
+* [esden/ppm_to_spektrum_encoder](https://github.com/esden/ppm_to_spektrum_encoder) - An atmega based board converting standard servo data to spektrum satellite serial protocol for use with Paparazzi
+* [demorest/guppi_daq](https://github.com/demorest/guppi_daq) - Data acquisition software primarily for the GUPPI pulsar backend.
+* [debrouxl/tilp-libticables](https://github.com/debrouxl/tilp-libticables) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments scientific calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it supports the TI-Z80 series (73..86), the TI-68k series (89, 92+, V200, 89T) and the Nspire series (Nspire Clickpad / Touchpad / CX, both CAS and non-CAS)
+* [dcshi/Mysync](https://github.com/dcshi/Mysync) - Mysync is an MySQL binlog Parser. With it, you can sync mysql data to any other servers, such as redis, mc, sphinx and so on
+* [chneukirchen/rdd](https://github.com/chneukirchen/rdd) - random data dumper
+* [chadjoan/C-Survival-Kit](https://github.com/chadjoan/C-Survival-Kit) - A set of useful functions, data structures, and macros aimed at allowing more expressive and reliable C code.  Portability targets are OpenVMS and Linux.
+* [canonizer/libgpuvm](https://github.com/canonizer/libgpuvm) - library which simplifies host-GPU data transfer using userspace pagefault handling
+* [blucia0a/CTraps-gcc](https://github.com/blucia0a/CTraps-gcc) - Last Writer Slicing: data provenance tracking for concurrent program debugging & analysis
+* [blodow/realtime_urdf_filter](https://github.com/blodow/realtime_urdf_filter) - ROS package that can filter geometry defined in URDF models from Kinect depth images. Can also preprocess data for the OpenNI tracker, to remove backgrounds, robots etc.
+* [billvb/cfe](https://github.com/billvb/cfe) - This framework is used as the basis for the flight software for satellite data systems and instruments, but can be used on other embedded systems.
+* [ashwinraghav/Parallel_Open_SSL](https://github.com/ashwinraghav/Parallel_Open_SSL) - Use your idle GPU to encrypt your data. Give your CPU some breathing time!
+* [asanchez1987/jobcomp-elasticsearch](https://github.com/asanchez1987/jobcomp-elasticsearch) - SLURM jobcomp plugin to index data into an elasticsearch server
+* [arunsrinivasan/datatable](https://github.com/arunsrinivasan/datatable) - This mirror is outdated. Please check the new project page:
+* [anza/metar](https://github.com/anza/metar) - METAR data fetcher and parser
+* [alessio9008/Thingsquare-Contiki-O.S-Porting-STM32F4-Discovery](https://github.com/alessio9008/Thingsquare-Contiki-O.S-Porting-STM32F4-Discovery) - We have ported the Contiki Operating System to STM32F4 platform (http://www.st.com/stm32f4-discovery). We started with the work that was already done on an evaluation board based on STM32L1 platform (STEVAL-IKR001V1, http://www.st.com/web/en/catalog/tools/PF253893). The original project, called "Mist", was created by Thingsquare using Spirit1 radio transceiver (STEVAL-IKR001V8D, http://www.st.com/web/en/catalog/tools/FM116/SC1075/PF258319). We converted the system calls from the original platform to the target platform. We have adapted Spirit1 radio driver in order to work properly on STM32F4. Then, we created a Wireless Sensor Network and collected several communication and performance data.  I worked on it with Daniele Saitta.  To manage the entire work, we used IAR Embedded Workbench (http://www.iar.com/en/products/iar-embedded-workbench/arm/).
+* [addy689/DataStructuresLab](https://github.com/addy689/DataStructuresLab) - Graph Traversal (BFS & DFS), Single Source Shortest Path, Minimum Spanning Tree, RB Trees, B-Trees
+* [ZSShen/C-Common-Data-Structures](https://github.com/ZSShen/C-Common-Data-Structures) - Uniform C APIs for data structure manipulation
+* [XenonofArcticus/DynamicTrack](https://github.com/XenonofArcticus/DynamicTrack) - Access sources of dynamically-updated data about discrete entities like GPSes, INSes, ADS-B sources.
+* [TPSully/SRTM2STL](https://github.com/TPSully/SRTM2STL) - Create STL files from SRTM data for the purpose of creating 3D relief maps.
+* [SCIInstitute/fluorender](https://github.com/SCIInstitute/fluorender) - FluoRender is an interactive rendering tool for confocal microscopy data visualization.
+* [RobertABT/heightmap](https://github.com/RobertABT/heightmap) - OS data to STL for a 3d printer (Work in Progress)
+* [Remi-C/Pointcloud_in_db](https://github.com/Remi-C/Pointcloud_in_db) - This is a short project using  www.postgis.net , and www.github.com/pramsey/pointcloud  to store efficentlly large point clouds in a www.postgresql.org data base
+* [JoshJGT/census_utils](https://github.com/JoshJGT/census_utils) - Operate on Census data in a variety of manners.
+* [GROX13/BitTorrent](https://github.com/GROX13/BitTorrent) - BitTorrent is a protocol for the practice of peer-to-peer file sharing that is used to distribute large amounts of data over the Internet. BitTorrent is one of the most common protocols for transferring large files, and peer-to-peer networks have been estimated to collectively account for approximately 43% to 70% of all Internet traffic (depending on geographical location) as of February 2009. In November 2004, BitTorrent was responsible for 35% of all Internet traffic. As of February 2013, BitTorrent was responsible for 3.35% of all worldwide bandwidth, more than half of the 6% of total bandwidth dedicated to file sharing.
+* [Cthutu/Krull](https://github.com/Cthutu/Krull) - Data definition language
+* [CGNS/CGNS](https://github.com/CGNS/CGNS) - The CFD General Notation System (CGNS) provides a standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations.
+* [winton/redis_parse](https://github.com/winton/redis_parse) - Reads huge amounts of pipe-delimited data from Redis, filters it, and returns counts by occurence
+* [wellsie1116/Darxen](https://github.com/wellsie1116/Darxen) - Downloader, parser, and renderer for NEXRAD data
+* [wankdanker/node-unixodbc-isql-json](https://github.com/wankdanker/node-unixodbc-isql-json) - A hacky solution for querying ODBC data sources (including MS SQL) with nodejs.
+* [vndmtrx/libadt](https://github.com/vndmtrx/libadt) - :vertical_traffic_light:libadt - an abstract data types library
+* [ufjf-dcc/dsgraph](https://github.com/ufjf-dcc/dsgraph) - DSGraph is an C/C++ library for visualizing data structures.
+* [tsznxx/wLib](https://github.com/tsznxx/wLib) - Python Modules for High-throughput Sequencing Data Analysis
+* [takev/mod_okioki](https://github.com/takev/mod_okioki) - An apache module that offers a RESTful data service with a PostgresQL server.
+* [suprgyabhushan/Data-Structures-And-Algorithms](https://github.com/suprgyabhushan/Data-Structures-And-Algorithms) - All my codes done in the Course DSA during the second semester at IIIT Bangalore
+* [sounos/hidbase](https://github.com/sounos/hidbase) - Distributed Data Storage System
+* [sipcapture/hepipe](https://github.com/sipcapture/hepipe) - HEP-PIPE: Pipe arbitrary data (logs, events, cdrs, etc) to HEP server (HOMER)
+* [siddhant3s/cs215](https://github.com/siddhant3s/cs215) - My Third Semester, Data Structure Lab programs
+* [sean-/postgresql-varint](https://github.com/sean-/postgresql-varint) - Data type for PostgreSQL that encodes integers using variable width encoding in order to save space
+* [sdroege/snippets](https://github.com/sdroege/snippets) - Some algorithms and data structures
+* [samuellab/InterProcess](https://github.com/samuellab/InterProcess) - A compact C library to share data between processes on Windows. Fast. Simple
+* [rjsikarwar/gpu_compression](https://github.com/rjsikarwar/gpu_compression) - Nine Light weight Schemes to Compress and Decompress the data of Database Using GPU and also a planer
+* [richox/comprox](https://github.com/richox/comprox) - An experimental lossless data compression program with high compression ratio.
+* [r-medina/ll](https://github.com/r-medina/ll) - Thread safe linked list data structure for C
+* [popoffka/i3lock](https://github.com/popoffka/i3lock) - i3lock is a simple screen locker like slock. This repo contains a patched version of i3lock which displays additional data on the lock screen, such as current time (like this: http://nn.lv/3y1s).
+* [pforemski/libpjf](https://github.com/pforemski/libpjf) - A C library of data structures with tools (based on libasn)
+* [pd-projects/pd-double](https://github.com/pd-projects/pd-double) - a dev fork of pure-data.git for working on 64-bit double-precision support
+* [ossc-db/pg_bulkload](https://github.com/ossc-db/pg_bulkload) - High speed data loading utility for PostgreSQL
+* [osdba/qpipe](https://github.com/osdba/qpipe) - Across the network of pipe tools, data sent through a pipe to another host, providing a reliable transmission function.
+* [noporpoise/seq_file](https://github.com/noporpoise/seq_file) - Library for Reading Bioinformatic Sequence Data in C
+* [nebneuron/clique-top](https://github.com/nebneuron/clique-top) - Topological data analysis tools for cross correlation matrices
+* [ncbi/osiris](https://github.com/ncbi/osiris) - OSIRIS is a public domain quality assurance software package that facilitates the assessment of multiplex short tandem repeat (STR) DNA profiles based on laboratory-specific protocols.  OSIRIS evaluates the raw electrophoresis data contained in .fsa or .hid files using an independently derived mathematically-based sizing algorithm.  OSIRIS currently supports ABI capillary analytical platforms and numerous commercially available marker kits including all CODIS-compliant kits as well as those favored by biomedical laboratories.
+* [nathanleclaire/algorithms_and_data_structures](https://github.com/nathanleclaire/algorithms_and_data_structures) - Want to learn more fundamentals of Comp Sci and get some practice writing C, C++, and Java.
+* [mw55309/c_fast5](https://github.com/mw55309/c_fast5) - C code to extract data from fast5 files
+* [muvarov/daq-odp](https://github.com/muvarov/daq-odp) - OpenDataPlane.org (ODP) Data Acquisition module for Snort.
+* [mozilla-services/lua_circular_buffer](https://github.com/mozilla-services/lua_circular_buffer) - Sliding window time series data storage and analysis.
+* [mikedlowis/data-structures](https://github.com/mikedlowis/data-structures) - A collection of data structures implemented in C to be included in multiple projects.
+* [miezuit/php-base85](https://github.com/miezuit/php-base85) - A PHP extension to encode/decode data with base85.
+* [messense/data-structure-learning](https://github.com/messense/data-structure-learning) - 数据结构学习，作业代码
+* [mattfoster/matlab-interpolation-toolkit](https://github.com/mattfoster/matlab-interpolation-toolkit) - A matlab toolkit for interpolating scattered data in interesting ways.
+* [mariokonrad/grib](https://github.com/mariokonrad/grib) - GRIB data access
+* [mar-file-system/marfs](https://github.com/mar-file-system/marfs) - MarFS provides a scalable near-POSIX file system by using one or more POSIX file systems as a scalable metadata component and one ore more data stores (object, file, etc) as a scalable data component. Our initial implementation will use GPFS file systems as the metadata component and Scality and EMC ECS ViPR object stores as the data component.
+* [lgsonic/mysqlIncSync](https://github.com/lgsonic/mysqlIncSync) - A mysql incremental synchronization tool which can parse mysql row-format binlog and process the incremental data
+* [leecbaker/datareftool](https://github.com/leecbaker/datareftool) - Dataref Tool for X-Plane plugin development
+* [kyle-github/libplctag](https://github.com/kyle-github/libplctag) - This library provides a portable and simple API for accessing PLC data over Ethernet and serial links.
+* [ksheedlo/kmdata](https://github.com/ksheedlo/kmdata) - Data structures for C programmers, by C programmers.
+* [kscz/n_stress](https://github.com/kscz/n_stress) - Linux network stress tester - attempts to send and receive data over a network as fast as possible and confirm integrity of the data
+* [krakjoe/SIMD](https://github.com/krakjoe/SIMD) - Simple Instructions, Multiple Data
+* [kljensen/Gemoda](https://github.com/kljensen/Gemoda) - A generic motif discovery algorithm for sequential data
+* [kbranigan/pow](https://github.com/kbranigan/pow) - C datastore/cache for MySQL data
+* [k7f/PureData](https://github.com/k7f/PureData) - branching clone of git://pure-data.git.sourceforge.net/gitroot/pure-data/pure-data
+* [jmasters/gbt-pipeline](https://github.com/jmasters/gbt-pipeline) - The Green Bank Telescope data analysis pipeline
+* [jkff/scrunch](https://github.com/jkff/scrunch) - Stream cruncher - data stream algorithms
+* [jcw/vlerq](https://github.com/jcw/vlerq) - Vlerq is an experiment in column-wise data, persistence, and scripting
+* [japeq/bencode-tools](https://github.com/japeq/bencode-tools) - bencode-tools is a collection of tools for manipulating bencoded data.
+* [ibarwick/firebird_fdw](https://github.com/ibarwick/firebird_fdw) - A PostgreSQL foreign data wrapper (FDW) for Firebird
+* [hughsie/appdata-tools](https://github.com/hughsie/appdata-tools) - Application data website
+* [hroptatyr/glod](https://github.com/hroptatyr/glod) - Grokking lots of data
+* [guomeizhou/data_structure](https://github.com/guomeizhou/data_structure) - 数据结构
+* [guiquanz/sundial](https://github.com/guiquanz/sundial) - sundial -  is a collection of useful Abstract Data Structure and Utilities from some open source C projects such as Redis, smhasher, linux and so on.
+* [gokhankici/orc_fdw](https://github.com/gokhankici/orc_fdw) - PostgreSQL extension which implements a Foreign Data Wrapper (FDW) for ORC files.
+* [gnudennis/ds_c](https://github.com/gnudennis/ds_c) - Data Structure In C
+* [garthz/pdwiringPi](https://github.com/garthz/pdwiringPi) - Pure Data (pd) external for hardware I/O on a Raspberry Pi using wiringPi.
+* [fygrave/moloch_zmq](https://github.com/fygrave/moloch_zmq) - ZMQ data explort plugin for Moloch
+* [fmahnke/orxCraft](https://github.com/fmahnke/orxCraft) - Experimental data configuration editor for the Orx/Scroll game engine. C++
+* [federicomenaquintero/evolution-data-server](https://github.com/federicomenaquintero/evolution-data-server) - Full history of evolution-data-server
+* [elvismt/slope](https://github.com/elvismt/slope) - A library to create charts from raw data using cairo. Can be shown in GtkDrawingArea
+* [eeertekin/bbcp](https://github.com/eeertekin/bbcp) - Securely and quickly copy data from source to target.
+* [edussx/database](https://github.com/edussx/database) - B+tree database
+* [easydatawarehousing/easy2oracle](https://github.com/easydatawarehousing/easy2oracle) - Easy-To-Oracle is a data integration tool. It can pull data from databases like Microsoft SQL Server, MySQL, Sybase, SQLite, Presto (Hadoop) and Excel directly into your Oracle 10g/11g/12c database
+* [eam/libcrange](https://github.com/eam/libcrange) - Range parsing library for managing sets of hostnames, ips, clusters, roles and other operational data.
+* [dolaameng/pysax](https://github.com/dolaameng/pysax) - python implementation of SAX (Symbolic Aggregate Approximation) for time series data
+* [deactivated/collectd-write-zmq](https://github.com/deactivated/collectd-write-zmq) - a collectd plugin that writes data via zeromq
+* [darkstalker/dbc_browser](https://github.com/darkstalker/dbc_browser) - quick and dirty web DBC browser for WoW spell data
+* [chergert/egg-fmt](https://github.com/chergert/egg-fmt) - stdout formatting of data in csv, shell tables, etc
+* [chadjoan/sleep-waffle](https://github.com/chadjoan/sleep-waffle) - A reimplementation of the Zeo Raw Data Library with less restrictive (Boost) licensing and written in C with a non-threaded polling-event model.  And a silly name.
+* [calvinwilliams/tcpdaemon](https://github.com/calvinwilliams/tcpdaemon) - Tcpdaemon is similar to the xinetd TCP daemon, which is under the particular process model of TCP connection management, docking with the customer communication data protocol layer and application processing module on runtime or compile linking, construct TCP server quickly.
+* [caius/fio](https://github.com/caius/fio) - Mirror of git://brick.kernel.dk/data/git/fio.git
+* [bryansum/ijam](https://github.com/bryansum/ijam) - A collaborative music application for the iPhone utilizing Pure Data.
+* [bl0b/tinyap](https://github.com/bl0b/tinyap) - One build to parse them all. A GLR-like parsing engine where the grammar is actually data. And you can augment the grammar at runtime. Also provides a framework to walk the resulting ASTs. C API and commandline frontend available.
+* [bigclean/structure](https://github.com/bigclean/structure) - Several languages of data structure practice
+* [beave/nfdump-1.6.10p1-sagan](https://github.com/beave/nfdump-1.6.10p1-sagan) - Modified version of Nfdump which allows Sagan to analyze netflow data in real time
+* [atduskgreg/Head-Puppet](https://github.com/atduskgreg/Head-Puppet) - Open Frameworks app for distorting a 3D model of my head based on Kinect skeleton tracking data over OSC
+* [arnimarj/py-pointless](https://github.com/arnimarj/py-pointless) - A fast and efficient read-only relocatable data structure for JSON like data, with C and Python APIs
+* [armink/EasyDataManager](https://github.com/armink/EasyDataManager) - A c language advanced framework of data manager. Support static data and dynamic data. Supply easy and simple interface for app.
+* [alexbirkett/GPSBabel](https://github.com/alexbirkett/GPSBabel) - Free software for GPS data conversion and transfer
+* [alandekok/recli](https://github.com/alandekok/recli) - A re-imagined CLI.  Customizable syntax, help, permissions, data types.
+* [ZhengYang/dc_fdw](https://github.com/ZhengYang/dc_fdw) - PostgreSQL - Document Collection Foreign-data Wrapper (works with 9.1 to 9.3)
+* [NDN-Routing/NLSR0.0](https://github.com/NDN-Routing/NLSR0.0) - Named Data Link State Routing
+* [LeechanX/data_struct_and_algorithms_using_C](https://github.com/LeechanX/data_struct_and_algorithms_using_C) - 所有基础数据结构和算法的纯C语言实现，如各自排序、链表、栈、队列、各种树以及应用、图算法、字符串匹配算法、回溯、并查集等，献丑了
+* [Krakonos/cutils](https://github.com/Krakonos/cutils) - C utilities and data structures
+* [Kevincav/Radix-Sort](https://github.com/Kevincav/Radix-Sort) - Radix Sort with different data types.
+* [CAIDA/corsaro](https://github.com/CAIDA/corsaro) - Corsaro is a software suite for performing large-scale analysis of trace data. It was specifically designed to be used with passive traces captured by darknets, but the overall structure is generic enough to be used with any type of passive trace data.
+* [BuildItNow/BIN_LuaBind](https://github.com/BuildItNow/BIN_LuaBind) - BIN_LuaBind是一个和luabind、tolua++类似的库，提供了简洁的C/C++到lua的绑定机制，但与之不同的是BIN_LuaBind比他们更安全：lua层不在直接依赖于C/C++层指针，避免野指针引起宕机。除此之外，BIN_LuaBind对Lua提供了对lua_state,user data和table的抽象类，在C++端能方便的操作lua
+* [BlackLight/fkmeans](https://github.com/BlackLight/fkmeans) - A tiny library in C for managing kmeans clusterization algorithm over arbitrary data sets, both by manually specifying the number k of clusters and computing it automatically using Schwarz criterion
+* [BlackBears/CCFNumberPickerView](https://github.com/BlackBears/CCFNumberPickerView) - A scaled, slick slider-type view for numerical data entry on iOS devices
+* [Akira-Hayasaka/ofxOnsetDetection](https://github.com/Akira-Hayasaka/ofxOnsetDetection) - Audio onset detection addon using ofSoundGetSpectrum (or any frequency-domain data. e.g. FFT on the input audio)
+* [AaronJackson/sage-in-c](https://github.com/AaronJackson/sage-in-c) - Simple library written in C for accessing invoices and company data created by Sage Accounts 50.
+* [zhi1ong/bms-da](https://github.com/zhi1ong/bms-da) - Data acquisition by arduino (upload sensor data)
+* [yuya-takeyama/hashtable_dump](https://github.com/yuya-takeyama/hashtable_dump) - A Zend Extension to dump HashTable data structure on Zend Engine.
+* [yurovsky/swo-tracer](https://github.com/yurovsky/swo-tracer) - ARM SWO trace data listener/parser
+* [yathindra/Merge-Sort-on-Massive-Data](https://github.com/yathindra/Merge-Sort-on-Massive-Data) - Merge Sort on Massive Data
+* [yarikoptic/NiPy-OLD](https://github.com/yarikoptic/NiPy-OLD) - Analysis of structural and functional neuroimaging data in Python (yet not stabilized -- fork on your risk)
+* [xianhuawei/datax](https://github.com/xianhuawei/datax) - http://code.taobao.org/p/datax/wiki/index/
+* [webglearth/gdaldem_web](https://github.com/webglearth/gdaldem_web) - Utility for encoding elevation data (DEM) for use on the web (with WebGL Earth). Elevation value is encoded into RGB.
+* [vi/chaoticfs](https://github.com/vi/chaoticfs) - Encrypting FUSE filesystem with "false bottom" allowing exposing the data only partially
+* [vhmth/Lego-Box](https://github.com/vhmth/Lego-Box) - Write up all the data structures!
+* [verzhak/sfire](https://github.com/verzhak/sfire) - Quantum GIS plugin for mapping of burnt forest areas using Landsat 5 data sets
+* [v92/libiorouter](https://github.com/v92/libiorouter) - libiorouter is LD_PRELOAD library for caching data and metadata requests from backend directory to local directory transparently to application.
+* [ubixum/UXN1212_firmware](https://github.com/ubixum/UXN1212_firmware) - Firmware for the Ubixum UXN1212 USB data acquisition board
+* [tyler-cromwell/Data-structs](https://github.com/tyler-cromwell/Data-structs) - A collection of Data Structures that I have implemented to make the construction of some of my other programs/projects easier
+* [tokuhirom/shirokaned](https://github.com/tokuhirom/shirokaned) - simple cache server for small binary data, feed contents with http protocol, master-master support.
+* [tianyaqu/mongodb-in-financial-market](https://github.com/tianyaqu/mongodb-in-financial-market) - mongodb solution for financial market data
+* [theKeithD/thmj3g-tools](https://github.com/theKeithD/thmj3g-tools) - Collection of tools to unpack and repack data used by the D.N.A.Softwares doujin game, Touhou Unreal Mahjong 3rd Generation.
+* [tedluo/rs485](https://github.com/tedluo/rs485) - This is a simple drive for rs485 to translate data between two arm 6410 openboard
+* [teamBICYCLE/libdatac](https://github.com/teamBICYCLE/libdatac) - a collection of data library
+* [tailhook/objpath](https://github.com/tailhook/objpath) - A library that allows to traverse data structures by path
+* [tai/ruby-p-for-c](https://github.com/tai/ruby-p-for-c) - Data dumper macro for C, which dumps content of any data/structure/expression without prior knowledge of actual format. Works just like "p" or "pp" in Ruby.
+* [svanderburg/libamivideo](https://github.com/svanderburg/libamivideo) - Conversion library for Amiga planar graphics data and EHB, HAM screen modes
+* [strands-project/data_compression](https://github.com/strands-project/data_compression) - Video encoding for 8 bit RGB images, 16 bit grayscale depth images and possibly more.
+* [starnight/simple-data-structure](https://github.com/starnight/simple-data-structure) - Simple Data Structure library
+* [ssfrr/HearThereOSC](https://github.com/ssfrr/HearThereOSC) - A small program to receive some IMU orientation data from the HearThere Head Tracker
+* [slim-curve/slim-curve](https://github.com/slim-curve/slim-curve) - SLIM Curve: a package for exponential curve fitting of combined spectral lifetime image data
+* [shuLhan/vos](https://github.com/shuLhan/vos) - Vos is a program to process formatted data, i.e. CSV data. Vos is designed to process a large input file, a file where their size is larger than the size of memory, and can be tuned to adapt with your machine environment.
+* [semmerson/NOAAPORT](https://github.com/semmerson/NOAAPORT) - The Unidata NOAAPORT package captures broadcast UDP packets from a DVB-S or DVB-S2 receiver listening to the NOAAPORT satellite broadcast, creates data-products from the UDP packets, and inserts those data-products into an LDM product-queue.
+* [scytulip/nrf51-back-rec](https://github.com/scytulip/nrf51-back-rec) - NRF51822 Firmware for Background Data Recording
+* [samdeane/xcode-unicode-formatter](https://github.com/samdeane/xcode-unicode-formatter) - Xcode data view plugin for formatting 16-bit and 32-bit unicode strings
+* [redBorder/n2kafka](https://github.com/redBorder/n2kafka) - Tool that listen on a given port and throw all data received to a kafka topic
+* [rdub/smallfile](https://github.com/rdub/smallfile) - Security tool to create a large number of small (FS blocksize or less) files full of random data, in an effort to sanitize filesystem freespace and journal.
+* [rajatkhanduja/Benchmarks](https://github.com/rajatkhanduja/Benchmarks) - Some programs to test the performance of two (or more) methods to achieve the same thing. It could be two (or more) data structures or two (or more) algorithms to solve the same problem
+* [rainkid/dataserv](https://github.com/rainkid/dataserv) - dataserv
+* [qris/iptables](https://github.com/qris/iptables) - Modified iptables binary for firewall data gathering via JSON
+* [pkmital/pkmColorBlobTracker](https://github.com/pkmital/pkmColorBlobTracker) - track overhead using color and map tracked points to a new geometry using a homography transformation and calibration routine - some example test videos are provided in the bin/data directory of an overhead capture.  The tracking transformation is useful for when you need a defined metric space of your tracking parameters, or need to account for different user heights in tracking their paths in a space.
+* [pi8027/libdatastruct](https://github.com/pi8027/libdatastruct) - libdatastruct is an ANSI C library for abstract data types.
+* [php/pecl-database-pdo_user](https://github.com/php/pecl-database-pdo_user) - Userspace driver for PDO
+* [pcdavid/data-structures](https://github.com/pcdavid/data-structures) - Sample implementations of classical data structures in C.
+* [paulreimer/ofxWebUI-poco](https://github.com/paulreimer/ofxWebUI-poco) - A jquery-mobile web page which generates HTML5 form controls (from a protobuf-gwt generated description file) for exchanging protocol buffer-encoded data with an openFrameworks app.
+* [olofsj/Whichway](https://github.com/olofsj/Whichway) - C library for flexible (bike, foot, car) routing in road networks from Openstreetmap data.
+* [olofsj/GLMap](https://github.com/olofsj/GLMap) - An OpenGL ES 2.0 renderer for Openstreetmap data
+* [odus/odus](https://github.com/odus/odus) - ODUS, a PHP module to improve performance/data size of serialization/unserialization.
+* [noporpoise/madcrowlib](https://github.com/noporpoise/madcrowlib) - Common C data structure macros
+* [nohbdy/libtorchlight2](https://github.com/nohbdy/libtorchlight2) - Library and tools for extracting data from the PAK archives used in the game 'Torchlight 2'
+* [nightscout/cgm-pebble-splitscreen](https://github.com/nightscout/cgm-pebble-splitscreen) - Pebble app to view data from two nightscout servers .
+* [nicknassar/cosby](https://github.com/nicknassar/cosby) - A TI99/4a data cassette interface software modem and practical example of signal processing with the infamous FFT
+* [nashvail/Data-Structures](https://github.com/nashvail/Data-Structures) - Includes implementation of common data structures along with specific algorithmic operations.
+* [n1ckfg/recKinect](https://github.com/n1ckfg/recKinect) - Utility for recording raw Kinect data; much faster than Processing but binary output must be remapped
+* [msettles/rSFFreader](https://github.com/msettles/rSFFreader) - R packages for flow gram based sequence data Roche 454 and Ion Torrent
+* [mrnugget/data_structures](https://github.com/mrnugget/data_structures) - Implementations of common data structures in C
+* [mmadry/st-hmp](https://github.com/mmadry/st-hmp) - Implementation of the Spatio-Temporal Hierarchical Matching Pursuit (ST-HMP) descriptor presented in the paper: M. Madry, L. Bo, D. Kragic, D. Fox, "ST-HMP: Unsupervised Spatio-Temporal Feature Learning for Tactile Data". In ICRA, 2014 (Download: http://www.nada.kth.se/~madry/publications/madry2014ICRA.pdf).
+* [mlongob/Linux-Kernel-Hack](https://github.com/mlongob/Linux-Kernel-Hack) - Minimal Hacks to the Linux Kernel to gather data about machine utilization
+* [mlin/ocaml-bgzf](https://github.com/mlin/ocaml-bgzf) - OCaml library for BGZF, a gunzip-compatible format allowing random access to the uncompressed data
+* [mklong/libngx](https://github.com/mklong/libngx) - static library about nginx core data structure include array,buf,hash,list,queue ,tree,string and memory pool
+* [mist64/pucrunch](https://github.com/mist64/pucrunch) - pucrunch, an Optimizing Hybrid LZ77 RLE Data Compression Program for C64/C128/VIC-20/Plus4
+* [mikelhernaez/qvz](https://github.com/mikelhernaez/qvz) - A Lossy compressor for Quality Scores in Genomic Data
+* [mgp/redis-types](https://github.com/mgp/redis-types) - Library of the Redis data types
+* [mchochlov/Gnucash](https://github.com/mchochlov/Gnucash) - Data model unit testing - GSoC 2011
+* [mbrazeau/Morphy](https://github.com/mbrazeau/Morphy) - Phylogenetic analysis of morphological data
+* [mbornet-hl/hl](https://github.com/mbornet-hl/hl) - Highlight (colorize) text data using regular expressions
+* [mattlgroff/TWRP2.5_F2FS_QCOM](https://github.com/mattlgroff/TWRP2.5_F2FS_QCOM) - TWRP2.5 android_bootable_recovery for Moto X, Qualcomm based with F2FS filesystem for /data/
+* [mattjr/structured](https://github.com/mattjr/structured) - Tools for the Generation and Visualization of Large-scale Three-dimensional Reconstructions from Image Data.
+* [mattbornski/cdf](https://github.com/mattbornski/cdf) - A Python package which handles files in NASA Common Data Format
+* [makefu/skytraq-datalogger](https://github.com/makefu/skytraq-datalogger) - configuration and download tool for GPS data loggers based on Skytraq Venus 5 and 6 chipsets
+* [lyda/tz](https://github.com/lyda/tz) - Historical archive of the zoneinfo project.  Generated from the original data with the tz-history-scripts.
+* [ljmocic/PJISP](https://github.com/ljmocic/PJISP) - Programming Languages and Data Structures
+* [liuluheng/levmu](https://github.com/liuluheng/levmu) - Based on redis protocol, storing data in leveldb, using muduo for communication
+* [liuliu/ndqi](https://github.com/liuliu/ndqi) - Non-structural Data Query Interface
+* [libertyernie/goombasav](https://github.com/libertyernie/goombasav) - Extract/replace Game Boy SRAM data stored in Goomba/Goomba Color SRAM
+* [leecarraher/CardinalityShiftClustering](https://github.com/leecarraher/CardinalityShiftClustering) - MOVED -- https://github.com/wilseypa/rphash -- Ongoing research into communication minimizing parallel data clustering for an LSH accelerated random projection mean-shift algorithm.
+* [kronihias/smpte-](https://github.com/kronihias/smpte-) - Pure Data/Max (flext) external for generating or decoding ltc audio timecode.
+* [kevinbirch/kanabo](https://github.com/kevinbirch/kanabo) - query JSON/YAML data with JSONPath
+* [jvirtanen/dada](https://github.com/jvirtanen/dada) - Generate tabular text data
+* [jvimal/perfiso_10g](https://github.com/jvimal/perfiso_10g) - Network Performance Isolation for Data Centres.   WIP: stay tuned!
+* [jtramm/GraphMC](https://github.com/jtramm/GraphMC) - An OpenMC statepoint file reader and data visualization suite
+* [jsvennevid/filearchive](https://github.com/jsvennevid/filearchive) - File archive library allowing for easy creation and access to data stored inside a container through a simple API.
+* [jpmens/mqtt-chronos](https://github.com/jpmens/mqtt-chronos) - Periodically submit time/date-related data to an MQTT broker
+* [jenswilly/AVR-enc28j60-pachube](https://github.com/jenswilly/AVR-enc28j60-pachube) - AVR Libc-based project for ATmega328/-168 sending data to Pachube using an ENC28J60 with the Tuxgraphics TCP library.
+* [irvined1982/loguino](https://github.com/irvined1982/loguino) - Logiuno, an arduino based data aquisition tool
+* [hroptatyr/gandalf](https://github.com/hroptatyr/gandalf) - serve time series from rolled-out text data, part of the army of unserding services
+* [hp09d/SAE-Baja-Data-Acquisition](https://github.com/hp09d/SAE-Baja-Data-Acquisition) - Senior Design project year 2014-2015
+* [hoxnox/rawsock_recv_example](https://github.com/hoxnox/rawsock_recv_example) - SOCK_RAW IPPROTO_UDP socket data transmission example
+* [horchi/linux-p4d](https://github.com/horchi/linux-p4d) - Deamon which fetch sensor data of the 'Lambdatronic s3200' and store to a MySQL database
+* [heimir-sverrisson/jdbc2_fdw](https://github.com/heimir-sverrisson/jdbc2_fdw) - JDBC Foreign Data Wrapper for PostgreSQL
+* [harnold/generic-c](https://github.com/harnold/generic-c) - A library of generic data structures and algorithms for C, in the spirit of the STL
+* [haf/System.Data.SQLite](https://github.com/haf/System.Data.SQLite) - A mirror to the official https://system.data.sqlite.org site which uses Fossil for their SCM, and configured to be buildable on mono.
+* [hacatu/haclib](https://github.com/hacatu/haclib) - A utility library providing data types C should have been made with such as vectors and sequences, mostly as macros.
+* [grundprinzip/bitcompressedvector](https://github.com/grundprinzip/bitcompressedvector) - Provide a container for integral data types that applies light-weight bit compression
+* [graphitemaster/bitbytebit](https://github.com/graphitemaster/bitbytebit) - bit-level data transposition compression algorithm
+* [gleicon/leveldb_engine](https://github.com/gleicon/leveldb_engine) - memcached leveldb engine - stores data on leveldb
+* [ggounot/BnfData](https://github.com/ggounot/BnfData) - Android Application: Auteurs et œuvres
+* [ggobi/ggobi](https://github.com/ggobi/ggobi) - High dimensional data vis
+* [fritz0705/libf](https://github.com/fritz0705/libf) - Library to make programming simpler and cleaner (and slower, because I was too lazy to implement usable data structures)
+* [freels/ruby_trie](https://github.com/freels/ruby_trie) - Native C implementation of a trie data structure.
+* [foldedtoad/PebblePointer](https://github.com/foldedtoad/PebblePointer) - Sending Pebble Watch accelerometer data to an Android app -- See wiki
+* [fictorial/logstore](https://github.com/fictorial/logstore) - experimental data storage engine for arbitrary data for POSIX systems with spinning hard disks
+* [farsightsec/dnstable](https://github.com/farsightsec/dnstable) - encoding format, library, and utilities for passive DNS data
+* [esheldon/meds](https://github.com/esheldon/meds) - Python and C libraries to work with Multi Epoch Data Structures
+* [eos-org/datastructures](https://github.com/eos-org/datastructures) - PHP extensions for classes supporting common datastructures
+* [energinet/datalogger-client](https://github.com/energinet/datalogger-client) - Energinet Datalogger
+* [elliotwoods/ARDrone-GStreamer-test](https://github.com/elliotwoods/ARDrone-GStreamer-test) - Test of reading video data from ARDrone using GStreamer (cross-platform code, win32 project)
+* [einsteinx2/libSub](https://github.com/einsteinx2/libSub) - Internal library used by iSub, encapsulates the data model and audio engine. Licensed under the GPL3.
+* [draco2003/freebsd-database-riak](https://github.com/draco2003/freebsd-database-riak) - FreeBSD port for riak support
+* [domoran/DriveDOORS](https://github.com/domoran/DriveDOORS) - An efficient data Interface to IBM Rational DOORS
+* [debrouxl/tilp-linkguide](https://github.com/debrouxl/tilp-linkguide) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments scientific calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it supports the TI-Z80 series (73..86), the TI-68k series (89, 92+, V200, 89T) and the Nspire series (Nspire Clickpad / Touchpad / CX, both CAS and non-CAS)
+* [czarrar/cwas-paper](https://github.com/czarrar/cwas-paper) - Scripts to analyze data and generate figures for the CWAS paper
+* [corks/corc.ds](https://github.com/corks/corc.ds) - A data structure library written in C.
+* [codinghead/nmea-module](https://github.com/codinghead/nmea-module) - Module to enable decoding of NMEA data from GPS receivers.
+* [chutsu/cog](https://github.com/chutsu/cog) - C common library containing common data structures, sorting algorithms and utility functions
+* [chenlonggang/Adaptive-CSA](https://github.com/chenlonggang/Adaptive-CSA) - Adaptive CSA, is data-aware,can select the best coding-method for each block
+* [cdkamat/hammerspace](https://github.com/cdkamat/hammerspace) - Senior Year (BE Computer Engg.) Undergraduate project - Data Deduplication for the TUX 3 Linux File System
+* [caomaocao/micro-camera](https://github.com/caomaocao/micro-camera) - The mircocamera driven by a STM32 chip and its PC client. The microcamera captures a photo and then converts it to JPEG or BMP formet.     Finally , the camera sent image  data to PC by 485 serial-ports
+* [bruceg/sqldjbdns](https://github.com/bruceg/sqldjbdns) - An authoritative DNS server that pulls its data directly from a set of SQL tables
+* [brandenburg/sched-trace-tools](https://github.com/brandenburg/sched-trace-tools) - Some tools for working with LITMUS^RT sched_trace data.
+* [bpudream/pat](https://github.com/bpudream/pat) - Data Structure (中国大学MOOC-陈越、何钦铭-数据结构)
+* [borland667/btier](https://github.com/borland667/btier) - Btier is a tiered storage that automatically moves frequently accessible data to fast(er) device.
+* [blitz/xplot](https://github.com/blitz/xplot) - Plot tcptrace data
+* [blacksmithlabs/NetworkRecorder](https://github.com/blacksmithlabs/NetworkRecorder) - An app to record targeted network traffic data of other apps using iptables.
+* [bgamari/data-logger](https://github.com/bgamari/data-logger) - An autonomous data logging firmware for the MC HCK development board
+* [bendmorris/pybioclim](https://github.com/bendmorris/pybioclim) - A Python interface to BIOCLIM climate data. Data files included in package.
+* [barankurtulusozan/Algorithms-and-Data-Structures](https://github.com/barankurtulusozan/Algorithms-and-Data-Structures) - Introduction To Algorithms and Data Structures
+* [baiwei0427/XPath](https://github.com/baiwei0427/XPath) - Explicit Path Control in Commodity Data Centers
+* [baina/biyifei](https://github.com/baina/biyifei) - The general flight data cloud acceleration system design
+* [avilleret/laser_drawer](https://github.com/avilleret/laser_drawer) - laser_driver is a pure-data patch to control a Laser projector with a sound card
+* [atmatthewat/mdc-encode-decode](https://github.com/atmatthewat/mdc-encode-decode) - Software modem for a specific data burst format
+* [atduskgreg/Leg-Visualization](https://github.com/atduskgreg/Leg-Visualization) - OF app to visualize leg movement data from Biomechanics and Motor Control of Human Movement by David A. Winter
+* [aspotton/xonotic-data-patches](https://github.com/aspotton/xonotic-data-patches) - A clone of xonotic-data plus additional branches
+* [aseveryn/NLPIR-2013](https://github.com/aseveryn/NLPIR-2013) - Source code and data used in the NLPIR course (Sprint, 2013)
+* [as0ler/iphone-dataprotection](https://github.com/as0ler/iphone-dataprotection) - Some useful tools for a iOS Forensics.
+* [andrewstone/AbqData](https://github.com/andrewstone/AbqData) - Tools to read ABQ Open Data Initiative city gov data
+* [alessio9008/PLC-to-STM32F4-communication-through-PC-as-gateway](https://github.com/alessio9008/PLC-to-STM32F4-communication-through-PC-as-gateway) - This project has been made using the STM32F4 accelerometer and a Siemens S7-300 unit. The microcontroller is programmed to send data to a PC by using a serial-port communication; these data are read from a C# program that forward them to the PLC memory. Then, the PLC unit, that recognizes the microcontroller position, moves a mechanical arm.
+* [aimxhaisse/des](https://github.com/aimxhaisse/des) - C implementation of Data Encryption Standard
+* [ai-ku/scode](https://github.com/ai-ku/scode) - Sphere embedding (s-code) is a variation of Euclidean embedding of co-occurence data (code).
+* [adnanozsoy/CUDA_Compression](https://github.com/adnanozsoy/CUDA_Compression) - A GPU-based LZSS compression algorithm, highly tuned for NVIDIA GPGPUs and for streaming data, leveraging the respective strengths of CPUs and GPUs together.
+* [adenine/ofxFFT_to_OSC](https://github.com/adenine/ofxFFT_to_OSC) - This is an app which uses ofxFFT to then send out OSC data relating to the music being interpreted.
+* [a4tunado/mll](https://github.com/a4tunado/mll) - Library used for studying machine learning course at Yandex Data Analysis School.
+* [Whiteknight/ParrotStore](https://github.com/Whiteknight/ParrotStore) - Storage and data persistance for Parrot VM
+* [UniversalPrimer/flv-analyzer](https://github.com/UniversalPrimer/flv-analyzer) - Loads an FLV file into sane C data structures and outputs fields as human readable
+* [TauLabs/overo-datalogger](https://github.com/TauLabs/overo-datalogger) - The code that runs on the Overo to provide a datalogger
+* [Tarsnap/kivaloo](https://github.com/Tarsnap/kivaloo) - Kivaloo is a collection of utilities which together form a data store associating keys of up to 255 bytes with values of up to 255 bytes.
+* [Suor/postgresql-json](https://github.com/Suor/postgresql-json) - Extract data from PostgreSQL JSON fields.
+* [SabinT/ffmpeg-rgb-video](https://github.com/SabinT/ffmpeg-rgb-video) - A simple utility that makes it straightforward to create videos from raw RGB data. No need to learn the details of ffmpeg.
+* [SOYJUN/FTP-implement-based-on-UDP](https://github.com/SOYJUN/FTP-implement-based-on-UDP) - The aim of this assignment is to have you do UDP socket client / server programming with a focus on two broad aspects :  Setting up the exchange between the client and server in a secure way despite the lack of a formal connection (as in TCP) between the two, so that ‘outsider’ UDP datagrams (broadcast, multicast, unicast - fortuitously or maliciously) cannot intrude on the communication.  Introducing application-layer protocol data-transmission reliability, flow control and congestion control in the client and server using TCP-like ARQ sliding window mechanisms. The second item above is much more of a challenge to implement than the first, though neither is particularly trivial. But they are not tightly interdependent; each can be worked on separately at first and then integrated together at a later stage.  Apart from the material in Chapters 8, 14 & 22 (especially Sections 22.5 - 22.7), and the experience you gained from the preceding assignment, you will also need to refer to the following :  ioctl function (Chapter 17).  get_ifi_info function (Section 17.6, Chapter 17). This function will be used by the server code to discover its node’s network interfaces so that it can bind all its interface IP addresses (see Section 22.6).  ‘Race’ conditions (Section 20.5, Chapter 20) You also need a thorough understanding of how the TCP protocol implements reliable data transfer, flow control and congestion control. Chapters 17- 24 of   TCP/IP Illustrated, Volume 1  by W. Richard Stevens gives a good overview of TCP. Though somewhat dated for some things (it was published in 1994), it remains, overall, a good basic reference.  Overview  This assignment asks you to implement a primitive file transfer protocol for Unix platforms, based on UDP, and with TCP-like reliability added to the transfer operation using timeouts and sliding-window mechanisms, and implementing flow and congestion control. The server is a concurrent server which can handle multiple clients simultaneously. A client gives the server the name of a file. The server forks off a child which reads directly from the file and transfers the contents over to the client using UDP datagrams. The client prints out the file contents as they come in, in order, with nothing missing and with no duplication of content, directly on to stdout (via the receiver sliding window, of course, but with no other intermediate buffering). The file to be transferred can be of arbitrary length, but its contents are always straightforward ascii text.  As an aside let me mention that assuming the file contents ascii is not as restrictive as it sounds. We can always pretend, for example, that binary files are base64 encoded (“ASCII armor”). A real file transfer protocol would, of course, have to worry about transferring files between heterogeneous platforms with different file structure conventions and semantics. The sender would first have to transform the file into a platform-independent, protocol-defined, format (using, say, ASN.1, or some such standard), and the receiver would have to transform the received file into its platform’s native file format. This kind of thing can be fairly time consuming, and is certainly very tedious, to implement, with little educational value - it is not part of this assignment.  Arguments for the server  You should provide the server with an input file server.in from which it reads the following information, in the order shown, one item per line :  Well-known port number for server. Maximum sending sliding-window size (in datagram units). You will not be handing in your server.in file. We shall create our own when we come to test your code. So it is important that you stick strictly to the file name and content conventions specified above. The same applies to the client.in input file below.  Arguments for the client  The client is to be provided with an input file client.in from which it reads the following information, in the order shown, one item per line :  IP address of server (not the hostname). Well-known port number of server. filename to be transferred. Receiving sliding-window size (in datagram units). Random generator seed value. Probability p of datagram loss. This should be a real number in the range [ 0.0 , 1.0 ]  (value 0.0 means no loss occurs; value 1.0 means all datagrams all lost). The mean µ, in milliseconds, for an exponential distribution controlling the rate at which the client reads received datagram payloads from its receive buffer. Operation  Server starts up and reads its arguments from file server.in.  As we shall see, when a client communicates with the server, the server will want to know what IP address that client is using to identify the server (i.e. , the destination IP address in the incoming datagram). Normally, this can be done relatively straightforwardly using the IP_RECVDESTADDR socket option, and picking up the information using the ancillary data (‘control information’) capability of the recvmsg function. Unfortunately, Solaris 2.10 does not support the IP_RECVDESTADDR option (nor, incidentally, does it support the msg_flags option in msghdr - see p.390). This considerably complicates things.  In the absence of IP_RECVDESTADDR, what the server has to do as part of its initialization phase is to bind each IP address it has (and, simultaneously, its well-known port number, which it has read in from server.in) to a separate UDP socket. The code in Section 22.6, which uses the get_ifi_info function, shows you how to do that. However, there are important differences between that code and the version you want to implement. The code of Section 22.6 binds the IP addresses and forks off a child for each address that is bound to. We do not want to do that. Instead you should have an array of socket descriptors. For each IP address, create a new socket and bind the address (and well-known port number) to the socket without forking off child processes. Creating child processes comes later, when clients arrive.  The code of Section 22.6 also attempts to bind broadcast addresses. We do not want to do this. It binds a wildcard IP address, which we certainly do not want to do either. We should bind strictly only unicast addresses (including the loopback address).  The get_ifi_info function (which the code in Section 22.6 uses) has to be modified so that it also gets the network masks for the IP addresses of the node, and adds these to the information stored in the linked list of ifi_info structures (see Figure 17.5, p.471) it produces. As you go binding each IP address to a distinct socket, it will be useful for later processing to build your own array of structures, where a structure element records the following information for each socket :  sockfd IP address bound to the socket network mask for the IP address subnet address (obtained by doing a bit-wise and between the IP address and its network mask)  Report, in a ReadMe file which you hand in with your code, on the modifications you had to introduce to ensure that only unicast addresses are bound, and on your implementation of the array of structures described above.  You should print out on stdout, with an appropriate message and appropriately formatted in dotted decimal notation, the IP address, network mask, and subnet address for each socket in your array of structures (you do not need to print the sockfd).  The server now uses select to monitor the sockets it has created for incoming datagrams. When it returns from select, it must use recvfrom or recvmsg to read the incoming datagram (see 6. below).  When a client starts, it first reads its arguments from the file client.in.  The client checks if the server host is ‘local’ to its (extended) Ethernet. If so, all its communication to the server is to occur as MSG_DONTROUTE (or SO_DONTROUTE socket option). It determines if the server host is ‘local’ as follows. The first thing the client should do is to use the modified get_ifi_info function to obtain all of its IP addresses and associated network masks.  Print out on stdout, in dotted decimal notation and with an appropriate message, the IP addresses and network masks obtained.  In the following, IPserver designates the IP address the client will use to identify the server, and IPclient designates the IP address the client will choose to identify itself.  The client checks whether the server is on the same host. If so, it should use the loopback address 127.0.0.1 for the server (i.e. , IPserver = 127.0.0.1). IPclient should also be set to the loopback address.  Otherwise it proceeds as follows:  IPserver is set to the IP address for the server in the client.in file. Given IPserver and the (unicast) IP addresses and network masks for the client returned by get_ifi_info in the linked list of ifi_info structures, you should be able to figure out if the server node is ‘local’ or not. This will be discussed in class; but let me just remind you here that you should use ‘longest prefix matching’ where applicable.  If there are multiple client addresses, and the server host is ‘local’, the client chooses an IP address for itself, IPclient, which matches up as ‘local’ according to your examination above. If the server host is not ‘local’, then IPclient can be chosen arbitrarily.  Print out on stdout the results of your examination, as to whether the server host is ‘local’ or not, as well as the IPclient and IPserver addresses selected.  Note that this manner of determining whether the server is local or not is somewhat clumsy and ‘over-engineered’, and, as such, should be viewed more in the nature of a pedagogical exercise. Ideally, we would like to look up the server IP address(es) in the routing table (see Section 18.3). This requires that a routing socket be created, for which we need superuser privilege. Alternatively, we might want to dump out the routing table, using the sysctl function for example (see Section 18.4), and examine it directly. Unfortunately, Solaris 2.10 does not support sysctl.   Furthermore, note that there is a slight problem with the address 130.245.1.123/24 assigned to compserv3 (see rightmost column of file hosts, and note that this particular compserv3 address “overlaps” with the 130.245.1.x/28 addresses in that same column assigned to compserv1, compserv2 & comserv4). In particular, if the client is running on compserv3 and the server on any of the other three compservs, and if that server node is also being identified to the client by its /28 (rather than its /24) address, then the client will get a “false positive” when it tests as to whether the server node is local or not. In other words, the client will deem the server node to be local, whereas in fact it should not be considered local. Because of this, it is perhaps best simply not to use compserv3 to run the client (but it is o.k. to use it to run the server).   Finally, using MSG_DONTROUTE where possible would seem to gain us efficiency, in as much as the kernel does not need to consult the routing table for every datagram sent. But, in fact, that is not so. Recall that one effect of connect with UDP sockets is that routing information is obtained by the kernel at the time the connect is issued. That information is cached and used for subsequent sends from the connected socket (see p.255).  The client now creates a UDP socket and calls bind on IPclient, with 0 as the port number. This will cause the kernel to bind an ephemeral port to the socket.  After the bind, use the getsockname function (Section 4.10) to obtain IPclient and the ephemeral port number that has been assigned to the socket, and print that information out on stdout, with an appropriate message and appropriately formatted.  The client connects its socket to IPserver and the well-known port number of the server.  After the connect, use the getpeername function (Section 4.10) to obtain IPserver and the well-known port number of the server, and print that information out on stdout, with an appropriate message and appropriately formatted.  The client sends a datagram to the server giving the filename for the transfer. This send needs to be backed up by a timeout in case the datagram is lost.  Note that the incoming datagram from the client will be delivered to the server at the socket to which the destination IP address that the datagram is carrying has been bound. Thus, the server can obtain that address (it is, of course, IPserver) and thereby achieve what IP_RECVDESTADDR would have given us had it been available.  Furthermore, the server process can obtain the IP address (this will, of course, be IPclient) and ephemeral port number of the client through the recvfrom or recvmsg functions.  The server forks off a child process to handle the client. The server parent process goes back to the select to listen for new clients. Hereafter, and unless otherwise stated, whenever we refer to the ‘server’, we mean the server child process handling the client’s file transfer, not the server parent process.  Typically, the first thing the server child would be expected to do is to close all sockets it ‘inherits’ from its parent. However, this is not the case with us. The server child does indeed close the sockets it inherited, but not the socket on which the client request arrived. It leaves that socket open for now. Call this socket the ‘listening’ socket.  The server (child) then checks if the client host is local to its (extended) Ethernet. If so, all its communication to the client is to occur as MSG_DONTROUTE (or SO_DONTROUTE socket option).  If IPserver (obtained in 5. above) is the loopback address, then we are done. Otherwise, the server has to proceed with the following step.  Use the array of structures you built in 1. above, together with the addresses IPserver and IPclient to determine if the client is ‘local’.  Print out on stdout the results of your examination, as to whether the client host is ‘local’ or not. The server (child) creates a UDP socket to handle file transfer to the client. Call this socket the ‘connection’ socket. It binds the socket to IPserver, with port number 0 so that its kernel assigns an ephemeral port.  After the bind, use the getsockname function (Section 4.10) to obtain IPserver and the ephemeral port number that has been assigned to the socket, and print that information out on stdout, with an appropriate message and appropriately formatted.  The server then connects this ‘connection’ socket to the client’s IPclient and ephemeral port number.  The server now sends the client a datagram, in which it passes it the ephemeral port number of its ‘connection’ socket as the data payload of the datagram. This datagram is sent using the ‘listening’ socket inherited from its parent, otherwise the client (whose socket is connected to the server’s ‘listening’ socket at the latter’s well-known port number) will reject it. This datagram must be backed up by the ARQ mechanism, and retransmitted in the event of loss.  Note that if this datagram is indeed lost, the client might well time out and retransmit its original request message (the one carrying the file name). In this event, you must somehow ensure that the parent server does not mistake this retransmitted request for a new client coming in, and spawn off yet another child to handle it. How do you do that? It is potentially more involved than it might seem. I will be discussing this in class, as well as ‘race’ conditions that could potentially arise, depending on how you code the mechanisms I present.  When the client receives the datagram carrying the ephemeral port number of the server’s ‘connection’ socket, it reconnects its socket to the server’s ‘connection’ socket, using IPserver and the ephemeral port number received in the datagram (see p.254). It now uses this reconnected socket to send the server an acknowledgment. Note that this implies that, in the event of the server timing out, it should retransmit two copies of its ‘ephemeral port number’ message, one on its ‘listening’ socket and the other on its ‘connection’ socket (why?).  When the server receives the acknowledgment, it closes the ‘listening’ socket it inherited from its parent. The server can now commence the file transfer through its ‘connection’ socket.  The net effect of all these binds and connects at server and client is that no ‘outsider’ UDP datagram (broadcast, multicast, unicast - fortuitously or maliciously) can now intrude on the communication between server and client.  Starting with the first datagram sent out, the client behaves as follows.  Whenever a datagram arrives, or an ACK is about to be sent out (or, indeed, the initial datagram to the server giving the filename for the transfer), the client uses some random number generator function random() (initialized by the client.in argument value seed) to decide with probability p (another client.in argument value) if the datagram or ACK should be discarded by way of simulating transmission loss across the network. (I will briefly discuss in class how you do this.) Adding reliability to UDP  The mechanisms you are to implement are based on TCP Reno. These include :  Reliable data transmission using ARQ sliding-windows, with Fast Retransmit. Flow control via receiver window advertisements. Congestion control that implements : SlowStart Congestion Avoidance (‘Additive-Increase/Multiplicative Decrease’ – AIMD) Fast Recovery (but without the window-inflation aspect of Fast Recovery) Only some, and by no means all, of the details for these are covered below. The rest will be presented in class, especially those concerning flow control and TCP Reno’s congestion control mechanisms in general :  Slow Start, Congestion Avoidance, Fast Retransmit and Fast Recovery.  Implement a timeout mechanism on the sender (server) side. This is available to you from Stevens, Section 22.5 . Note, however, that you will need to modify the basic driving mechanism of Figure 22.7 appropriately since the situation at the sender side is not a repetitive cycle of send-receive, but rather a straightforward progression of send-send-send-send- . . . . . . . . . . .  Also, modify the RTT and RTO mechanisms of Section 22.5 as specified below. I will be discussing the details of these modifications and the reasons for them in class.  Modify function rtt_stop (Fig. 22.13) so that it uses integer arithmetic rather than floating point. This will entail your also having to modify some of the variable and function parameter declarations throughout Section 22.5 from float to int, as appropriate.  In the unprrt.h header file (Fig. 22.10) set :           RTT_RXTMIN   to 1000 msec.   (1 sec. instead of the current value   3 sec.)           RTT_RXTMAX  to 3000 msec.   (3 sec. instead of the current value 60 sec.)           RTT_MAXNREXMT  to 12        (instead of the current value 3)  In function rtt_timeout (Fig. 22.14), after doubling the RTO in line 86, pass its value through the function rtt_minmax of Fig. 22.11 (somewhat along the lines of what is done in line 77 of rtt_stop, Fig. 22.13).  Finally, note that with the modification to integer calculation of the smoothed RTT and its variation, and given the small RTT values you will experience on the cs / sbpub network, these calculations should probably now be done on a millisecond or even microsecond scale (rather than in seconds, as is the case with Stevens’ code). Otherwise, small measured RTTs could show up as 0 on a scale of seconds, yielding a negative result when we subtract the smoothed RTT from the measured RTT (line 72 of rtt_stop, Fig. 22.13).  Report the details of your modifications to the code of Section 22.5 in the ReadMe file which you hand in with your code.  We need to have a sender sliding window mechanism for the retransmission of lost datagrams; and a receiver sliding window in order to ensure correct sequencing of received file contents, and some measure of flow control. You should implement something based on TCP Reno’s mechanisms, with cumulative acknowledgments, receiver window advertisements, and a congestion control mechanism I will explain in detail in class.  For a reference on TCP’s mechanisms generally, see W. Richard Stevens,   TCP/IP Illustrated, Volume 1 , especially Sections 20.2 - 20.4  of  Chapter 20 ,  and Sections 21.1 - 21.8  of  Chapter 21 .  Bear in mind that our sequence numbers should count datagrams, not bytes as in TCP. Remember that the sender and receiver window sizes have to be set according to the argument values in client.in and server.in, respectively. Whenever the sender window becomes full and so ‘locks’, the server should print out a message to that effect on stdout. Similarly, whenever the receiver window ‘locks’, the client should print out a message on stdout.  Be aware of the potential for deadlock when the receiver window ‘locks’. This situation is handled by having the receiver process send a duplicate ACK which acts as a window update when its window opens again (see  Figure 20.3  and the discussion about it in TCP/IP Illustrated). However, this is not enough, because ACKs are not backed up by a timeout mechanism in the event they are lost. So we will also need to implement a persist timer driving window probes in the sender process (see  Sections 22.1 & 22.2  in Chapter 22 of TCP/IP Illustrated). Note that you do not have to worry about the Silly Window Syndrome discussed in Section 22.3 of TCP/IP Illustrated since the receiver process consumes ‘full sized’ 512-byte messages from the receiver buffer (see 3. below).  Report on the details of the ARQ mechanism you implemented in the ReadMe file you hand in. Indeed, you should report on all the TCP mechanisms you implemented in the ReadMe file, both the ones discussed here, and the ones I will be discussing in class.  Make your datagram payload a fixed 512 bytes, inclusive of the file transfer protocol header (which must, at the very least, carry: the sequence number of the datagram; ACKs; and advertised window notifications).  The client reads the file contents in its receive buffer and prints them out on stdout using a separate thread. This thread sits in a repetitive loop till all the file contents have been printed out, doing the following.  It samples from an exponential distribution with mean µ milliseconds (read from the client.in file), sleeps for that number of milliseconds; wakes up to read and print all in-order file contents available in the receive buffer at that point; samples again from the exponential distribution; sleeps; and so on.  The formula     -1 × µ × ln( random( ) ) ,    where ln is the natural logarithm, yields variates from an exponential distribution with mean µ, based on the uniformly-distributed variates over  ( 0 , 1 )  returned by random().  Note that you will need to implement some sort of mutual exclusion/semaphore mechanism on the client side so that the thread that sleeps and wakes up to consume from the receive buffer is not updating the state variables of the buffer at the same time as the main thread reading from the socket and depositing into the buffer is doing the same. Furthermore, we need to ensure that the main thread does not effectively monopolize the semaphore (and thus lock out for prolonged periods of time) the sleeping thread when the latter wakes up. See the textbook, Section 26.7, ‘Mutexes: Mutual Exclusion’,  pp.697-701. You might also find Section 26.8, ‘Condition Variables’,  pp.701-705, useful.  You will need to devise some way by which the sender can notify the receiver when it has sent the last datagram of the file transfer, without the receiver mistaking that EOF marker as part of the file contents. (Also, note that the last data segment could be a “short” segment of less than 512 bytes – your client needs to be able to handle this correctly somehow.) When the sender receives an ACK for the last datagram of the transfer, the (child) server terminates. The parent server has to take care of cleaning up zombie children.  Note that if we want a clean closing, the client process cannot simply terminate when the receiver ACKs the last datagram. This ACK could be lost, which would leave the (child) server process ‘hanging’, timing out, and retransmitting the last datagram. TCP attempts to deal with this problem by means of the TIME_WAIT state. You should have your receiver process behave similarly, sticking around in something akin to a TIME_WAIT state in case in case it needs to retransmit the ACK.  In the ReadMe file you hand in, report on how you dealt with the issues raised here: sender notifying receiver of the last datagram, clean closing, and so on. Output  Some of the output required from your program has been described in the section Operation above. I expect you to provide further output – clear, well-structured, well-laid-out, concise but sufficient and helpful – in the client and server windows by means of which we can trace the correct evolution of your TCP’s behaviour in all its intricacies :  information (e.g., sequence number) on datagrams and acks sent and dropped, window advertisements, datagram retransmissions (and why :  dup acks or RTO); entering/exiting Slow Start and Congestion Avoidance, ssthresh and cwnd values; sender and receiver windows locking/unlocking; etc., etc. . . .  .  The onus is on you to convince us that the TCP mechanisms you implemented are working correctly. Too many students do not put sufficient thought, creative imagination, time or effort into this. It is not the TA’s nor my responsibility to sit staring at an essentially blank screen, trying to summon up our paranormal psychology skills to figure out if your TCP implementation is really working correctly in all its very intricate aspects, simply because the transferred file seems to be printing o.k. in the client window. Nor is it our responsibility to strain our eyes and our patience wading through a mountain of obscure, ill-structured, hyper-messy, debugging-style output because, for example, your effort-conserving concept of what is ‘suitable’ is to dump your debugging output on us, relevant, irrelevant, and everything in between.
+* [RNCryptor/RNCryptor-C](https://github.com/RNCryptor/RNCryptor-C) - C implementation of Rob Napier's RNCryptor data format specification
+* [Piro77/arib2ass](https://github.com/Piro77/arib2ass) - arib caption data to ass subtilte file
+* [Novax/chan_datacard-huawei-e150](https://github.com/Novax/chan_datacard-huawei-e150) - Patch chan_datacard
+* [NarrativeTeam/exifyay](https://github.com/NarrativeTeam/exifyay) - Python module for reading and writing Exif data, backed by time-tested C libraries.
+* [NCrashed/bzip2](https://github.com/NCrashed/bzip2) - Bindings for bzip2 library, a freely available, patent free, high-quality data compressor.
+* [LongSoft/AddrInfo](https://github.com/LongSoft/AddrInfo) - Utility to find addresses of different data structures in ASUS BIOS image files and to store them in INI-formated file
+* [Lajnold/falloc](https://github.com/Lajnold/falloc) - falloc creates files of a user-specified size. It uses the posix_fallocate syscall for allocating the right size directly, instead of copying data like the commonly used dd tool does (which, in my opinion, feels like a hack).
+* [Katharine/httpebble-counter-demo](https://github.com/Katharine/httpebble-counter-demo) - Trivial demo of httpebble's persistent data capabilities
+* [IvanMalison/grid](https://github.com/IvanMalison/grid) - A distributed system that allows users to submit executables and data to a compute cluster.  Can withstand multiple failures without losing data.
+* [Incarnation-p-lee/libds](https://github.com/Incarnation-p-lee/libds) - unified data structure implementation lib of C
+* [HarryWei/data_structure](https://github.com/HarryWei/data_structure) - Learn data_structure
+* [GNOME/evolution-data-server](https://github.com/GNOME/evolution-data-server) - evolution-data-server
+* [ErikDubbelboer/c-pack](https://github.com/ErikDubbelboer/c-pack) - Simple data packing/unpacking in C
+* [EdisonChendi/data_structure](https://github.com/EdisonChendi/data_structure) - 打好基础吧少年
+* [Bob--Lee/P-Trie-Bloom-Filter](https://github.com/Bob--Lee/P-Trie-Bloom-Filter) - It's a way to solve a big data problem with P-Trie and Bloom-Filter
+* [AdysTech/raspy-weather](https://github.com/AdysTech/raspy-weather) - A set of C libraries to gather Temperature and Humidity data from generic DHT11 sensor, store it in a round-robin database and show it in a PHP page.
+* [AbsoluteTiger/krproject](https://github.com/AbsoluteTiger/krproject) - a real-time streaming data analysis system.
+* [zwdzwd/biscuit](https://github.com/zwdzwd/biscuit) - a little tool for bisulfite data
+* [zammitjames/dataparksearch](https://github.com/zammitjames/dataparksearch) - Full featured web search engine
+* [yuriks/SHView](https://github.com/yuriks/SHView) - Spherical Harmonics data viewer
+* [yurial/tread](https://github.com/yurial/tread) - read file, exit at no data when timed out
+* [youngsterxyf/Data-Structures-and-Algorithms](https://github.com/youngsterxyf/Data-Structures-and-Algorithms) - simple implementation of some data structures and algorithms
+* [yl790/algorithms-and-data-structures](https://github.com/yl790/algorithms-and-data-structures) - for future reference
+* [yixuan/fdaplus](https://github.com/yixuan/fdaplus) - Enhancement of the 'fda' package for functional data analysis
+* [yaderbh/dstruct](https://github.com/yaderbh/dstruct) - An object oriented implementation of data structures for PHP
+* [xyjax/sdd2json](https://github.com/xyjax/sdd2json) - EVE static data dump to JSON exporter
+* [xwang149/Dsim](https://github.com/xwang149/Dsim) - Data transfer simulator
+* [xurenlu/ngx_mem_backend_module](https://github.com/xurenlu/ngx_mem_backend_module) - simple nginx module to fetch data from memcached and echo data;
+* [xeniaqian94/Reliable-Data-Transfer-3.0-Protocol-Networking](https://github.com/xeniaqian94/Reliable-Data-Transfer-3.0-Protocol-Networking) - Project of COMP 3234, Computer and Communication Networks
+* [xavier-chen/simplep2p](https://github.com/xavier-chen/simplep2p) - Test NAT Traversal after using pjnath to see if we can send data to peer
+* [xant/XML-TinyXML](https://github.com/xant/XML-TinyXML) - minimal perl-xs module to handle XML data
+* [wtangiit/awesim](https://github.com/wtangiit/awesim) - event-driven simulator for data aware distributed workflow system
+* [wizzard/libtprint](https://github.com/wizzard/libtprint) - TPrint is a simple C library to print ASCII tabular data.
+* [wilseypa/odroidNetworking](https://github.com/wilseypa/odroidNetworking) - Data/code/notes relating to our studies with low latency networking and big.LITTLE task assignment on the odroid platform
+* [wikrsh/hello_fdw](https://github.com/wikrsh/hello_fdw) - Hello world program for PostgreSQL's foreign data wrapper(FDW)
+* [wasabiz/xrope](https://github.com/wasabiz/xrope) - rope data structure
+* [vvv/under.c](https://github.com/vvv/under.c) - DER data decoder/encoder
+* [vpereira/pcapreader](https://github.com/vpereira/pcapreader) - saving pcap data on mongodb//tests with and without capped collections
+* [voola/play](https://github.com/voola/play) - Play back plain text data over a network (e.g. stock data)
+* [vmayoral/freeDDS](https://github.com/vmayoral/freeDDS) - An open source Data Distribution Service (DDS) for embedded devices implemented for ROS
+* [vdrolia/speed_hash](https://github.com/vdrolia/speed_hash) - Hash a lot of data as fast as you can
+* [uranushiko/Yeelink](https://github.com/uranushiko/Yeelink) - My project used to send data to Yeelink.
+* [twogood/dynamite](https://github.com/twogood/dynamite) - PKWARE Data Compression decompressor tool and library
+* [twindb/undrop-for-innodb](https://github.com/twindb/undrop-for-innodb) - TwinDB data recovery toolkit for MySQL/InnoDB
+* [tristanheaven/asteroids](https://github.com/tristanheaven/asteroids) - Asteroid taxonomic classification using light curve data
+* [traviskaufman/MaxCurl](https://github.com/traviskaufman/MaxCurl) - Data retrieval client for MaxMSP
+* [tomxue/spi](https://github.com/tomxue/spi) - to show to make SPI data transfer under Linux
+* [todace/G-CVSNT](https://github.com/todace/G-CVSNT) - G-CVSNT Gaijin (and Gamedev) CVSNT version - modified for large amounts of binary data (typically for gamedev)
+* [tnightingale/DTE](https://github.com/tnightingale/DTE) - Dumb Terminal Emulator - Data Comm, COMP 3980
+* [tiancaiamao/datastruct](https://github.com/tiancaiamao/datastruct) - some useful data struct piece of code
+* [tbeu/ExternData](https://github.com/tbeu/ExternData) - :page_facing_up: Modelica library for reading data from INI, JSON, XML and Excel XLS files
+* [tallsam/DAFWAWeatherWatch](https://github.com/tallsam/DAFWAWeatherWatch) - Pebble watch face using dafwa weather api data.
+* [suzukiplan/Touhou-VGS-MML-data](https://github.com/suzukiplan/Touhou-VGS-MML-data) - 東方BGM on VGSのMMLデータ公開＆サポート用のレポジトリです
+* [sunny256/xz](https://github.com/sunny256/xz) - XZ Utils provide a general-purpose data compression library and command line tools.
+* [stellarscience/xdm](https://github.com/stellarscience/xdm) - An Extensible Data Model
+* [srijs/udp-stats-redis-adapter](https://github.com/srijs/udp-stats-redis-adapter) - Small performant frontend to redis, receiving minimal statistics data via udp messaging.
+* [smtlaissezfaire/c_type_sizes](https://github.com/smtlaissezfaire/c_type_sizes) - show the sizes of C data types
+* [shtrom/xkeyboard-config](https://github.com/shtrom/xkeyboard-config) - Mirror of FreeDesktop.org's XKB data with local branches
+* [shiziwen/nagios-status2txt](https://github.com/shiziwen/nagios-status2txt) - nagios enhancement to get service data as plain text
+* [seth/rdict](https://github.com/seth/rdict) - R dictionary data type
+* [seth/crio](https://github.com/seth/crio) - Prototype R package providing C-level utils for streaming data processing
+* [scottellis/snapx](https://github.com/scottellis/snapx) - Stream data from a v4l2 camera and periodically save image. Testing app.
+* [scallopedllama/nerorip](https://github.com/scallopedllama/nerorip) - Rips data out of nero archives
+* [ryandotsmith/queue_lkls](https://github.com/ryandotsmith/queue_lkls) - A lock-free, non-blocking queue data structure.
+* [rubenspessoa/LocData-P1](https://github.com/rubenspessoa/LocData-P1) - Projeto de Programação 1.
+* [rgburnett/xproc](https://github.com/rgburnett/xproc) - xproc - multi-threaded data munger
+* [rgantt/compsci.c](https://github.com/rgantt/compsci.c) - data structures, algorithms, and musings in C
+* [rahpaere/dc](https://github.com/rahpaere/dc) - Power grid data collector.
+* [radarsat1/plhm](https://github.com/radarsat1/plhm) - A library and command-line front-end for acquiring data from Polhemus motion tracking devices.
+* [r03ert0/CoactivationMap.app](https://github.com/r03ert0/CoactivationMap.app) - Interactive viewer for the Brain Coactivation Map data
+* [questor/ringbuffer](https://github.com/questor/ringbuffer) - simple ringbuffer with possibility to get all data and/or only updates
+* [qubodup/freedink-data](https://github.com/qubodup/freedink-data) - freedink-data sound additions. see http://www.freedink.org/ (not my project)
+* [qiq/Czech-morphology](https://github.com/qiq/Czech-morphology) - Czech morphology library, using data files compatible with PDT 2.0
+* [q3k/gm_datapack](https://github.com/q3k/gm_datapack) - A binary Lua module for Garry's Mod to tell when a datapack is created.
+* [plashchynski/str2hex](https://github.com/plashchynski/str2hex) - Data formats convertion utility
+* [pkieltyka/stash](https://github.com/pkieltyka/stash) - Steganography application that hides data within a bitmap image
+* [pgmreddy/datastructures](https://github.com/pgmreddy/datastructures) - Arrays started
+* [perfaram/xLine](https://github.com/perfaram/xLine) - Getting OSX hardware data/params through command line
+* [pcostesi/c-data-structures](https://github.com/pcostesi/c-data-structures) - Simple Data Structures
+* [orangejulius/cs_fundamentals](https://github.com/orangejulius/cs_fundamentals) - simple implementations of common data structures/algorithms
+* [opencb/hpg-variant](https://github.com/opencb/hpg-variant) - A complete suite of tools to work with genomic variation data, from VCF tools to variant profiling or genomic statistics
+* [openantz/antz](https://github.com/openantz/antz) - immersive data visualization
+* [olso4539/HSDMPi](https://github.com/olso4539/HSDMPi) - High Speed Data Monitor for Raspberry Pi
+* [ngwese/AF_MacTypeUtil](https://github.com/ngwese/AF_MacTypeUtil) - Utility functions for interacting with Mac OS X Carbon data types.
+* [neiljpeterson/Data-Structures-II-Assignments-COSC-3100](https://github.com/neiljpeterson/Data-Structures-II-Assignments-COSC-3100) - Just a repo for me to share homework with classmates. Nothing interesting here.
+* [natehardison/data-structures](https://github.com/natehardison/data-structures) - A bunch of data structure implementations, just for fun.
+* [naraing/dsLib](https://github.com/naraing/dsLib) - An algorithm library with core data-sttructures and common algortihm implementations on those data structures
+* [napsy/libhelper](https://github.com/napsy/libhelper) - General functions and data structures for C
+* [mstiehr-dev/data_dedup](https://github.com/mstiehr-dev/data_dedup) - designed to store a lot of (likely redundant) data for backup purpose. Restore specific files as well.
+* [mrkn/ruby-odbc](https://github.com/mrkn/ruby-odbc) - Extension library to use ODBC data sources from Ruby.
+* [moc-/datastructure](https://github.com/moc-/datastructure) - exercise of datastructure
+* [mnmlstc/database](https://github.com/mnmlstc/database) - C++11 wrapper library for SQLite
+* [mnacos/pg51g](https://github.com/mnacos/pg51g) - a data diff toolkit for PostgreSQL
+* [minusinf/opengl_dataviewer](https://github.com/minusinf/opengl_dataviewer) - A simple OpenGL xyzw dataviewer
+* [mgalloy/ridl](https://github.com/mgalloy/ridl) - Really Interactive Data Language
+* [mcxiaoke/dsaac](https://github.com/mcxiaoke/dsaac) - Learn Data Structures and Algorithm Analysis in C
+* [mclap/tdsproxy](https://github.com/mclap/tdsproxy) - tabular data stream (TDS) proxy server
+* [madnoda/stm32f4-glcd-logger](https://github.com/madnoda/stm32f4-glcd-logger) - Data Logger with LCD
+* [lp/pdtest](https://github.com/lp/pdtest) - Pure Data testing external
+* [ljianhui/Data-Structure](https://github.com/ljianhui/Data-Structure) - 这个库的内容大多为数据结构及其具体实现代码，还包含一些基本的算法！
+* [livioso/datastructures-in-C](https://github.com/livioso/datastructures-in-C) - Implementation of a some data structures in C for educational purposes. For example featuring a trie implementation in C (inspired by DAS84 "a bit of C") or a XOR linked list.
+* [lip6-lisp/data-plane](https://github.com/lip6-lisp/data-plane) - OpenLISP data plane
+* [lidaof/methylQA](https://github.com/lidaof/methylQA) - methylation sequence data quality assessment tool
+* [lbrito1/cstuff](https://github.com/lbrito1/cstuff) - Algorithms & data structures in C
+* [kurtisthompson/Algorithms](https://github.com/kurtisthompson/Algorithms) - Random assortment of Interesting data structures and/or algorithms and academic work
+* [krutin/psoc_data_acquisition](https://github.com/krutin/psoc_data_acquisition) - Data Acquisition using usbuart of Cypress PSoC. Developed using Tinychip Axios 1.0
+* [kronihias/dbap](https://github.com/kronihias/dbap) - Distance Based Amplitude Panning externals for Pure Data
+* [kinect-team-3/unifying-sensor-api](https://github.com/kinect-team-3/unifying-sensor-api) - Sensor API for data transport
+* [kehribar/usbSerial_benchmark](https://github.com/kehribar/usbSerial_benchmark) - Usb serial data transfer speed calculator & integrity checker
+* [kbranigan/tubes](https://github.com/kbranigan/tubes) - A series of programs intended for manipulating and handling various data
+* [kaitanie/ruby-cernlib](https://github.com/kaitanie/ruby-cernlib) - Ruby interface to the legacy CERNLIB data analysis libraries
+* [jrudolph/java-direct-data-store](https://github.com/jrudolph/java-direct-data-store) - An experiment to dump Java objects into a memory-mapped data store accessible without (de)serialization
+* [jrd730/WordFinder](https://github.com/jrd730/WordFinder) - a data structure that specializes in rapidly finding valid anagrams of strings
+* [jpmens/powerdns-datacheck](https://github.com/jpmens/powerdns-datacheck) - MySQL UDF to check data in PowerDNS tables
+* [joshdk/libmap](https://github.com/joshdk/libmap) - A map (data structure) library written in c
+* [jknotzke/GoldenEmbedGPS](https://github.com/jknotzke/GoldenEmbedGPS) - Embedded Firmware for the Sparkfun Package Tracker which will log ANT+ data
+* [jdp/ephemeron](https://github.com/jdp/ephemeron) - where transient data makes itself useful
+* [jbenjore/Internals-GraphArenas](https://github.com/jbenjore/Internals-GraphArenas) - Chart a map of where perl locates data
+* [jbenjore/Clone-Data](https://github.com/jbenjore/Clone-Data) - Simple and fast data cloning
+* [jb55/hearthstone-cardxml](https://github.com/jb55/hearthstone-cardxml) - Hearthstone xml card data extractor
+* [jasonmaclafferty/String](https://github.com/jasonmaclafferty/String) - A dynamic string data type implementation for C.
+* [jarun/dslib](https://github.com/jarun/dslib) - A library of handy data structures
+* [jaimz/core_ds](https://github.com/jaimz/core_ds) - Simple C data structure library
+* [isti757/DataNetwork](https://github.com/isti757/DataNetwork) - Data network project. This was a project at Saarland University of the Course Data Networks. The project implements some ideas of OSI protocol stack. The code runs using the CNET network simulator  (http://www.csse.uwa.edu.au/cnet/), however the project is easily separable and can run on real networks as well.  Please see the design folder for tex file and generate a pdf with the entire desciption of the project.  The project is written in C and is portable.
+* [io7m/coreland-lua-ada-load](https://github.com/io7m/coreland-lua-ada-load) - Load data from Lua into Ada data structures
+* [imankulov/wav2rtp](https://github.com/imankulov/wav2rtp) - wav2rtp is a simple tool intended to convert speech data from wav files to RTP data stream
+* [igorsobreira/iclib](https://github.com/igorsobreira/iclib) - Library with useful C data structures
+* [ifsnop/reader_network](https://github.com/ifsnop/reader_network) - A package of utilities to record and work with multicast radar data in ASTERIX format. (radar as in air navigation surveillance).
+* [iem-projects/pd-iemrtp](https://github.com/iem-projects/pd-iemrtp) - RTP support for Pure Data
+* [hyPiRion/persistencia](https://github.com/hyPiRion/persistencia) - Repository with implementations to understand persistent data structures.
+* [huzelin/etdb](https://github.com/huzelin/etdb) - etdb is an in-memory database that persists on disk, The data model is key-value, but range query is supported on keys and many different kind of values are supported: set list hashtable sptial-data
+* [hpc/dtcmp](https://github.com/hpc/dtcmp) - Datatype Compare (DTCMP) Library for sorting and ranking distributed data using MPI
+* [hdevalence/wordgen](https://github.com/hdevalence/wordgen) - let's play with google ngrams data
+* [happypeter/tata](https://github.com/happypeter/tata) - tinylion data
+* [hach-que/configd](https://github.com/hach-que/configd) - Generates configuration files in /etc based on YAML data and XSLT transformations.
+* [h5md/VMD-h5mdplugin](https://github.com/h5md/VMD-h5mdplugin) - This plugin enables VMD to display data stored in h5 files that are structured according to the H5MD specifications (http://nongnu.org/h5md/)
+* [guodong/dbd](https://github.com/guodong/dbd) - Distributed block device, used for cloud computing environment or big data storage base.
+* [grizzlin/sylvanas](https://github.com/grizzlin/sylvanas) - Data Aggregation Girl.
+* [gogotanc/DataStructures](https://github.com/gogotanc/DataStructures) - Data Structures and Algorithm Analysis in C
+* [fw42/nfportscan](https://github.com/fw42/nfportscan) - Tool for analyzing Cisco netflow data in order to automatically detect portscans
+* [fubarwrangler/datastruct](https://github.com/fubarwrangler/datastruct) - A silly project to code some data structures to help brush up on my C
+* [franko/regress-pro](https://github.com/franko/regress-pro) - Spectroscopic Ellipsometry and Reflectometry data analysis
+* [flightcrank/ratio-boost](https://github.com/flightcrank/ratio-boost) - This program spoofs or fakes the amount of data torrent clients report to private torrent trackers in order to maintain a good ratio of data uploads to downloads, which they require.
+* [ext/datapack](https://github.com/ext/datapack) - Testing compression and storage of data inside executable
+* [exosite-garage/arduino_http_post](https://github.com/exosite-garage/arduino_http_post) - Demo of Arduino hardware sending data to the cloud.  It is a simple web based monitoring example for Arduino - really easy to put values captured by Arduino online .
+* [energinet/datalogger-server](https://github.com/energinet/datalogger-server) - rpserver.cgi
+* [dylan-cooper/Data-Structures](https://github.com/dylan-cooper/Data-Structures) - Assignments from CIS*2520 - Data Structures - Final Grade: 93%
+* [dtb/algorithms-and-data-structures](https://github.com/dtb/algorithms-and-data-structures) - Wherein I fill in the gaps in my programming knowledge
+* [dpryan79/MethIndelRealigner](https://github.com/dpryan79/MethIndelRealigner) - A local realigner around InDels for MethylSeq data
+* [dpfau/quagga](https://github.com/dpfau/quagga) - Library for automated ROI extraction from calcium imaging data
+* [douzzer/megaqueue](https://github.com/douzzer/megaqueue) - lightweight high performance streaming data kernel
+* [dhbikoff/Generic-C-Library](https://github.com/dhbikoff/Generic-C-Library) - A library of generic data structures in C
+* [dgvncsz0f/lift](https://github.com/dgvncsz0f/lift) - Implementation of some data structures in C
+* [dewoods/greenplum-json-formatter](https://github.com/dewoods/greenplum-json-formatter) - Greenplum extension for reading and writing JSON data
+* [deepwater82/bismark_data_transmit](https://github.com/deepwater82/bismark_data_transmit) - data transmit using cURL
+* [dasuxullebt/tddp](https://github.com/dasuxullebt/tddp) - Trivial Data Deduplication
+* [darksideofthemoo/redis-histogram](https://github.com/darksideofthemoo/redis-histogram) - Histogram data type for redis
+* [cstavish/c_data_structs](https://github.com/cstavish/c_data_structs) - singly/doubly linked list and hash table implementations...more to come
+* [conch/disco](https://github.com/conch/disco) - Automatic perspective DIStortion COrrection using accelerometer data
+* [coins11/data-structures-and-algorithms](https://github.com/coins11/data-structures-and-algorithms) - Data Structures and Algorithms
+* [coderaven/B-Tree](https://github.com/coderaven/B-Tree) - B-Tree Implementation in C. A project in Data Structures.
+* [codeprepper/data-structures](https://github.com/codeprepper/data-structures) - arrays, linked lists, stacks and queues
+* [cni/pdr](https://github.com/cni/pdr) - CNI Peripheral Data Reader (PDR)
+* [clibs/dumpasn1](https://github.com/clibs/dumpasn1) - Display the contents of ASN.1 encoded data
+* [clarkds/Benchmark-Results](https://github.com/clarkds/Benchmark-Results) - this is benchmarking data for arm cortex A8 and A9's
+* [citiususc/BigBWA](https://github.com/citiususc/BigBWA) - Approaching the Burrows-Wheeler Aligner to Big Data Technologies
+* [chronomex/1600bpi-tape](https://github.com/chronomex/1600bpi-tape) - Tool to recover data from analog recordings of 1970s data tape
+* [chneukirchen/rs](https://github.com/chneukirchen/rs) - rs(1) — reshape a data array (from OpenBSD)
+* [chmduquesne/xmppipe](https://github.com/chmduquesne/xmppipe) - This program allows to pipe data through an xmpp tunnel
+* [chenkovsky/ngram](https://github.com/chenkovsky/ngram) - efficient data structure for storing ngram.
+* [cengek/CKDatastruct](https://github.com/cengek/CKDatastruct) - The using of data structure in C from our class
+* [bingmann/disk-filltest](https://github.com/bingmann/disk-filltest) - Simple program to detect bad disks by filling them with random data.
+* [beave/barnyard2-extra](https://github.com/beave/barnyard2-extra) - Barnyard2 with "Extra Data" support and other enhancements.
+* [bcmpinc/dagdb](https://github.com/bcmpinc/dagdb) - small database for storing semi-structured data
+* [baupetit/VisuScaterredData](https://github.com/baupetit/VisuScaterredData) - projet de visualisation
+* [ashinkarov/trie](https://github.com/ashinkarov/trie) - Simple implementation of trie data structure in C
+* [asadzia/Algorithms-and-Data-Structures](https://github.com/asadzia/Algorithms-and-Data-Structures) - A list of implementations of various algorithms and data structures.
+* [anjos/arithmetic_coding](https://github.com/anjos/arithmetic_coding) - Library to perform arithmetic coding and decoding of text or binary data
+* [angelortega/mpdm](https://github.com/angelortega/mpdm) - Minimum Profit Data Manager
+* [anatoo/cons](https://github.com/anatoo/cons) - This PHP Extension import cons cell data structure from scheme.
+* [amaurigabriel/CAD](https://github.com/amaurigabriel/CAD) -  C Algorithms and Data-structures
+* [alonbl/pkcs11-data](https://github.com/alonbl/pkcs11-data) - PKCS#11 data object manipulator
+* [alibashir/pacmonstr](https://github.com/alibashir/pacmonstr) - Tandem Repeat Detection for Long Read Sequence Data
+* [alexanderb14/cCollections](https://github.com/alexanderb14/cCollections) - lightweight dynamic data structures for C
+* [alawrence/c_LibExifModule](https://github.com/alawrence/c_LibExifModule) - C++ framework module that wraps libexif to pull out EXIF data.
+* [aaronstanton/sualft](https://github.com/aaronstanton/sualft) - reconstruction of irregularly sampled seismic data using the Anti-Leakage Fourier Transform (ALFT)
+* [a3linux/nagios-amq-perf](https://github.com/a3linux/nagios-amq-perf) - Nagiso fork patched to support post performance data to ActiveMQ
+* [YaroslavLitvinov/Distributed-Sort](https://github.com/YaroslavLitvinov/Distributed-Sort) - Sort data in several processes simultaneously and using zeromq for interprocess communications.
+* [Xsoda/struct](https://github.com/Xsoda/struct) - pack and unpack packet data like python struct module.
+* [WeatherGod/BWx](https://github.com/WeatherGod/BWx) - Assorted utilities for dealing with weather related data
+* [UECIDE/UECIDE_data](https://github.com/UECIDE/UECIDE_data) - Cores, boards and compilers for UECIDE
+* [Treevs/algs-and-data-structures](https://github.com/Treevs/algs-and-data-structures) - I need practice in C, algorithms, and data structures, so why not kills 3 birds with one stone?
+* [TravisWhitaker/FermiShell](https://github.com/TravisWhitaker/FermiShell) - Retrieve, compare, calculate, analyze, graph, simulate, and experiment with chemical data.
+* [Teyras/flowly](https://github.com/Teyras/flowly) - An sFlow data analyzer focused on realtime processing
+* [TerryC78/CMU_15213_DataLab](https://github.com/TerryC78/CMU_15213_DataLab) - CMU 15-213 Introduction to Computer Systems
+* [Soryusan/Ranking_Algorithm](https://github.com/Soryusan/Ranking_Algorithm) - Ranking algorithm data collector/cruncher
+* [Shouqun/geolocation](https://github.com/Shouqun/geolocation) - A python API for get geo location with current WiFi AP data
+* [ShabbyX/shDS](https://github.com/ShabbyX/shDS) - Common Data Structures for C
+* [RicardoCorralC/rccPyDataLondon2015](https://github.com/RicardoCorralC/rccPyDataLondon2015) - rccPyDataLondon2015
+* [OpenSecurityResearch/iclass_dump](https://github.com/OpenSecurityResearch/iclass_dump) - Tools to pull data from HID iClass readers
+* [MattNolanLab/Ramsden_MEC](https://github.com/MattNolanLab/Ramsden_MEC) - Registration pipeline for Allen Brain Atlas data
+* [MagerValp/AsmHeap](https://github.com/MagerValp/AsmHeap) - Heap data structure in 6502 assembler
+* [JulienPalard/Mine](https://github.com/JulienPalard/Mine) - Little data miner
+* [JohnDMcMaster/uvscada](https://github.com/JohnDMcMaster/uvscada) - UVNet data acquisition (DAQ).  For doing process control or other monitoring.
+* [Jahor/osm-tools](https://github.com/Jahor/osm-tools) - Tools to operate OpenStreetMap data
+* [HapCoderWei/DataStructure](https://github.com/HapCoderWei/DataStructure) - 我自己写的数据结构与算法练习程序, 仅做备忘
+* [GuillaumeHolley/BloomFilterTrie](https://github.com/GuillaumeHolley/BloomFilterTrie) - A data structure for pan-genome storage
+* [FoxelSA/libfastcal](https://github.com/FoxelSA/libfastcal) - Fast calibration data access
+* [FedoraScientific/scientific_spin_tests](https://github.com/FedoraScientific/scientific_spin_tests) - Test scripts and data for Fedora Scientific Spin
+* [Eyerise/iOS-DataProtection-ToolKit](https://github.com/Eyerise/iOS-DataProtection-ToolKit) - Tools  for decrypting and hacking iOS systems
+* [ClickerMonkey/CDSL](https://github.com/ClickerMonkey/CDSL) - A data structure library written in C
+* [Akash91/CoSQL](https://github.com/Akash91/CoSQL) - A Co-Relational Key-Value Data Store
+* [Achoulos/Data-Structures](https://github.com/Achoulos/Data-Structures) - Implementation of Data Structures and Sorts in C
+* [2ndQuadrant/pglog](https://github.com/2ndQuadrant/pglog) - PostgreSQL logger foreign data wrapper
+* [2ion/libqueue](https://github.com/2ion/libqueue) - C library providing persistent, named data storage queues
+* [2hanson/DecisionTree](https://github.com/2hanson/DecisionTree) - Data Mining
+* [20centaurifux/datatypes](https://github.com/20centaurifux/datatypes) - A collection of various datatypes in C (linked lists, stack, queue, red-black tree and hash table).
+* [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 * [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [kripken/emscripten](https://github.com/kripken/emscripten) - Emscripten: An LLVM-to-JavaScript Compiler
 * [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
@@ -51,7 +926,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [mofarrell/p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
 * [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - mirror of git://source.ffmpeg.org/ffmpeg.git
 * [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-* [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 * [rswier/c4](https://github.com/rswier/c4) - C in four functions
 * [swoole/swoole-src](https://github.com/swoole/swoole-src) - Asynchronous & concurrent & distributed networking framework for PHP.
 * [joyent/http-parser](https://github.com/joyent/http-parser) - http request/response parser for c
@@ -70,7 +944,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 * [laverdet/node-fibers](https://github.com/laverdet/node-fibers) - Fiber/coroutine support for v8 and node.
 * [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server for C/C++
-* [bagder/curl](https://github.com/bagder/curl) - Curl is a tool and libcurl is a library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 * [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern and easy-to-use crypto library.
 * [synergy/synergy](https://github.com/synergy/synergy) - Share one mouse and keyboard between multiple computers on your desk.
 * [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n2.7, with MediaCodec, VideoToolbox support.
@@ -137,7 +1010,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [mongrel2/mongrel2](https://github.com/mongrel2/mongrel2) - The Mongrel2 Web Server Project
 * [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - lua based interactive firmware for mcu like esp8266
 * [shoes/shoes](https://github.com/shoes/shoes) - a tiny graphical app kit for ruby
-* [offensive-security/exploit-database](https://github.com/offensive-security/exploit-database) - The official Exploit Database repository
 * [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.
 * [ChrisJohnsen/tmux-MacOSX-pasteboard](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (“Proposed Updates”) may be rewound without notice.
 * [brianmario/yajl-ruby](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl)
@@ -190,7 +1062,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
 * [htacg/tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
 * [jakogut/tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
-* [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data
 * [joyent/smartos-live](https://github.com/joyent/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: http://smartos.org/smartos-mailing-list/
 * [davidmoreno/onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications.
 * [memononen/nanovg](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
@@ -263,7 +1134,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [EricssonResearch/openwebrtc](https://github.com/EricssonResearch/openwebrtc) - A mobile-first WebRTC client framework for building native apps
 * [chjj/compton](https://github.com/chjj/compton) - A compositor for X11.
 * [Qihoo360/phptrace](https://github.com/Qihoo360/phptrace) - A tracing and troubleshooting tool for PHP scripts.
-* [tj/histo](https://github.com/tj/histo) - beautiful charts in the terminal for static or streaming data
 * [texane/stlink](https://github.com/texane/stlink) - stm32 discovery line linux programmer
 * [cundong/SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) - Android应用增量更新
 * [ossec/ossec-hids](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
@@ -317,7 +1187,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger's source tree
 * [google/upb](https://github.com/google/upb) - small, fast parsers for the 21st century
 * [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git.
-* [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 * [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools
 * [udp/json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C
 * [msanders/autopy](https://github.com/msanders/autopy) - A simple, cross-platform GUI automation toolkit for Python.
@@ -364,7 +1233,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [hpricot/hpricot](https://github.com/hpricot/hpricot) - Hpricot has ended. Please consider an alternative like nokogiri.
 * [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 * [orangeduck/mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
-* [sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit) - The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence.
 * [nikhilm/uvbook](https://github.com/nikhilm/uvbook) - An Introduction to libuv
 * [tatsuhiro-t/spdylay](https://github.com/tatsuhiro-t/spdylay) - The experimental SPDY protocol version 2, 3 and 3.1 implementation in C
 * [jbangert/trapcc](https://github.com/jbangert/trapcc) - Computing with traps
@@ -386,7 +1254,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [id-Software/Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
 * [probablycorey/seriously](https://github.com/probablycorey/seriously) - The Objective-C HTTP library that Apple should have created, seriously.
 * [mbedmicro/mbed](https://github.com/mbedmicro/mbed) - mbed libraries and tools
-* [libpd/libpd](https://github.com/libpd/libpd) - Pure Data embeddable audio synthesis library
 * [Ettercap/ettercap](https://github.com/Ettercap/ettercap) - Ettercap Project
 * [adobe-flash/crossbridge](https://github.com/adobe-flash/crossbridge) - Welcome to visit the homepage!
 * [riolet/nope.c](https://github.com/riolet/nope.c) - nope.c is a C language-based software platform for scalable server-side and networking applications. Think node.js for C programmers.
@@ -433,7 +1300,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [siemens/jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor
 * [hyperic/sigar](https://github.com/hyperic/sigar) - System Information Gatherer And Reporter
 * [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P)
-* [Rdatatable/data.table](https://github.com/Rdatatable/data.table) - R's data.table package extends data.frame. More info:
 * [HarveyHunt/howm](https://github.com/HarveyHunt/howm) - A lightweight, X11 tiling window manager that behaves like vim
 * [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i)
 * [sass/sassc](https://github.com/sass/sassc) - libsass command line driver
@@ -467,7 +1333,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [fukuchi/libqrencode](https://github.com/fukuchi/libqrencode) - QR Code encoding library
 * [ARMmbed/mbedtls](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library
 * [2ndQuadrant/repmgr](https://github.com/2ndQuadrant/repmgr) - PostgreSQL Replication Manager
-* [concurrencykit/ck](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems.
 * [bither/bither-android-lib](https://github.com/bither/bither-android-lib) - Bither Android Library
 * [crosslife/OpenBird](https://github.com/crosslife/OpenBird) - Flappy Bird written in cocos2dx
 * [quantcast/qfs](https://github.com/quantcast/qfs) - Quantcast File System
@@ -483,13 +1348,11 @@ A curated list of awesome C frameworks, libraries and software.
 * [tsgates/mbox](https://github.com/tsgates/mbox) - A lightweight sandbox tool for non-root users
 * [h2o/picohttpparser](https://github.com/h2o/picohttpparser) - tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
 * [alonho/pytrace](https://github.com/alonho/pytrace) - pytrace is a fast python tracer. it records function calls, arguments and return values. can be used for debugging and profiling.
-* [vkholodkov/nginx-upload-module](https://github.com/vkholodkov/nginx-upload-module) - A module for nginx web server for handling file uploads using multipart/form-data encoding (RFC 1867).
 * [APE-Project/APE_Server](https://github.com/APE-Project/APE_Server) - Ajax Push Engine : Lightweight HTTP Streaming server. Fully written in C language, it provides best performances, making it the faster Comet server to date. APE now support server-side javascript modules through spidermonkey
 * [libarchive/libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
 * [mintomic/mintomic](https://github.com/mintomic/mintomic) - Mintomic: A Small, Portable Lock-Free API
 * [madeye/proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
 * [ldc-developers/ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler.
-* [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka
 * [mopemope/meinheld](https://github.com/mopemope/meinheld) - meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
 * [AlexDenisov/iActiveRecord](https://github.com/AlexDenisov/iActiveRecord) - ActiveRecord for iOS without CoreData, only SQLite
 * [nanorc/nanorc](https://github.com/nanorc/nanorc) - Improved syntax highlighting for GNU nano
@@ -517,7 +1380,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [ellzey/libevhtp](https://github.com/ellzey/libevhtp) - A more flexible replacement for libevent's http API.
 * [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
 * [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux
-* [laruence/yac](https://github.com/laruence/yac) - A fast shared memory user data cache for PHP
 * [douglascrockford/DEC64](https://github.com/douglascrockford/DEC64) - Decimal floating point
 * [megous/megatools](https://github.com/megous/megatools) - Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
 * [mariadb-corporation/MaxScale](https://github.com/mariadb-corporation/MaxScale) - A content aware, plug-able proxy server.           Discuss @: maxscale@googlegroups.com
@@ -617,14 +1479,12 @@ A curated list of awesome C frameworks, libraries and software.
 * [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - The FreeRADIUS Server.  RADIUS, DHCP, and VMPS.
 * [guardianproject/libsqlfs](https://github.com/guardianproject/libsqlfs) - a library that implements a POSIX style filesystem on top of an SQLite database
 * [bagder/c-ares](https://github.com/bagder/c-ares) - c-ares is a C library for asynchronous DNS requests
-* [aggregateknowledge/postgresql-hll](https://github.com/aggregateknowledge/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type
 * [GrahamDumpleton/mod_wsgi](https://github.com/GrahamDumpleton/mod_wsgi) - Source code for Apache/mod_wsgi.
 * [offensive-security/kali-nethunter](https://github.com/offensive-security/kali-nethunter) - Kali Linux NetHunter
 * [etolabo/kumofs](https://github.com/etolabo/kumofs) - kumofs is a scalable and highly available distributed key-value store.
 * [sektioneins/SUIDGuard](https://github.com/sektioneins/SUIDGuard) - SUIDGuard - a TrustedBSD Kernel Extension that adds mitigations to protect SUID/SGID processes a bit more
 * [jabberd2/jabberd2](https://github.com/jabberd2/jabberd2) - JabberD XMPP Server
 * [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - Community developed and maintained version of the OS/Net consolidation
-* [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms) - A library of common data structures and algorithms written in C.
 * [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 * [snooda/net-speeder](https://github.com/snooda/net-speeder) - net-speeder 在高延迟不稳定链路上优化单线程下载速度
 * [fletcher/MultiMarkdown-4](https://github.com/fletcher/MultiMarkdown-4) - C implementation of MultiMarkdown; almost complete rewrite of MMD 3 (which was aka "peg-multimarkdown").
@@ -641,13 +1501,11 @@ A curated list of awesome C frameworks, libraries and software.
 * [wiire/pixiewps](https://github.com/wiire/pixiewps) - An offline WPS bruteforce utility
 * [tjko/jpegoptim](https://github.com/tjko/jpegoptim) - jpegoptim - utility to optimize/compress JPEG files
 * [thoughtbot/pick](https://github.com/thoughtbot/pick) - fuzzy select anything.
-* [openlink/virtuoso-opensource](https://github.com/openlink/virtuoso-opensource) - Virtuoso is a scalable cross-platform server that combines Relational, Graph, and Document Data Management with Web Application Server and Web Services Platform functionality.
 * [yasm/yasm](https://github.com/yasm/yasm) - Yasm Assembler mainline development tree
 * [libav/libav](https://github.com/libav/libav) - Libav github mirror, clone of git://git.libav.org/libav
 * [damellis/attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
 * [sgminer-dev/sgminer](https://github.com/sgminer-dev/sgminer) - Scrypt GPU miner
 * [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - Public Mirror of code.gnucash.org/gnucash
-* [samtools/samtools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data
 * [jwilberding/bcp](https://github.com/jwilberding/bcp) - Broadcast Copy
 * [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 * [vivien/i3blocks](https://github.com/vivien/i3blocks) - A flexible scheduler for i3bar
@@ -675,7 +1533,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [rsms/sol](https://github.com/rsms/sol) - A sunny little virtual machine
 * [Kazade/kazmath](https://github.com/Kazade/kazmath) - A C math library targeted at games
 * [FRiCKLE/ngx_postgres](https://github.com/FRiCKLE/ngx_postgres) - upstream module that allows nginx to communicate directly with PostgreSQL database.
-* [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
 * [aterrien/forp-PHP-profiler](https://github.com/aterrien/forp-PHP-profiler) - A PHP profiler written in C. forp is a lightweight PHP extension which provides the full call stack of your script, with CPU and memory usage, in a plain PHP Array or JSON output.
 * [id-Software/Wolf3D-iOS](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release
 * [gnosek/nginx-upstream-fair](https://github.com/gnosek/nginx-upstream-fair) - The fair load balancer module for nginx
@@ -722,7 +1579,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [synthetos/TinyG](https://github.com/synthetos/TinyG) - Affordable Industrial Grade Motion Control
 * [openwrt-mirror/openwrt](https://github.com/openwrt-mirror/openwrt) - Mirror of the OpenWRT repository
 * [dhoerl/PhotoScrollerNetwork](https://github.com/dhoerl/PhotoScrollerNetwork) - Awesomely fast enhanced version of Apple's PhotoScroller, also pulls images from network.
-* [atomicobject/heatshrink](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems
 * [munificent/mark-sweep](https://github.com/munificent/mark-sweep) - A simple mark-sweep garbage collector in C
 * [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 * [linuxmint/nemo](https://github.com/linuxmint/nemo) - File browser for Cinnamon
@@ -811,14 +1667,12 @@ A curated list of awesome C frameworks, libraries and software.
 * [haproxy/haproxy](https://github.com/haproxy/haproxy) - Mirror of haproxy repository
 * [gsliepen/tinc](https://github.com/gsliepen/tinc) - a VPN daemon
 * [adafruit/adafruit-beaglebone-io-python](https://github.com/adafruit/adafruit-beaglebone-io-python) - Adafruit's BeagleBone IO Python Library
-* [xxorde/librekinect](https://github.com/xxorde/librekinect) - Depth data from a kinect sensor! Small and fast kernel driver. Also for embedded devices like the raspberry pi!
 * [phadej/igbinary](https://github.com/phadej/igbinary) - Igbinary is a drop in replacement for the standard php serializer.  Check https://github.com/igbinary/igbinary for the freshest version
 * [zfsonlinux/spl](https://github.com/zfsonlinux/spl) - Solaris Porting Layer
 * [pyca/pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
 * [kmike/datrie](https://github.com/kmike/datrie) - Fast, efficiently stored Trie for Python. Uses libdatrie.
 * [revolutionary/zergRush](https://github.com/revolutionary/zergRush) - Android 2.2 / 2.3 local root
 * [pornel/giflossy](https://github.com/pornel/giflossy) - Lossy GIF compressor
-* [Blosc/bcolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.
 * [joyent/v8plus](https://github.com/joyent/v8plus) - Node.js native add-ons in C
 * [ioerror/tlsdate](https://github.com/ioerror/tlsdate) - secure parasitic rdate replacement
 * [strazzere/android-unpacker](https://github.com/strazzere/android-unpacker) - Android Unpacker presented at Defcon 22: Android Hacker Protection Level 0
@@ -863,7 +1717,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [keenerd/jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
 * [moai/moai-beta](https://github.com/moai/moai-beta) - WARNING: This repository has been deprecated. Please update and submit all pull requests to moai-dev
 * [benhoyt/scandir](https://github.com/benhoyt/scandir) - Better directory iterator and faster os.walk(), now in the Python 3.5 stdlib
-* [openresty/sregex](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine matching on large data streams
 * [comex/substitute](https://github.com/comex/substitute) - A free runtime modification library.
 * [alexbw/Netflix-Prize](https://github.com/alexbw/Netflix-Prize) - The code I used to get in the top #150 in the Netflix Prize
 * [xelerance/Openswan](https://github.com/xelerance/Openswan) - Openswan
@@ -874,7 +1727,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [duckythescientist/obfuscatedLife](https://github.com/duckythescientist/obfuscatedLife) - Conway's Game of Life in 9 lines of C
 * [jianfengye/nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment) - nginx源码中文注释版
 * [quartzjer/js0n](https://github.com/quartzjer/js0n) - Flexible Zero-Footprint JSON Parser in C
-* [pgbovine/CDE](https://github.com/pgbovine/CDE) - CDE: Code, Data, and Environment packaging for Linux
 * [notandy/ympd](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 * [freebsd/crochet](https://github.com/freebsd/crochet) - Build FreeBSD images for RaspberryPi, BeagleBone, PandaBoard, and others.
 * [rswier/swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
@@ -905,7 +1757,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
 * [libretro/common-shaders](https://github.com/libretro/common-shaders) - Collection of commonly used Cg shaders. These shaders are usable by either HLSL and/or Cg runtime compilers. The cg2glsl script will translate most of these into GLSL shaders.
 * [closeio/ciso8601](https://github.com/closeio/ciso8601) - Fast ISO8601 date time parser for Python written in C
-* [parallella/pal](https://github.com/parallella/pal) - An optimized C library for math, parallel processing and data movement
 * [FreedomBen/rtl8188ce-linux-driver](https://github.com/FreedomBen/rtl8188ce-linux-driver) - This modified version of the RealTek WiFi driver fixes some issues with RealTek cards on Linux.
 * [alexfru/SmallerC](https://github.com/alexfru/SmallerC) - Simple C compiler
 * [phonegap/phonegap-plugin-fast-canvas](https://github.com/phonegap/phonegap-plugin-fast-canvas) - Fast, 2D, mostly-HTML5-canvas-compatible rendering surface for Android.
@@ -938,7 +1789,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [vlm/asn1c](https://github.com/vlm/asn1c) - The ASN.1 Compiler
 * [tj90241/cen64](https://github.com/tj90241/cen64) - Cycle-Accurate Nintendo 64 Emulator
 * [rayh/kvo-block-binding](https://github.com/rayh/kvo-block-binding) - Use blocks to observe Objective-C properties using KVO
-* [erikd/libsndfile](https://github.com/erikd/libsndfile) - A C library for reading and writing sound files containing sampled audio data..
 * [cioc/functionalC](https://github.com/cioc/functionalC) - Not because it is good, but because we can...
 * [chaoslawful/ccard-lib](https://github.com/chaoslawful/ccard-lib) - C library for estimating cardinality in streams for which it is infeasible to store all events in memory
 * [mtodd/geoip](https://github.com/mtodd/geoip) - Ruby C binding to Maxmind GeoIP Library
@@ -949,7 +1799,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [ned14/nedmalloc](https://github.com/ned14/nedmalloc) - An EXTREMELY FAST portable thread caching malloc implementation written in C for multiple threads without lock contention based on dlmalloc. Optimised for x86 and x64. Compatible with C++. Can patch itself into existing binaries on Windows.
 * [graphitemaster/lambdapp](https://github.com/graphitemaster/lambdapp) - Anonymous functions in C
 * [frida/frida-core](https://github.com/frida/frida-core) - Frida core library intended for static linking into bindings
-* [samtools/htslib](https://github.com/samtools/htslib) - C library for high-throughput sequencing data formats
 * [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is conservative and historically accurate.
 * [wolkykim/qlibc](https://github.com/wolkykim/qlibc) - qLibc is a simple and powerful C library
 * [chmduquesne/sharebox-fs](https://github.com/chmduquesne/sharebox-fs) - C rewrite of sharebox
@@ -976,7 +1825,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [StarfruitStack/guava](https://github.com/StarfruitStack/guava) - Guava is a lightweight Python web framework written in C
 * [WiringPi/WiringPi-Ruby-Legacy](https://github.com/WiringPi/WiringPi-Ruby-Legacy) - Ruby gem of the Arduino wiring-like C library WiringPi
 * [mkottman/acpi_call](https://github.com/mkottman/acpi_call) - A linux kernel module that enables calls to ACPI methods through /proc/acpi/call. Now with support for Integer, String and Buffer parameters.
-* [acmeism/RosettaCodeData](https://github.com/acmeism/RosettaCodeData) - RosettaCode Data Project
 * [Wilfred/babyc](https://github.com/Wilfred/babyc) - A toy C compiler
 * [emsec/ChameleonMini](https://github.com/emsec/ChameleonMini) - The ChameleonMini is a versatile contactless smartcard emulator compliant to NFC, ISO 14443 and ISO 15693. It has been designed and maintained by the Chair for Embedded Security of the Ruhr-University in Bochum.The freely programmable platform can be used to emulate and virtualize cards (perfect clones including the UID), for practical penetration tests in RFID environments, or serve as a passively operated NFC device, e.g., as an NFC door lock.
 * [andikleen/snappy-c](https://github.com/andikleen/snappy-c) - C port of the snappy compressor
@@ -1015,7 +1863,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [mbedmicro/CMSIS-DAP](https://github.com/mbedmicro/CMSIS-DAP) - Interface Firmware providing USB CMSIS-DAP for debugging, USB MSD for programming, USB Serial for communication.
 * [armon/libart](https://github.com/armon/libart) - Adaptive Radix Trees implemented in C
 * [antirez/lua-cmsgpack](https://github.com/antirez/lua-cmsgpack) - A self contained Lua MessagePack C implementation.
-* [stevedekorte/basekit](https://github.com/stevedekorte/basekit) - C based OO portable data structure library
 * [cadwallion/spinel](https://github.com/cadwallion/spinel) - A free and open source game engine using mruby and C/C++
 * [aharren/LibComponentLogging-Core](https://github.com/aharren/LibComponentLogging-Core) - A small logging library for Objective-C applications (Mac OS X and iPhone OS/iOS) which provides conditional logging based on log levels and log components. Additionally, different logging strategies can be used, e.g. writing log messages to a file or sending them to the system log, while using the same logging interface.
 * [abiggerhammer/hammer](https://github.com/abiggerhammer/hammer) - Parser combinators for binary formats, in C. Yes, in C. What? Don't look at me like that.
@@ -1027,7 +1874,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [stubma/WiEngine](https://github.com/stubma/WiEngine) - C++ implemented, cocos2d like cross-platform game engine
 * [jrosdahl/ccache](https://github.com/jrosdahl/ccache) - ccache - a fast compiler cache
 * [jgarzik/picocoin](https://github.com/jgarzik/picocoin) - A bitcoin library in C, SPV wallet & more.
-* [zhemao/libds](https://github.com/zhemao/libds) - Simple, memory-safe data-structures in C.
 * [kiibohd/controller](https://github.com/kiibohd/controller) - Kiibohd Controller
 * [grobian/carbon-c-relay](https://github.com/grobian/carbon-c-relay) - Enhanced C implementation of Carbon relay, aggregator and rewriter
 * [gosexy/canvas](https://github.com/gosexy/canvas) - Image manipulation library based on ImageMagick's MagickWand, for Go.
@@ -1044,7 +1890,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [andymcd/cmd-key-happy](https://github.com/andymcd/cmd-key-happy) - Swap cmd and alt keys in Terminal
 * [troydhanson/tpl](https://github.com/troydhanson/tpl) - tpl - a small binary serialization library for C
 * [cuckoobox/cuckoomon](https://github.com/cuckoobox/cuckoomon) - Cuckoo Sandbox Monitor Component
-* [bananita/MBFaker](https://github.com/bananita/MBFaker) - Objective-C fake data generator
 * [swoole/php-cp](https://github.com/swoole/php-cp) - pdo and redis tcp connect proxy
 * [kuapay/iOS-QR-Code-Generator](https://github.com/kuapay/iOS-QR-Code-Generator) - This Xcode 4 project is put together as a template to create 2D QR codes within your iPhone code.
 * [CANBus-Triple/CANBus-Triple](https://github.com/CANBus-Triple/CANBus-Triple) - CANBus Triple – The car hacking platform
@@ -1118,13 +1963,11 @@ A curated list of awesome C frameworks, libraries and software.
 * [tsuraan/Jerasure](https://github.com/tsuraan/Jerasure) - Github repo for Jerasure Library - C Implementation of Reed-Solomon coding
 * [swenson/sort](https://github.com/swenson/sort) - Sorting routine implementations in "template" C
 * [sonyxperiadev/kernel-copyleft](https://github.com/sonyxperiadev/kernel-copyleft) - Copyleft archives for Xperia kernels
-* [rampantpixels/foundation_lib](https://github.com/rampantpixels/foundation_lib) - Cross-platform public domain foundation library in C providing basic support data types and functions to write applications and games in a platform-independent fashion.
 * [lqez/npk](https://github.com/lqez/npk) - neat package system written in C
 * [lemire/simdcomp](https://github.com/lemire/simdcomp) - A simple C library for compressing lists of integers
 * [jacob-carlborg/dstep](https://github.com/jacob-carlborg/dstep) - A tool for converting C and Objective-C headers to D modules
 * [stevedekorte/skipdb](https://github.com/stevedekorte/skipdb) - Small, portable, ACID, C implemented BDB style database based on skiplists instead of b-trees.
 * [fiveruns/memcache-client](https://github.com/fiveruns/memcache-client) - Seattle.rb's memcache-client 1.5.0 with fixes
-* [theck01/offbrand_lib](https://github.com/theck01/offbrand_lib) - A collecton of generic reference counted data structures, tools to create compatible C style classes, and demo applications
 * [shawnclovie/cocos2dx-LuaProxy](https://github.com/shawnclovie/cocos2dx-LuaProxy) - LuaProxy for cocos2d-x, include CocosBuilder support for lua, and other cocos2d-extension support for lua, and easy to use function.
 * [harbour/core](https://github.com/harbour/core) - Portable, xBase compatible programming language and environment
 * [encog/encog-c](https://github.com/encog/encog-c) - The Encog project for C/C++
@@ -1143,7 +1986,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [willemt/raft](https://github.com/willemt/raft) - C implementation of the Raft Consensus protocol, BSD licensed
 * [noporpoise/BitArray](https://github.com/noporpoise/BitArray) - C bit array structs and methods
 * [forhappy/cpy-leveldb](https://github.com/forhappy/cpy-leveldb) - python bingding for leveldb using c api
-* [dbro/csvquote](https://github.com/dbro/csvquote) - Enables common unix utlities like cut, head, tail to work correctly with csv data containing delimiters and newlines
 * [cyrus-and/prof](https://github.com/cyrus-and/prof) - Self-contained C/C++ profiler library for Linux
 * [couchbase/couchbase-ruby-client](https://github.com/couchbase/couchbase-ruby-client) - Couchbase Ruby client library (official) built atop libcouchbase
 * [HaxeFoundation/hxcpp](https://github.com/HaxeFoundation/hxcpp) - Runtime files for c++ backend for haxe
@@ -1225,7 +2067,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [clibs/list](https://github.com/clibs/list) - C doubly linked list
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server) - a tiny web server in C, for daily use.
 * [ipa320/cob_extern](https://github.com/ipa320/cob_extern) - The cob_extern stack contains third party libraries needed for operating Care-O-bot. The packages are downloaded from the manufactorers website and not changed in any way.
-* [cudpp/cudpp](https://github.com/cudpp/cudpp) - CUDA Data Parallel Primitives Library
 * [coocox/cox](https://github.com/coocox/cox) - CoX is an peripherals library with a unified standard interface specially for ARM Cortex M.
 * [clibs/buffer](https://github.com/clibs/buffer) - Tiny C string library
 * [clawoo/AsteroidsCocos2D-x](https://github.com/clawoo/AsteroidsCocos2D-x) - An Asteroids game implemented in Cocos2D-x
@@ -1247,7 +2088,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [ysboss/tinyhttpd](https://github.com/ysboss/tinyhttpd) - tinyhttpd是一个超轻量型Http Server，使用C语言开发，全部代码只有502行(包括注释)，附带一个简单的Client，可以通过阅读这段代码理解一个 Http Server 的本质。
 * [toymachine/libredis](https://github.com/toymachine/libredis) - A C based general low-level PHP extension and client library for Redis, focusing on performance, generality and efficient parallel communication with multiple Redis servers. As a bonus, a  Ketama Consistent Hashing implementation is provided as well.
 * [sheredom/utf8.h](https://github.com/sheredom/utf8.h) - utf8 string functions for C and C++
-* [preshing/CompareIntegerMaps](https://github.com/preshing/CompareIntegerMaps) - Generates benchmark data for two different data structures, then renders some graphs.
 * [pkrumins/node-base64](https://github.com/pkrumins/node-base64) - A base64 encoding and decoding C++ module for node.js that actually works! (node now has it's own base64 encoding, see docs!)
 * [lthiery/SPI-Py](https://github.com/lthiery/SPI-Py) - Hardware SPI as a C Extension for Python
 * [jrfoell/campfire-libpurple](https://github.com/jrfoell/campfire-libpurple) - A Campfire protocol plugin for libpurple (Pidgin)
@@ -1334,7 +2174,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [robotpy/robotpy-crio](https://github.com/robotpy/robotpy-crio) - Obsolete. Python 3 port for cRIO for use in the FIRST Robotics Competition (FRC)
 * [njh/mqtt-sn-tools](https://github.com/njh/mqtt-sn-tools) - Command line tools written in C for the MQTT-SN (MQTT For Sensor Networks) protocol
 * [i-saint/DynamicPatcher](https://github.com/i-saint/DynamicPatcher) - Runtime C++ Editing
-* [ginsweater/gif-h](https://github.com/ginsweater/gif-h) - Simple C++ one-header library for the creation of animated GIFs from image data.
 * [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 * [brianmario/bzip2-ruby](https://github.com/brianmario/bzip2-ruby) - Original libbz2 ruby C bindings from Guy Decoux, with some new love
 * [amd/Chromium-WebCL](https://github.com/amd/Chromium-WebCL) - WebCL implementation for Chromium
@@ -1373,7 +2212,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [jalvesaq/VimCom](https://github.com/jalvesaq/VimCom) - Intermediate the communication between Vim and R
 * [google/cronutils](https://github.com/google/cronutils) - utilities to assist running batch processing jobs
 * [efelix/lua-cjson](https://github.com/efelix/lua-cjson) - Fast JSON parsing and encoding support for Lua
-* [cloudflare/lua-upstream-cache-nginx-module](https://github.com/cloudflare/lua-upstream-cache-nginx-module) - Nginx module for ngx_lua to provide Lua API to inspect upstream http cache meta-data
 * [brong/cyrus-imapd](https://github.com/brong/cyrus-imapd) - My git clone of the Cyrus CVS repository
 * [asynclabs/WiShield_user_contrib](https://github.com/asynclabs/WiShield_user_contrib) - WiShield library with user contributed features
 * [andygock/avr-uart](https://github.com/andygock/avr-uart) - AVR UART C Library
@@ -1382,7 +2220,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [Kurento/kms-core](https://github.com/Kurento/kms-core) - Core library of Kurento Media Server
 * [taogogo/geohash-php-extention](https://github.com/taogogo/geohash-php-extention) - a php extension for geohash,geohash is writen in c,very fast to convert geohash and coord.(一个转换经纬度和geohash的PHP扩展)
 * [sharelatex/clsi-sharelatex](https://github.com/sharelatex/clsi-sharelatex) - A web api for compiling LaTeX documents in the cloud
-* [rofl0r/libulz](https://github.com/rofl0r/libulz) - a collection of useful functions and data structures to create C apps faster. focus on simplicity, ability to statically link and minimal binary size.
 * [redbrain/cython-book](https://github.com/redbrain/cython-book) - Learning Cython packtpub.com code examples.
 * [paulfitz/coopy](https://github.com/paulfitz/coopy) - distributed spreadsheets with intelligent merges
 * [okws/sfslite](https://github.com/okws/sfslite) - SFSlite C++ development libraries
@@ -1427,7 +2264,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [LippiOuYang/WebBench](https://github.com/LippiOuYang/WebBench) - Webbench是一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。Webbench使用C语言编写, 代码实在太简洁，源码加起来不到600行。
 * [wahern/cqueues](https://github.com/wahern/cqueues) - Continuation Queues: Embeddable asynchronous networking, threading, and notification framework for Lua on Unix.
 * [pritambaral/hostapd-rtl871xdrv](https://github.com/pritambaral/hostapd-rtl871xdrv) - Hostapd driver for RTL8188{C|CU|CUS} wifi chips.
-* [orangeduck/json2c](https://github.com/orangeduck/json2c) - Convert JSON to C data literals
 * [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
 * [jstasiak/asterisk-chan-dongle](https://github.com/jstasiak/asterisk-chan-dongle) - Mirror of SVN-based "asterisk's huawei 3g dongle channel driver" project with my Asterisk 10 and 11 compatibility patches (asterisk10 and asterisk11 branches)
 * [iafonov/cosmonaut](https://github.com/iafonov/cosmonaut) - Fast web server & micro framework implemented in C. Just for fun.
@@ -1460,7 +2296,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
 * [zhicheng/db](https://github.com/zhicheng/db) - A New DBM in Pure C
 * [zarya/esp8266_i2c_driver](https://github.com/zarya/esp8266_i2c_driver) - ESP8266 I2C Driver
-* [wangkuiwu/datastructs_and_algorithm](https://github.com/wangkuiwu/datastructs_and_algorithm) - Data struct and algorithm introduction and implementation in C/C++/Java.
 * [tglman/orientdb-c](https://github.com/tglman/orientdb-c) - The C client of  OrientDB
 * [septag/darkhammer](https://github.com/septag/darkhammer) - darkHAMMER is a lightweight, open-source, multiplatform game engine. written in C (C99) language, supports python and C# bindings and lua scripts. Runs on windows and linux
 * [robertdavidgraham/cve-2015-5477](https://github.com/robertdavidgraham/cve-2015-5477) - PoC exploit for CVE-2015-5477 BIND9 TKEY assertion failure
@@ -1474,7 +2309,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [jashmenn/apriori](https://github.com/jashmenn/apriori) - A ruby/c extension to Christian Borgelt's apriori item-set implementation
 * [itod/panthro](https://github.com/itod/panthro) - A implementation of XPath 3.0 in Objective-C/Cocoa
 * [freaklabs/chibiArduino](https://github.com/freaklabs/chibiArduino) - A lightweight 802.15.4 wireless protocol stack for Arduino
-* [fmela/libdict](https://github.com/fmela/libdict) - C library of key-value data structures with an object-oriented interface.
 * [evanmiller/nginx_circle_gif](https://github.com/evanmiller/nginx_circle_gif) - Serve 68,000 round corners per second
 * [drvink/epanos](https://github.com/drvink/epanos) - ElectroPaint Automatic No-source Object reaSsembler (a MIPS to C decompiler)
 * [chaoslawful/tcc](https://github.com/chaoslawful/tcc) - track of Tiny C Compiler
@@ -1503,7 +2337,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [akissa/php-couchdb](https://github.com/akissa/php-couchdb) - PHP extension for CouchDB
 * [WoozleWrangler/ControlPad](https://github.com/WoozleWrangler/ControlPad) - iPhone Controller app for SNES (HD)
 * [TASVideos/BizHawk](https://github.com/TASVideos/BizHawk) - BizHawk is a A multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
-* [JuliaLang/utf8proc](https://github.com/JuliaLang/utf8proc) - a clean C library for processing UTF-8 Unicode data
 * [xaionaro/clsync](https://github.com/xaionaro/clsync) - file live sync daemon based on inotify/kqueue/bsm (Linux, FreeBSD), written in GNU C
 * [sch3m4/libntoh](https://github.com/sch3m4/libntoh) - User-friendly C Library to perform TCP streams reassembly and IPv4 defragmentation
 * [saghul/pycares](https://github.com/saghul/pycares) - Python interface for c-ares
@@ -1558,7 +2391,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [adamcaudill/ccsrch](https://github.com/adamcaudill/ccsrch) - Cross-platform credit card (PAN) search tool for security assesments
 * [Voluntarynet/Crypt](https://github.com/Voluntarynet/Crypt) - OSX app for drag and drop encryption
 * [CObjectSystem/COS](https://github.com/CObjectSystem/COS) - C Object System
-* [BurntSushi/clibs](https://github.com/BurntSushi/clibs) - A smattering of miscellaneous C libraries. Includes sane argument parsing, a thread-safe multi-producer/multi-consumer queue, and implementation of common data structures (hashmaps, vectors and linked lists).
 * [valr/cbatticon](https://github.com/valr/cbatticon) - A lightweight and fast battery icon that sits in your system tray
 * [tadasv/csv_parser](https://github.com/tadasv/csv_parser) - Callback based (SAX like) CSV Parser for C
 * [reeze/php-ext-embed](https://github.com/reeze/php-ext-embed) - Write your PHP extension with C and PHP!
