@@ -1778,7 +1778,7 @@ A curated list of awesome C frameworks, libraries and software.
 * [kev009/Concurrency-Kit](https://github.com/kev009/Concurrency-Kit) - Concurrency primitives and lock-less data structures
 * [ge-ne/bibtool](https://github.com/ge-ne/bibtool) - BibTool is a tool for manipulating BibTeX data bases. BibTeX provides a mean to integrate citations into LaTeX documents. BibTool allows the manipulation of BibTeX files which goes beyond the possibilities -- and intentions -- of BibTeX.
 * [fuzxxl/memf](https://github.com/fuzxxl/memf) - Portable scanf/printf-like functions to marshal binary data
-* [ethz-asl/asctec_mav_framework](https://github.com/ethz-asl/asctec_mav_framework) - Framework for data aquisition and position control to be used with the highlevel processor of Ascending Technologies helicopters
+* [ethz-asl/asctec_mav_framework](https://github.com/ethz-asl/asctec_mav_framework) - Framework for data acquisition and position control to be used with the highlevel processor of Ascending Technologies helicopters
 * [dminor/skip-quadtree](https://github.com/dminor/skip-quadtree) - Implementation of the skip quadtree and compressed quadtree data structures.
 * [cornetp/eagle-owl](https://github.com/cornetp/eagle-owl) - Data acquisition from an OWL CM160 +USB device on linux platforms
 * [comex/data](https://github.com/comex/data) - the green eyed monster
@@ -2210,7 +2210,7 @@ A curated list of awesome C frameworks, libraries and software.
 * [jsvennevid/filearchive](https://github.com/jsvennevid/filearchive) - File archive library allowing for easy creation and access to data stored inside a container through a simple API.
 * [jpmens/mqtt-chronos](https://github.com/jpmens/mqtt-chronos) - Periodically submit time/date-related data to an MQTT broker
 * [jenswilly/AVR-enc28j60-pachube](https://github.com/jenswilly/AVR-enc28j60-pachube) - AVR Libc-based project for ATmega328/-168 sending data to Pachube using an ENC28J60 with the Tuxgraphics TCP library.
-* [irvined1982/loguino](https://github.com/irvined1982/loguino) - Logiuno, an arduino based data aquisition tool
+* [irvined1982/loguino](https://github.com/irvined1982/loguino) - Logiuno, an arduino based data acquisition tool
 * [hroptatyr/gandalf](https://github.com/hroptatyr/gandalf) - serve time series from rolled-out text data, part of the army of unserding services
 * [hp09d/SAE-Baja-Data-Acquisition](https://github.com/hp09d/SAE-Baja-Data-Acquisition) - Senior Design project year 2014-2015
 * [hoxnox/rawsock_recv_example](https://github.com/hoxnox/rawsock_recv_example) - SOCK_RAW IPPROTO_UDP socket data transmission example
