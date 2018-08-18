@@ -1473,6 +1473,7 @@ A curated list of awesome C frameworks, libraries and software.
 * [Microsoft/WinObjC](https://github.com/Microsoft/WinObjC) - Objective-C for Windows
 * [bagder/curl](https://github.com/bagder/curl) - Curl is a tool and libcurl is a library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 * [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server for C/C++
+* [risoflora/libsagui](https://risoflora.github.io/libsagui/) - C library to develop cross-platform HTTP servers.
 * [litehelpers/Cordova-sqlite-storage](https://github.com/litehelpers/Cordova-sqlite-storage) - A Cordova/PhoneGap plugin to open and use sqlite databases on Android/iOS/Windows Universal(8.1)/Amazon Fire-OS/WP(7/8) with HTML5/Web SQL API
 * [simtr/The-Powder-Toy](https://github.com/simtr/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
 * [couchbase/couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android) - Lightweight, embedded, syncable NoSQL database engine for Android.
