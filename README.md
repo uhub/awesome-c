@@ -447,6 +447,7 @@ A curated list of awesome C frameworks, libraries and software.
 * [redbo/cloudfuse](https://github.com/redbo/cloudfuse) - Filesystem (fuse) implemented on Mosso's Cloud Files
 * [jnz/q3vm](https://github.com/jnz/q3vm) - Q3VM - Embeddable bytecode virtual machine/interpreter for C-language input
 * [hyperrealm/libconfig](https://github.com/hyperrealm/libconfig) - C/C++ library for processing configuration files
+* [madmurphy/libconfini](https://github.com/madmurphy/libconfini) - Yet another INI parser
 * [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
 * [znort987/blockparser](https://github.com/znort987/blockparser) - Simple C++ bitcoin blockchain parser
 * [uclouvain/openjpeg](https://github.com/uclouvain/openjpeg) - Official repository of the OpenJPEG project
