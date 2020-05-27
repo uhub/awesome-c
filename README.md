@@ -2,6 +2,7 @@
 
 A curated list of awesome C frameworks, libraries and software.
 
+* [RoboCopGay/CParaSeresHumanos](https://github.com/RoboCopGay/CParaSeresHumanos) - A open C book for beginners in portuguese
 * [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
