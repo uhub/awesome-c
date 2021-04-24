@@ -984,3 +984,4 @@ A curated list of awesome C frameworks, libraries and software.
 * [zedshaw/liblcthw](https://github.com/zedshaw/liblcthw) - The library you create when you are done with Learn C The Hard Way
 * [yunnian/php-nsq](https://github.com/yunnian/php-nsq) - a php nsq client write by c extension,the fastest  nsq client
 * [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
+* [Vcpkg](https://github.com/microsoft/vcpkg) - Helps you manage C and C++ libraries on Windows, Linux and MacOS.
