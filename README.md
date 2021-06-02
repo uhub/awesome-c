@@ -54,6 +54,7 @@ A curated list of awesome C frameworks, libraries and software.
 * [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 * [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 * [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+* [smoked-herring/sail](https://github.com/smoked-herring/sail) - ⛵ The missing small and fast image decoding library for humans (not for machines)
 * [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
 * [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 * [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
