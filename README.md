@@ -444,6 +444,7 @@ A curated list of awesome C frameworks, libraries and software.
 * [ninia/jep](https://github.com/ninia/jep) - Embed Python in Java
 * [kuba--/zip](https://github.com/kuba--/zip) - A portable, simple zip library written in C
 * [cisco-system-traffic-generator/trex-core](https://github.com/cisco-system-traffic-generator/trex-core) - trex-core site
+* [baidu/dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software.
 * [tekknolagi/carp](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes.
 * [zedshaw/learn-c-the-hard-way-lectures](https://github.com/zedshaw/learn-c-the-hard-way-lectures) - All of the code from Learn C The Hard Way, each project, plus the presentation slides used in the videos.
 * [nicklockwood/FastCoding](https://github.com/nicklockwood/FastCoding) - A faster and more flexible binary file format replacement for NSCoding, Property Lists and JSON
