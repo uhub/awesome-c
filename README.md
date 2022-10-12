@@ -817,3 +817,4 @@ A curated list of awesome C frameworks, libraries and software.
 * [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 * [particle-iot/device-os](https://github.com/particle-iot/device-os) - Device OS (Firmware) for Particle Devices
 * [Gigoteur/UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick game !
+* [pspdev/pspdev](https://github.com/pspdev/pspdev) - An open-source SDK for PSP homebrew development.
