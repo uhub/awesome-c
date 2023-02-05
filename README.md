@@ -121,7 +121,7 @@ A curated list of awesome C frameworks, libraries and software.
 * [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 * [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 * [jorisvink/kore](https://github.com/jorisvink/kore) - An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for information on how to contribute via the mailing lists.
-* [IWNET](https://github.com/Softmotions/iwnet) - Pure C Asynchronous HTTP/IO library providing websockets, SSL, routing and reverse proxy. (MIT)
+* [Softmotions/iwnet](https://github.com/Softmotions/iwnet) - Pure C Asynchronous HTTP/IO library providing websockets, SSL, routing and reverse proxy. (MIT)
 * [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 * [contiki-os/contiki](https://github.com/contiki-os/contiki) - The official git repository for Contiki, the open source OS for the Internet of Things
 * [gnea/grbl](https://github.com/gnea/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
