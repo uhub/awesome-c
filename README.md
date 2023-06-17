@@ -6,8 +6,8 @@ A curated list of awesome C frameworks, libraries and software.
 * [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 * [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
-* [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+* [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 * [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 * [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 * [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -29,12 +29,12 @@ A curated list of awesome C frameworks, libraries and software.
 * [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 * [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 * [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
-* [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 * [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-* [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+* [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 * [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
-* [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
+* [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 * [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+* [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 * [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 * [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 * [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -45,10 +45,10 @@ A curated list of awesome C frameworks, libraries and software.
 * [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 * [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 * [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-* [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 * [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-* [Tencent/xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
+* [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 * [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
+* [Tencent/xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
 * [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 * [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 * [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -56,15 +56,15 @@ A curated list of awesome C frameworks, libraries and software.
 * [rswier/c4](https://github.com/rswier/c4) - C in four functions
 * [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 * [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-* [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 * [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
+* [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 * [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 * [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 * [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 * [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 * [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
-* [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 * [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card
+* [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 * [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
 * [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 * [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
@@ -73,40 +73,46 @@ A curated list of awesome C frameworks, libraries and software.
 * [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 * [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 * [rui314/8cc](https://github.com/rui314/8cc) - A Small C Compiler
-* [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 * [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
-* [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
+* [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 * [redis/hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis >= 1.2
+* [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
 * [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 * [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
-* [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 * [ithewei/libhv](https://github.com/ithewei/libhv) - 🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
-* [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
+* [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 * [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
+* [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
 * [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 * [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 * [yourtion/30dayMakeOS](https://github.com/yourtion/30dayMakeOS) - 《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程
 * [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
-* [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 * [grbl/grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
-* [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
+* [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 * [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
+* [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
+* [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 * [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+* [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
+* [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 * [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
+* [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
+* [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
+* [clibs/clib](https://github.com/clibs/clib) - C package manager-ish
 * [laruence/yaf](https://github.com/laruence/yaf) - Fast php framework written in c, built in php extension
 * [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 * [antirez/sds](https://github.com/antirez/sds) - Simple Dynamic Strings library for C
-* [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
-* [tboox/tbox](https://github.com/tboox/tbox) - 🎁 A glib-like multi-platform c library
-* [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
-* [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 * [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
+* [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
+* [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
+* [tboox/tbox](https://github.com/tboox/tbox) - 🎁 A glib-like multi-platform c library
+* [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 * [aws/s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
 * [marcobambini/gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 * [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 * [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
-* [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
 * [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
+* [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
 * [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 * [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 * [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
@@ -114,25 +120,17 @@ A curated list of awesome C frameworks, libraries and software.
 * [y123456yz/reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕
 * [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 * [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
-* [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
-* [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 * [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
-* [attractivechaos/klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
-* [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
-* [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
-* [gnea/grbl](https://github.com/gnea/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
-* [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
-* [kokke/tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C
+* [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 * [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-* [jorisvink/kore](https://github.com/jorisvink/kore) - An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for information on how to contribute via the mailing lists.
+* [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 * [contiki-os/contiki](https://github.com/contiki-os/contiki) - The official git repository for Contiki, the open source OS for the Internet of Things
 * [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
-* [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
-* [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
-* [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
+* [Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) - Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
 * [troydhanson/uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more
-* [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
+* [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
 * [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+* [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 * [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 * [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it.
 * [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
@@ -140,41 +138,309 @@ A curated list of awesome C frameworks, libraries and software.
 * [microsoft/msquic](https://github.com/microsoft/msquic) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 * [iqiyi/xCrash](https://github.com/iqiyi/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
 * [hnes/libaco](https://github.com/hnes/libaco) - A blazing fast and lightweight C asymmetric coroutine library  💎 ⛅🚀⛅🌞
-* [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
 * [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
+* [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
 * [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 * [Mzzopublic/C](https://github.com/Mzzopublic/C) - C语言
 * [microsoft/checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, and test code.
-* [stellar/stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network
-* [jakogut/tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
 * [ThrowTheSwitch/Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
 * [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
-* [mridgers/clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 * [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
-* [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 * [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+* [westes/flex](https://github.com/westes/flex) - The Fast Lexical Analyzer - scanner generator for lexing in C and C++
+* [stellar/stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network
+* [jakogut/tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
+* [mridgers/clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 * [kangjianwei/Data-Structure](https://github.com/kangjianwei/Data-Structure) - 《数据结构》-严蔚敏.吴伟民-教材源码与习题解析
-* [ohler55/oj](https://github.com/ohler55/oj) - Optimized JSON
-* [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
 * [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 * [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
-* [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
-* [Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) - Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
+* [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
+* [ohler55/oj](https://github.com/ohler55/oj) - Optimized JSON
 * [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms) - A library of common data structures and algorithms written in C.
+* [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 * [vozlt/nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
-* [jonashaag/bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
 * [armink/EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM<1.6K, RAM<0.3k), high-performance C/C++ log library. | 一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
+* [jonashaag/bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
 * [begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode) - LeetCode in pure C
-* [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 * [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
+* [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
+* [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 * [collectd/collectd](https://github.com/collectd/collectd) - The system statistics collection daemon. Please send Pull Requests here!
 * [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) -   inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
-* [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 * [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
-* [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data
 * [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
-* [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
+* [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data
 * [quickjs-zh/QuickJS](https://github.com/quickjs-zh/QuickJS) - QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器。
+* [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
+* [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
+* [namhyung/uftrace](https://github.com/namhyung/uftrace) - Function graph tracer for C/C++/Rust/Python
+* [tj/luna](https://github.com/tj/luna) - luna programming language - a small, elegant VM implemented in C
+* [Ewenwan/ShiYanLou](https://github.com/Ewenwan/ShiYanLou) - 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试
+* [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
+* [cesanta/mongoose-os](https://github.com/cesanta/mongoose-os) - Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript.
+* [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
+* [civetweb/civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
+* [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
+* [NetHack/NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
+* [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
+* [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
+* [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
+* [nigels-com/glew](https://github.com/nigels-com/glew) - The OpenGL Extension Wrangler Library
+* [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
+* [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
+* [cloudwu/coroutine](https://github.com/cloudwu/coroutine) - A asymmetric coroutine library for C.
+* [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
+* [networkprotocol/yojimbo](https://github.com/networkprotocol/yojimbo) - A network library for client/server games written in C++
+* [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
+* [zauonlok/renderer](https://github.com/zauonlok/renderer) - A shader-based software renderer written from scratch in C89
+* [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
+* [chjj/compton](https://github.com/chjj/compton) - A compositor for X11.
+* [concurrencykit/ck](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.
+* [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
+* [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+* [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS
+* [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
+* [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
+* [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
+* [open62541/open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
+* [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon) - The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
+* [lloyd/yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
+* [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
+* [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
+* [benhoyt/inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
+* [linux-test-project/ltp](https://github.com/linux-test-project/ltp) - Linux Test Project http://linux-test-project.github.io/
+* [glouw/tinn](https://github.com/glouw/tinn) - A tiny neural network library
+* [scandum/quadsort](https://github.com/scandum/quadsort) - Quadsort is a branchless stable adaptive mergesort faster than quicksort.
+* [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
+* [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
+* [Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs) - Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记
+* [tezc/sc](https://github.com/tezc/sc) - Common libraries and data structures for C.
+* [skywind3000/mini3d](https://github.com/skywind3000/mini3d) - 3D Software Renderer in 700 Lines !!
+* [rxi/log.c](https://github.com/rxi/log.c) - A simple logging library implemented in C99
+* [cc65/cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
+* [vmg/sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure markdown processing library in C
+* [davidmoreno/onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications.
+* [slembcke/Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library.
+* [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
+* [mpitutorial/mpitutorial](https://github.com/mpitutorial/mpitutorial) - MPI programming lessons in C and executable code examples
+* [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
+* [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
+* [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
+* [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
+* [HardySimpson/zlog](https://github.com/HardySimpson/zlog) - A reliable, high-performance, thread safe, flexsible, clear-model, pure C logging library.
+* [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+* [coreboot/coreboot](https://github.com/coreboot/coreboot) - Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
+* [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
+* [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
+* [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
+* [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
+* [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc) - Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C
+* [xiph/opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
+* [rapiz1/DungeonRush](https://github.com/rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL
+* [matrixcascade/PainterEngine](https://github.com/matrixcascade/PainterEngine) - PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C
+* [begeekmyfriend/bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
+* [statsite/statsite](https://github.com/statsite/statsite) - C implementation of statsd
+* [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
+* [citusdata/cstore_fdw](https://github.com/citusdata/cstore_fdw) - Columnar storage extension for Postgres built as a foreign data wrapper. Check out https://github.com/citusdata/citus for a modernized columnar storage implementation built as a table access method.
+* [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
+* [Lora-net/LoRaMac-node](https://github.com/Lora-net/LoRaMac-node) - Reference implementation and documentation of a LoRa network node.
+* [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources
+* [h2o/picohttpparser](https://github.com/h2o/picohttpparser) - tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
+* [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
+* [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
+* [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) - Portable (that doesn't include proprietary/commercial operating systems) solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = convert and calculate candidates, x = different hashtypes
+* [facebookarchive/libphenom](https://github.com/facebookarchive/libphenom) - An eventing framework for building high performance and high scalability systems in C.
+* [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
+* [orangeduck/Corange](https://github.com/orangeduck/Corange) - Pure C Game Engine
+* [sustrik/libdill](https://github.com/sustrik/libdill) - Structured concurrency in C
+* [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
+* [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
+* [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
+* [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
+* [cgdb/cgdb](https://github.com/cgdb/cgdb) - Console front-end to the GNU debugger
+* [droe/sslsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception
+* [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
+* [taviso/ctftool](https://github.com/taviso/ctftool) - Interactive CTF Exploration Tool
+* [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
+* [cloudwu/pbc](https://github.com/cloudwu/pbc) - A protocol buffers library for C
+* [sdlpal/sdlpal](https://github.com/sdlpal/sdlpal) - SDL-based reimplementation of the classic Chinese-language RPG known as PAL.
+* [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is minimalist and historically accurate.
+* [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
+* [lexborisov/myhtml](https://github.com/lexborisov/myhtml) - Fast C/C++ HTML 5 Parser. Using threads.
+* [iPlug2/iPlug2](https://github.com/iPlug2/iPlug2) - C++ Audio Plug-in Framework for desktop, mobile and web
+* [emsec/ChameleonMini](https://github.com/emsec/ChameleonMini) - The ChameleonMini is a versatile contactless smartcard emulator compliant to NFC. The ChameleonMini was developed by https://kasper-oswald.de.  The device is available at https://shop.kasper.it. For further information see the Getting Started Page https://rawgit.com/emsec/ChameleonMini/master/Doc/Doxygen/html/_page__getting_started.html or the Wiki tab above.
+* [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
+* [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
+* [Pithikos/C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - A minimal but powerful thread pool in ANSI C
+* [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux
+* [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
+* [igraph/igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
+* [gurnec/HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
+* [rsta2/circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
+* [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C
+* [golang-ui/nuklear](https://github.com/golang-ui/nuklear) - This project provides Go bindings for nuklear.h — a small ANSI C GUI library.
+* [rougier/freetype-gl](https://github.com/rougier/freetype-gl) - OpenGL text using one vertex buffer, one texture and FreeType
+* [emweb/wt](https://github.com/emweb/wt) - Wt, C++ Web Toolkit
+* [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
+* [samtools/samtools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data
+* [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
+* [Softmotions/ejdb](https://github.com/Softmotions/ejdb) - :snowboarder: EJDB2 — Embeddable JSON Database engine C library. Simple XPath like query language (JQL). Websockets / Android / iOS / React Native / Flutter / Java / Dart / Node.js bindings. Docker image.
+* [cesanta/v7](https://github.com/cesanta/v7) - Embedded JavaScript engine for C/C++
+* [libtom/libtomcrypt](https://github.com/libtom/libtomcrypt) - LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
+* [RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid) - Performance monitoring and benchmarking suite
+* [flutter/codelabs](https://github.com/flutter/codelabs) - Flutter codelab examples
+* [codeplea/genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
+* [brektrou/rtl8821CU](https://github.com/brektrou/rtl8821CU) - Realtek RTL8811CU/RTL8821CU USB Wi-Fi adapter driver for Linux
+* [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -> "Desktop Engine"
+* [SpenceKonde/ATTinyCore](https://github.com/SpenceKonde/ATTinyCore) - Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8
+* [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64)
+* [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit
+* [armink/CmBacktrace](https://github.com/armink/CmBacktrace) - Advanced fault backtrace library for ARM Cortex-M series MCU | ARM Cortex-M 系列 MCU 错误追踪库
+* [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+* [eclipse/mraa](https://github.com/eclipse/mraa) - Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
+* [rui314/minilisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C
+* [tsherif/space-shooter.c](https://github.com/tsherif/space-shooter.c) - A cross-platform, top-down 2D space shooter written in C using only platform libraries.
+* [0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc) - 2023年，最新音视频学习资料整理，项目（调试可用），ffmpeg命令手册，文章，编解码论文，视频讲解，面试题全套资料
+* [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
+* [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
+* [brenns10/lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here ->
+* [miniupnp/miniupnp](https://github.com/miniupnp/miniupnp) - UPnP IGD implementation
+* [ands/lightmapper](https://github.com/ands/lightmapper) - A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
+* [joan2937/pigpio](https://github.com/joan2937/pigpio) - pigpio is a C library for the Raspberry which allows control of the General Purpose Input Outputs (GPIO).
+* [gbdk-2020/gbdk-2020](https://github.com/gbdk-2020/gbdk-2020) - An updated version of GBDK, A C compiler, assembler, linker and set of libraries for the Z80 like Nintendo Gameboy.
+* [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
+* [LIJI32/SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C
+* [danielwaterworth/Raphters](https://github.com/danielwaterworth/Raphters) - [DEPRECATED] A web framework for C.
+* [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
+* [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
+* [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee) - Bumblebee daemon and client rewritten in C
+* [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
+* [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations
+* [mltframework/mlt](https://github.com/mltframework/mlt) - MLT Multimedia Framework
+* [Visgean/Zeus](https://github.com/Visgean/Zeus) - NOT MY CODE! Zeus trojan horse - leaked in 2011, I am not the author. This repository is for study purposes only, do not message me about your lame hacking attempts.
+* [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
+* [trailofbits/ctf](https://github.com/trailofbits/ctf) - CTF Field Guide
+* [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
+* [cnlohr/channel3](https://github.com/cnlohr/channel3) - ESP8266 Analog Broadcast Television Interface
+* [dekuNukem/bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder) - Renew and Refill Bob Cassettes for 98% Cost Saving!
+* [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
+* [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++
+* [danigargu/CVE-2020-0796](https://github.com/danigargu/CVE-2020-0796) - CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost
+* [cr-marcstevens/sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file
+* [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
+* [agavrel/42_CheatSheet](https://github.com/agavrel/42_CheatSheet) - A comprehensive guide to 50 years of evolution of strict C programming, a tribute to Dennis Ritchie's language
+* [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
+* [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
+* [session-replay-tools/cetus](https://github.com/session-replay-tools/cetus) - Cetus is a high performance middleware that provides transparent routing between your application and any backend MySQL Servers.
+* [chenyahui/AnnotatedCode](https://github.com/chenyahui/AnnotatedCode) - 知名开源代码库的注释版：C++、Golang等
+* [gentilkiwi/kekeo](https://github.com/gentilkiwi/kekeo) - A little toolbox to play with Microsoft Kerberos in C
+* [json-parser/json-parser](https://github.com/json-parser/json-parser) - Very low footprint DOM-style JSON parser written in portable ANSI C
+* [armon/bloomd](https://github.com/armon/bloomd) - C network daemon for bloom filters
+* [alexfru/SmallerC](https://github.com/alexfru/SmallerC) - Simple C compiler
+* [AllAlgorithms/c](https://github.com/AllAlgorithms/c) - Implementation of All ▲lgorithms in C Programming Language
+* [bloomberg/comdb2](https://github.com/bloomberg/comdb2) - Bloomberg's distributed RDBMS
+* [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
+* [kgabis/parson](https://github.com/kgabis/parson) - Lightweight JSON library written in C.
+* [xiph/flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
+* [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+* [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
+* [Cyan4973/FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0
+* [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
+* [rxi/fe](https://github.com/rxi/fe) - A tiny, embeddable language implemented in ANSI C
+* [profanity-im/profanity](https://github.com/profanity-im/profanity) - Ncurses based XMPP client
+* [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf) - :diamond_shape_with_a_dot_inside: Single-file glTF 2.0 loader and writer written in C99
+* [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
+* [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
+* [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files.
+* [eclipse/paho.mqtt.embedded-c](https://github.com/eclipse/paho.mqtt.embedded-c) - Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)
+* [libsndfile/libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data.
+* [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game
+* [chentao0707/QrCodeScan](https://github.com/chentao0707/QrCodeScan) - Android手机客户端二维码扫描
+* [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
+* [vonzhou/CSAPP](https://github.com/vonzhou/CSAPP) - CSAPP,《深入理解计算机系统结构》2nd ，阅读与实践！
+* [tanakh/cmdline](https://github.com/tanakh/cmdline) - A Command Line Parser
+* [dariomanesku/cmftStudio](https://github.com/dariomanesku/cmftStudio) - cmftStudio - GUI counterpart for:
+* [kuba--/zip](https://github.com/kuba--/zip) - A portable, simple zip library written in C
+* [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
+* [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
+* [switchbrew/libnx](https://github.com/switchbrew/libnx) - Library for Switch Homebrew
+* [ucb-bar/chipyard](https://github.com/ucb-bar/chipyard) - An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+* [libssh2/libssh2](https://github.com/libssh2/libssh2) - the SSH library
+* [vgmstream/vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream - A library for playback of various streamed audio formats used in video games.
+* [contiki-ng/contiki-ng](https://github.com/contiki-ng/contiki-ng) - Contiki-NG: The OS for Next Generation IoT Devices
+* [ninia/jep](https://github.com/ninia/jep) - Embed Python in Java
+* [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project
+* [doonny/PipeCNN](https://github.com/doonny/PipeCNN) - An OpenCL-based FPGA Accelerator for Convolutional Neural Networks
+* [haywire/haywire](https://github.com/haywire/haywire) - Haywire is an asynchronous HTTP server framework written in C that's built using the event loop based libuv platform layer that node.js is built on top of.
+* [Sapd/HeadsetControl](https://github.com/Sapd/HeadsetControl) - Sidetone and Battery status for Logitech G930, G533, G633, G933 SteelSeries Arctis 7/PRO 2019 and Corsair VOID (Pro) in Linux and MacOSX
+* [grimfang4/sdl-gpu](https://github.com/grimfang4/sdl-gpu) - A library for high-performance, modern 2D graphics with SDL written in C.
+* [cisco-system-traffic-generator/trex-core](https://github.com/cisco-system-traffic-generator/trex-core) - trex-core site
+* [zpl-c/librg](https://github.com/zpl-c/librg) - 🚀  Making multi-player gamedev simpler since 2017
+* [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
+* [y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack](https://github.com/y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack) - linux内核网络协议栈源码阅读分析注释--带详尽中文分析注释以及相关流程分析调用注释，对理解分析内核协议栈源码很有帮助
+* [Fazecast/jSerialComm](https://github.com/Fazecast/jSerialComm) - Platform-independent serial port access for Java
+* [csound/csound](https://github.com/csound/csound) - Main repository for Csound
+* [xorvoid/sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine
+* [mkirchner/gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
+* [traildb/traildb](https://github.com/traildb/traildb) - TrailDB is an efficient tool for storing and querying series of events
+* [kokke/tiny-regex-c](https://github.com/kokke/tiny-regex-c) - Small portable regex in C
+* [zeromq/czmq](https://github.com/zeromq/czmq) - High-level C binding for ØMQ
+* [vurtun/lib](https://github.com/vurtun/lib) - single header libraries for C/C++
+* [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
+* [scottcgi/Mojoc](https://github.com/scottcgi/Mojoc) - A cross-platform, open-source, pure C  game engine for mobile game.
+* [zedshaw/learn-c-the-hard-way-lectures](https://github.com/zedshaw/learn-c-the-hard-way-lectures) - All of the code from Learn C The Hard Way, each project, plus the presentation slides used in the videos.
+* [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
+* [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
+* [tj/mon](https://github.com/tj/mon) - mon(1) - Simple single-process process monitoring program written in C
+* [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language.
+* [h0mbre/Learning-C](https://github.com/h0mbre/Learning-C) - A series of mini-projects used to learn C for beginners
+* [linux-rdma/rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
+* [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe)
+* [tass-belgium/picotcp](https://github.com/tass-belgium/picotcp) - PicoTCP is a free TCP/IP stack implementation
+* [laruence/yaconf](https://github.com/laruence/yaconf) - A PHP Persistent Configurations Container
+* [ustcwpz/USTC-CS-Courses-Resource](https://github.com/ustcwpz/USTC-CS-Courses-Resource) - USTC计算机学院课程资源
+* [cloudflare/cloudflare-blog](https://github.com/cloudflare/cloudflare-blog) - Cloudflare Blog code samples
+* [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
+* [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
+* [miao1007/Openwrt-NetKeeper](https://github.com/miao1007/Openwrt-NetKeeper) - [C/C++] Run Netkeeper on OpenWrt Device
+* [FRiCKLE/ngx_cache_purge](https://github.com/FRiCKLE/ngx_cache_purge) - nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches.
+* [hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS) - 哈尔滨工业大学（深圳）计算机专业课程攻略 | Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)
+* [glouw/ctl](https://github.com/glouw/ctl) - The C Template Library
+* [zlib-ng/minizip-ng](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution.
+* [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
+* [willemt/raft](https://github.com/willemt/raft) - C implementation of the Raft Consensus protocol, BSD licensed
+* [dibyendumajumdar/ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
+* [msteinbeck/tinyspline](https://github.com/msteinbeck/tinyspline) - ANSI C library for NURBS, B-Splines, and Bézier curves with interfaces for C++, C#, D, Go, Java, Javascript, Lua, Octave, PHP, Python, R, and Ruby.
+* [hyperrealm/libconfig](https://github.com/hyperrealm/libconfig) - C/C++ library for processing configuration files
+* [Battelle/movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
+* [appneta/tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools for *NIX and Windows - Users please download source from
+* [rustyrussell/ccan](https://github.com/rustyrussell/ccan) - The C Code Archive Network
+* [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
+* [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag.
+* [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
+* [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine
+* [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr) - The Official Arduino AVR core
+* [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
+* [pimoroni/pimoroni-pico](https://github.com/pimoroni/pimoroni-pico) - Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.
+* [OpenEtherCATsociety/SOEM](https://github.com/OpenEtherCATsociety/SOEM) - Simple Open Source EtherCAT Master
+* [tekknolagi/carp](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes.
+* [nicklockwood/FastCoding](https://github.com/nicklockwood/FastCoding) - A faster and more flexible binary file format replacement for NSCoding, Property Lists and JSON
+* [libretro/common-shaders](https://github.com/libretro/common-shaders) - Collection of commonly used Cg shaders. These shaders are usable by either HLSL and/or Cg runtime compilers. The cg2glsl script will translate most of these into GLSL shaders.
+* [mackron/dr_libs](https://github.com/mackron/dr_libs) - Audio decoding libraries for C/C++, each in a single source file.
+* [dddrrreee/cs140e-20win](https://github.com/dddrrreee/cs140e-20win) - cs140e course materials.
+* [examplecode/mproxy](https://github.com/examplecode/mproxy) - c 语言实现的一个最小的http代理，支持翻墙
+* [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
+* [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)
+* [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
+* [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
+* [attractivechaos/klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
+* [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
+* [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
+* [gnea/grbl](https://github.com/gnea/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
+* [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
+* [kokke/tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C
+* [jorisvink/kore](https://github.com/jorisvink/kore) - An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for information on how to contribute via the mailing lists.
+* [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 * [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 * [premake/premake-core](https://github.com/premake/premake-core) - Premake
 * [stephane/libmodbus](https://github.com/stephane/libmodbus) - A Modbus library for Linux, Mac OS, FreeBSD and Windows
@@ -193,63 +459,10 @@ A curated list of awesome C frameworks, libraries and software.
 * [orangeduck/mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
 * [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 * [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
-* [tj/luna](https://github.com/tj/luna) - luna programming language - a small, elegant VM implemented in C
-* [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
-* [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
-* [Ewenwan/ShiYanLou](https://github.com/Ewenwan/ShiYanLou) - 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试
-* [namhyung/uftrace](https://github.com/namhyung/uftrace) - Function graph tracer for C/C++/Rust/Python
-* [cesanta/mongoose-os](https://github.com/cesanta/mongoose-os) - Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript.
-* [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
-* [civetweb/civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
 * [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
-* [NetHack/NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
-* [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
-* [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
-* [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
-* [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
-* [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
-* [open62541/open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
-* [seemoo-lab/nexmon](https://github.com/seemoo-lab/nexmon) - The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more
-* [lloyd/yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
-* [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
 * [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
-* [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
-* [glouw/tinn](https://github.com/glouw/tinn) - A tiny neural network library
-* [linux-test-project/ltp](https://github.com/linux-test-project/ltp) - Linux Test Project http://linux-test-project.github.io/
-* [benhoyt/inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
-* [scandum/quadsort](https://github.com/scandum/quadsort) - Quadsort is a branchless stable adaptive mergesort faster than quicksort.
-* [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
-* [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
-* [Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs) - Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记
-* [skywind3000/mini3d](https://github.com/skywind3000/mini3d) - 3D Software Renderer in 700 Lines !!
-* [tezc/sc](https://github.com/tezc/sc) - Common libraries and data structures for C.
-* [vmg/sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure markdown processing library in C
-* [rxi/log.c](https://github.com/rxi/log.c) - A simple logging library implemented in C99
-* [slembcke/Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library.
-* [cc65/cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
-* [davidmoreno/onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications.
-* [mpitutorial/mpitutorial](https://github.com/mpitutorial/mpitutorial) - MPI programming lessons in C and executable code examples
-* [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
-* [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
-* [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
-* [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
-* [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
-* [HardySimpson/zlog](https://github.com/HardySimpson/zlog) - A reliable, high-performance, thread safe, flexsible, clear-model, pure C logging library.
-* [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
-* [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
-* [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
-* [coreboot/coreboot](https://github.com/coreboot/coreboot) - Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
-* [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
-* [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
-* [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc) - Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C
-* [statsite/statsite](https://github.com/statsite/statsite) - C implementation of statsd
-* [begeekmyfriend/bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
-* [rapiz1/DungeonRush](https://github.com/rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL
-* [xiph/opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
-* [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 * [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 * [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
-* [matrixcascade/PainterEngine](https://github.com/matrixcascade/PainterEngine) - PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C
 * [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
 * [drh/lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
 * [richgel999/miniz](https://github.com/richgel999/miniz) - miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz
@@ -264,156 +477,12 @@ A curated list of awesome C frameworks, libraries and software.
 * [open-mpi/ompi](https://github.com/open-mpi/ompi) - Open MPI main development repository
 * [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output
 * [luke-jr/bfgminer](https://github.com/luke-jr/bfgminer) - Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.
-* [citusdata/cstore_fdw](https://github.com/citusdata/cstore_fdw) - Columnar storage extension for Postgres built as a foreign data wrapper. Check out https://github.com/citusdata/citus for a modernized columnar storage implementation built as a table access method.
 * [PromyLOPh/pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player
-* [Lora-net/LoRaMac-node](https://github.com/Lora-net/LoRaMac-node) - Reference implementation and documentation of a LoRa network node.
 * [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
 * [owntone/owntone-server](https://github.com/owntone/owntone-server) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay 1 and 2 speakers (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
-* [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
-* [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources
-* [mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) - A cross-platform minigolf game written in C.
-* [h2o/picohttpparser](https://github.com/h2o/picohttpparser) - tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
-* [facebookarchive/libphenom](https://github.com/facebookarchive/libphenom) - An eventing framework for building high performance and high scalability systems in C.
-* [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
-* [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) - Portable (that doesn't include proprietary/commercial operating systems) solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = convert and calculate candidates, x = different hashtypes
-* [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
-* [sustrik/libdill](https://github.com/sustrik/libdill) - Structured concurrency in C
-* [orangeduck/Corange](https://github.com/orangeduck/Corange) - Pure C Game Engine
-* [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
-* [cgdb/cgdb](https://github.com/cgdb/cgdb) - Console front-end to the GNU debugger
-* [droe/sslsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception
-* [taviso/ctftool](https://github.com/taviso/ctftool) - Interactive CTF Exploration Tool
-* [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
-* [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
-* [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
-* [cloudwu/pbc](https://github.com/cloudwu/pbc) - A protocol buffers library for C
-* [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
-* [sdlpal/sdlpal](https://github.com/sdlpal/sdlpal) - SDL-based reimplementation of the classic Chinese-language RPG known as PAL.
-* [lexborisov/myhtml](https://github.com/lexborisov/myhtml) - Fast C/C++ HTML 5 Parser. Using threads.
-* [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is minimalist and historically accurate.
-* [emsec/ChameleonMini](https://github.com/emsec/ChameleonMini) - The ChameleonMini is a versatile contactless smartcard emulator compliant to NFC. The ChameleonMini was developed by https://kasper-oswald.de.  The device is available at https://shop.kasper.it. For further information see the Getting Started Page https://rawgit.com/emsec/ChameleonMini/master/Doc/Doxygen/html/_page__getting_started.html or the Wiki tab above.
-* [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
-* [Pithikos/C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - A minimal but powerful thread pool in ANSI C
-* [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux
-* [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
-* [iPlug2/iPlug2](https://github.com/iPlug2/iPlug2) - C++ Audio Plug-in Framework for desktop, mobile and web
-* [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
-* [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
-* [gurnec/HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
-* [igraph/igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
-* [rsta2/circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
-* [golang-ui/nuklear](https://github.com/golang-ui/nuklear) - This project provides Go bindings for nuklear.h — a small ANSI C GUI library.
-* [rougier/freetype-gl](https://github.com/rougier/freetype-gl) - OpenGL text using one vertex buffer, one texture and FreeType
-* [emweb/wt](https://github.com/emweb/wt) - Wt, C++ Web Toolkit
-* [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C
-* [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 * [jarikomppa/soloud](https://github.com/jarikomppa/soloud) - Free, easy, portable audio engine for games
 * [yitter/IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。
-* [samtools/samtools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data
-* [RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid) - Performance monitoring and benchmarking suite
-* [codeplea/genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
-* [SpenceKonde/ATTinyCore](https://github.com/SpenceKonde/ATTinyCore) - Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8
-* [letoram/arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -> "Desktop Engine"
-* [brektrou/rtl8821CU](https://github.com/brektrou/rtl8821CU) - Realtek RTL8811CU/RTL8821CU USB Wi-Fi adapter driver for Linux
-* [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit
-* [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64)
-* [flutter/codelabs](https://github.com/flutter/codelabs) - Flutter codelab examples
-* [eclipse/mraa](https://github.com/eclipse/mraa) - Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
-* [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
-* [armink/CmBacktrace](https://github.com/armink/CmBacktrace) - Advanced fault backtrace library for ARM Cortex-M series MCU | ARM Cortex-M 系列 MCU 错误追踪库
-* [rui314/minilisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C
-* [tsherif/space-shooter.c](https://github.com/tsherif/space-shooter.c) - A cross-platform, top-down 2D space shooter written in C using only platform libraries.
-* [brenns10/lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here ->
-* [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
-* [danielwaterworth/Raphters](https://github.com/danielwaterworth/Raphters) - [DEPRECATED] A web framework for C.
-* [ands/lightmapper](https://github.com/ands/lightmapper) - A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
-* [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
-* [joan2937/pigpio](https://github.com/joan2937/pigpio) - pigpio is a C library for the Raspberry which allows control of the General Purpose Input Outputs (GPIO).
-* [miniupnp/miniupnp](https://github.com/miniupnp/miniupnp) - UPnP IGD implementation
-* [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
-* [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee) - Bumblebee daemon and client rewritten in C
-* [gbdk-2020/gbdk-2020](https://github.com/gbdk-2020/gbdk-2020) - An updated version of GBDK, A C compiler, assembler, linker and set of libraries for the Z80 like Nintendo Gameboy.
-* [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
-* [trailofbits/ctf](https://github.com/trailofbits/ctf) - CTF Field Guide
-* [LIJI32/SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C
-* [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
-* [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
-* [mltframework/mlt](https://github.com/mltframework/mlt) - MLT Multimedia Framework
-* [Visgean/Zeus](https://github.com/Visgean/Zeus) - NOT MY CODE! Zeus trojan horse - leaked in 2011, I am not the author. This repository is for study purposes only, do not message me about your lame hacking attempts.
-* [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations
-* [dekuNukem/bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder) - Renew and Refill Bob Cassettes for 98% Cost Saving!
-* [cnlohr/channel3](https://github.com/cnlohr/channel3) - ESP8266 Analog Broadcast Television Interface
-* [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
-* [alexfru/SmallerC](https://github.com/alexfru/SmallerC) - Simple C compiler
-* [bloomberg/comdb2](https://github.com/bloomberg/comdb2) - Bloomberg's distributed RDBMS
-* [chenyahui/AnnotatedCode](https://github.com/chenyahui/AnnotatedCode) - 知名开源代码库的注释版：C++、Golang等
-* [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
-* [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
-* [kgabis/parson](https://github.com/kgabis/parson) - Lightweight JSON library written in C.
-* [xiph/flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
-* [AllAlgorithms/c](https://github.com/AllAlgorithms/c) - Implementation of All ▲lgorithms in C Programming Language
-* [Cyan4973/FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0
-* [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
-* [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-* [profanity-im/profanity](https://github.com/profanity-im/profanity) - Ncurses based XMPP client
-* [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
-* [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
-* [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
-* [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf) - :diamond_shape_with_a_dot_inside: Single-file glTF 2.0 loader and writer written in C99
-* [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files.
-* [chentao0707/QrCodeScan](https://github.com/chentao0707/QrCodeScan) - Android手机客户端二维码扫描
-* [dariomanesku/cmftStudio](https://github.com/dariomanesku/cmftStudio) - cmftStudio - GUI counterpart for:
-* [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
-* [eclipse/paho.mqtt.embedded-c](https://github.com/eclipse/paho.mqtt.embedded-c) - Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)
-* [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
-* [libsndfile/libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data.
-* [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game
-* [vonzhou/CSAPP](https://github.com/vonzhou/CSAPP) - CSAPP,《深入理解计算机系统结构》2nd ，阅读与实践！
-* [tanakh/cmdline](https://github.com/tanakh/cmdline) - A Command Line Parser
-* [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
-* [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
-* [kuba--/zip](https://github.com/kuba--/zip) - A portable, simple zip library written in C
-* [switchbrew/libnx](https://github.com/switchbrew/libnx) - Library for Switch Homebrew
-* [libssh2/libssh2](https://github.com/libssh2/libssh2) - the SSH library
-* [ucb-bar/chipyard](https://github.com/ucb-bar/chipyard) - An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
-* [grimfang4/sdl-gpu](https://github.com/grimfang4/sdl-gpu) - A library for high-performance, modern 2D graphics with SDL written in C.
-* [haywire/haywire](https://github.com/haywire/haywire) - Haywire is an asynchronous HTTP server framework written in C that's built using the event loop based libuv platform layer that node.js is built on top of.
-* [vgmstream/vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream - A library for playback of various streamed audio formats used in video games.
 * [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-* [contiki-ng/contiki-ng](https://github.com/contiki-ng/contiki-ng) - Contiki-NG: The OS for Next Generation IoT Devices
-* [mupen64plus/mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) - Core module of the Mupen64Plus project
-* [ninia/jep](https://github.com/ninia/jep) - Embed Python in Java
-* [doonny/PipeCNN](https://github.com/doonny/PipeCNN) - An OpenCL-based FPGA Accelerator for Convolutional Neural Networks
-* [Sapd/HeadsetControl](https://github.com/Sapd/HeadsetControl) - Sidetone and Battery status for Logitech G930, G533, G633, G933 SteelSeries Arctis 7/PRO 2019 and Corsair VOID (Pro) in Linux and MacOSX
-* [zpl-c/librg](https://github.com/zpl-c/librg) - 🚀  Making multi-player gamedev simpler since 2017
-* [cisco-system-traffic-generator/trex-core](https://github.com/cisco-system-traffic-generator/trex-core) - trex-core site
-* [y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack](https://github.com/y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack) - linux内核网络协议栈源码阅读分析注释--带详尽中文分析注释以及相关流程分析调用注释，对理解分析内核协议栈源码很有帮助
-* [traildb/traildb](https://github.com/traildb/traildb) - TrailDB is an efficient tool for storing and querying series of events
-* [csound/csound](https://github.com/csound/csound) - Main repository for Csound
-* [mkirchner/gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
-* [Fazecast/jSerialComm](https://github.com/Fazecast/jSerialComm) - Platform-independent serial port access for Java
-* [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
-* [zeromq/czmq](https://github.com/zeromq/czmq) - High-level C binding for ØMQ
-* [kokke/tiny-regex-c](https://github.com/kokke/tiny-regex-c) - Small portable regex in C
-* [scottcgi/Mojoc](https://github.com/scottcgi/Mojoc) - A cross-platform, open-source, pure C  game engine for mobile game.
-* [vurtun/lib](https://github.com/vurtun/lib) - single header libraries for C/C++
-* [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language.
-* [zedshaw/learn-c-the-hard-way-lectures](https://github.com/zedshaw/learn-c-the-hard-way-lectures) - All of the code from Learn C The Hard Way, each project, plus the presentation slides used in the videos.
-* [tj/mon](https://github.com/tj/mon) - mon(1) - Simple single-process process monitoring program written in C
-* [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
-* [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
-* [laruence/yaconf](https://github.com/laruence/yaconf) - A PHP Persistent Configurations Container
-* [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
-* [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe)
-* [tass-belgium/picotcp](https://github.com/tass-belgium/picotcp) - PicoTCP is a free TCP/IP stack implementation
-* [h0mbre/Learning-C](https://github.com/h0mbre/Learning-C) - A series of mini-projects used to learn C for beginners
-* [cloudflare/cloudflare-blog](https://github.com/cloudflare/cloudflare-blog) - Cloudflare Blog code samples
-* [ustcwpz/USTC-CS-Courses-Resource](https://github.com/ustcwpz/USTC-CS-Courses-Resource) - USTC计算机学院课程资源
-* [linux-rdma/rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
-* [miao1007/Openwrt-NetKeeper](https://github.com/miao1007/Openwrt-NetKeeper) - [C/C++] Run Netkeeper on OpenWrt Device
-* [FRiCKLE/ngx_cache_purge](https://github.com/FRiCKLE/ngx_cache_purge) - nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches.
-* [glouw/ctl](https://github.com/glouw/ctl) - The C Template Library
-* [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
 * [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
 * [PortAudio/portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
 * [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
@@ -445,33 +514,10 @@ A curated list of awesome C frameworks, libraries and software.
 * [uclouvain/openjpeg](https://github.com/uclouvain/openjpeg) - Official repository of the OpenJPEG project
 * [happyfish100/libfastcommon](https://github.com/happyfish100/libfastcommon) - c common functions library extracted from my open source project FastDFS. this library is very simple and stable.  functions including: string, logger, chain, hash, socket, ini file reader, base64 encode / decode, url encode / decode, fast timer, skiplist, object pool etc. detail info please see the c header files.
 * [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
-* [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
-* [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
-* [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
-* [clibs/clib](https://github.com/clibs/clib) - C package manager-ish
-* [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
-* [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
-* [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
-* [nigels-com/glew](https://github.com/nigels-com/glew) - The OpenGL Extension Wrangler Library
-* [cloudwu/coroutine](https://github.com/cloudwu/coroutine) - A asymmetric coroutine library for C.
-* [networkprotocol/yojimbo](https://github.com/networkprotocol/yojimbo) - A network library for client/server games written in C++
-* [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
-* [stm32duino/Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
-* [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
-* [chjj/compton](https://github.com/chjj/compton) - A compositor for X11.
-* [concurrencykit/ck](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.
-* [zauonlok/renderer](https://github.com/zauonlok/renderer) - A shader-based software renderer written from scratch in C89
-* [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
-* [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-* [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
-* [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS
-* [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
-* [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 * [crownengine/crown](https://github.com/crownengine/crown) - The flexible game engine.
 * [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized
 * [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
 * [luohaha/Chinese-uvbook](https://github.com/luohaha/Chinese-uvbook) - 翻译的libuv的中文教程
-* [asterisk/asterisk](https://github.com/asterisk/asterisk) -  Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 * [chobits/ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling
 * [h3xduck/TripleCross](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 * [DeaDBeeF-Player/deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player
@@ -488,63 +534,19 @@ A curated list of awesome C frameworks, libraries and software.
 * [sheredom/utf8.h](https://github.com/sheredom/utf8.h) - 📚 single header utf8 string functions for C and C++
 * [protocolbuffers/upb](https://github.com/protocolbuffers/upb) - a small protobuf implementation in C
 * [free-audio/clap](https://github.com/free-audio/clap) - Audio Plugin API
-* [Softmotions/ejdb](https://github.com/Softmotions/ejdb) - :snowboarder: EJDB2 — Embeddable JSON Database engine C library. Simple XPath like query language (JQL). Websockets / Android / iOS / React Native / Flutter / Java / Dart / Node.js bindings. Docker image.
-* [cesanta/v7](https://github.com/cesanta/v7) - Embedded JavaScript engine for C/C++
-* [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 * [hfiref0x/KDU](https://github.com/hfiref0x/KDU) - Kernel Driver Utility
-* [libtom/libtomcrypt](https://github.com/libtom/libtomcrypt) - LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
 * [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) - Using Zygisk to dump il2cpp data at runtime
 * [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
-* [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
-* [danigargu/CVE-2020-0796](https://github.com/danigargu/CVE-2020-0796) - CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost
-* [cr-marcstevens/sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file
-* [session-replay-tools/cetus](https://github.com/session-replay-tools/cetus) - Cetus is a high performance middleware that provides transparent routing between your application and any backend MySQL Servers.
-* [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
-* [armon/bloomd](https://github.com/armon/bloomd) - C network daemon for bloom filters
-* [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++
-* [json-parser/json-parser](https://github.com/json-parser/json-parser) - Very low footprint DOM-style JSON parser written in portable ANSI C
-* [gentilkiwi/kekeo](https://github.com/gentilkiwi/kekeo) - A little toolbox to play with Microsoft Kerberos in C
-* [agavrel/42_CheatSheet](https://github.com/agavrel/42_CheatSheet) - A comprehensive guide to 50 years of evolution of strict C programming, a tribute to Dennis Ritchie's language
-* [0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc) - 2023年，最新音视频学习资料整理，项目（调试可用），ffmpeg命令手册，文章，编解码论文，视频讲解，面试题全套资料
-* [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
-* [dibyendumajumdar/ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
-* [zlib-ng/minizip-ng](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution.
-* [hyperrealm/libconfig](https://github.com/hyperrealm/libconfig) - C/C++ library for processing configuration files
-* [rustyrussell/ccan](https://github.com/rustyrussell/ccan) - The C Code Archive Network
-* [appneta/tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools for *NIX and Windows - Users please download source from
-* [Battelle/movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
-* [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
-* [willemt/raft](https://github.com/willemt/raft) - C implementation of the Raft Consensus protocol, BSD licensed
-* [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine
-* [nicklockwood/FastCoding](https://github.com/nicklockwood/FastCoding) - A faster and more flexible binary file format replacement for NSCoding, Property Lists and JSON
-* [tekknolagi/carp](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes.
-* [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag.
-* [msteinbeck/tinyspline](https://github.com/msteinbeck/tinyspline) - ANSI C library for NURBS, B-Splines, and Bézier curves with interfaces for C++, C#, D, Go, Java, Javascript, Lua, Octave, PHP, Python, R, and Ruby.
-* [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
-* [examplecode/mproxy](https://github.com/examplecode/mproxy) - c 语言实现的一个最小的http代理，支持翻墙
-* [rxi/fe](https://github.com/rxi/fe) - A tiny, embeddable language implemented in ANSI C
-* [libretro/common-shaders](https://github.com/libretro/common-shaders) - Collection of commonly used Cg shaders. These shaders are usable by either HLSL and/or Cg runtime compilers. The cg2glsl script will translate most of these into GLSL shaders.
 * [sheepdog/sheepdog](https://github.com/sheepdog/sheepdog) - Distributed Storage System for QEMU
-* [dddrrreee/cs140e-20win](https://github.com/dddrrreee/cs140e-20win) - cs140e course materials.
-* [brutal-org/brutal](https://github.com/brutal-org/brutal) - 🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
-* [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)
-* [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr) - The Official Arduino AVR core
-* [OpenEtherCATsociety/SOEM](https://github.com/OpenEtherCATsociety/SOEM) - Simple Open Source EtherCAT Master
-* [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
-* [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
-* [mackron/dr_libs](https://github.com/mackron/dr_libs) - Audio decoding libraries for C/C++, each in a single source file.
 * [bryanpkc/corkscrew](https://github.com/bryanpkc/corkscrew) - A tool for tunneling SSH through HTTP proxies
 * [JLErvin/berry](https://github.com/JLErvin/berry) - :strawberry: A healthy, byte-sized window manager
 * [libcheck/check](https://github.com/libcheck/check) - A unit testing framework for C
 * [susam/uncap](https://github.com/susam/uncap) - Map Caps Lock to Escape or any key to any key
-* [hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS) - 哈尔滨工业大学（深圳）计算机专业课程攻略 | Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)
-* [pimoroni/pimoroni-pico](https://github.com/pimoroni/pimoroni-pico) - Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.
 * [antirez/rax](https://github.com/antirez/rax) - A radix tree implementation in ANSI C
 * [embox/embox](https://github.com/embox/embox) - Modular and configurable OS for embedded applications
 * [alibaba/ApsaraCache](https://github.com/alibaba/ApsaraCache) - ApsaraCache is a Redis branch originated from Alibaba Group.
 * [kkkgo/vlmcsd](https://github.com/kkkgo/vlmcsd) - 🔑Portable open-source KMS Emulator in C
 * [wangkuiwu/datastructs_and_algorithm](https://github.com/wangkuiwu/datastructs_and_algorithm) - Data struct and algorithm introduction and implementation in C/C++/Java.
-* [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
 * [olilarkin/wdl-ol](https://github.com/olilarkin/wdl-ol) - Enhanced version of Cockos' iPlug - A simple-to-use C++ framework for developing cross platform audio plugins and targeting multiple plugin APIs with the same code. VST / VST3 / Audiounit / RTAS / AAX (Native) formats supported. NOTE: THIS IS OBSOLETE, PLEASE SEE IPLUG2:
 * [babelouest/ulfius](https://github.com/babelouest/ulfius) - Web Framework to build REST APIs, Webservices or any HTTP endpoint in C language. Can stream large amount of data, integrate JSON data with Jansson, and create websocket services
 * [HandmadeMath/HandmadeMath](https://github.com/HandmadeMath/HandmadeMath) - A simple math library for games and computer graphics. Compatible with both C and C++.
@@ -555,7 +557,6 @@ A curated list of awesome C frameworks, libraries and software.
 * [timwr/CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
 * [halfer53/winix](https://github.com/halfer53/winix) - A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)
 * [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
-* [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 * [RedisLabs/redis-cluster-proxy](https://github.com/RedisLabs/redis-cluster-proxy) - A proxy for Redis clusters.
 * [jserv/amacc](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable Arm architecture, supporting JIT execution
 * [lxc/lxcfs](https://github.com/lxc/lxcfs) - FUSE filesystem for LXC
