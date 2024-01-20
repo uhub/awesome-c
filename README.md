@@ -389,6 +389,7 @@ A curated list of awesome C frameworks, libraries and software.
 * [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
 * [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
 * [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc) - Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C
+* [spaskalev/buddy_alloc](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs.
 * [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 * [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
 * [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
