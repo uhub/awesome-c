@@ -1038,3 +1038,4 @@ A curated list of awesome C frameworks, libraries and software.
 * [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 * [vxunderground/VX-API](https://github.com/vxunderground/VX-API) - Collection of various WINAPI tricks / features used or abused by Malware
 * [particle-iot/device-os](https://github.com/particle-iot/device-os) - Device OS (Firmware) for Particle Devices
+* [q16-fixed-exp](https://github.com/OscarJ12/eudic) – Fast Q16.16 fixed-point exp()/exp_p()/exp_n() for Cortex-M (no FPU), C + armv7m asm
