@@ -1057,3 +1057,4 @@ A curated list of awesome C frameworks, libraries and software.
 * [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 * [vxunderground/VX-API](https://github.com/vxunderground/VX-API) - Collection of various WINAPI tricks / features used or abused by Malware
 * [particle-iot/device-os](https://github.com/particle-iot/device-os) - Device OS (Firmware) for Particle Devices
+* [Skrebnevf/cMistral](https://github.com/Skrebnevf/cMistral) - C library for Mistral AI API
