@@ -2,6 +2,7 @@
 
 A curated list of awesome C frameworks, libraries and software.
 
+* [Vaishnav-Sabari-Girish/sbor](https://github.com/Vaishnav-Sabari-Girish/sbor) - A Project Manager for C, inspired by `cargo`
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 * [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
