@@ -2,6 +2,7 @@
 
 A curated list of awesome C frameworks, libraries and software.
 
+* [Vaishnav-Sabari-Girish/sbor](https://github.com/Vaishnav-Sabari-Girish/sbor) - A Project Manager for C, inspired by `cargo`
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 * [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
